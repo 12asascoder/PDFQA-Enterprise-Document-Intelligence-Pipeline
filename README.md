@@ -174,6 +174,76 @@ sudo systemctl start clamav-daemon
 
 If ClamAV is not installed, the pipeline will log a warning and skip virus scanning.
 
+### 4. Downloading the Dataset
+
+If anyone wants to download the whole dataset, just download it using the following steps and place it in the `pdfQA-Benchmark` folder.
+
+[pdfQA-Benchmark Dataset](https://huggingface.co/datasets/pdfqa/pdfQA-Benchmark/tree/main/real-pdfQA/01.2_Input_Files_PDF)
+
+#### Method 1 (Recommended): Git LFS
+
+**Step 1: Install Git LFS**
+- **macOS (Homebrew)**: `brew install git-lfs`
+- **Ubuntu**: `sudo apt install git-lfs`
+- **Windows**: Download from [git-lfs.com](https://git-lfs.com/)
+
+**Step 2: Initialize Git LFS**
+```bash
+git lfs install
+```
+
+**Step 3: Clone the Dataset**
+Open Terminal, navigate to where you want the dataset (e.g., `cd ~/Documents`), then run:
+```bash
+git clone https://huggingface.co/datasets/pdfqa/pdfQA-Benchmark
+```
+Git LFS will automatically download all PDF files. After completion, you'll have:
+```text
+pdfQA-Benchmark/
+└── real-pdfQA/
+    └── 01.2_Input_Files_PDF/
+        ├── ClimRetrieve/
+        ├── ClimateFinanceBench/
+        ├── FeTaQA/
+        ├── FinQA/
+        ├── FinanceBench/
+        ├── NaturalQuestions/
+        ├── PaperTab/
+        ├── PaperText/
+        └── Tat-QA/
+```
+
+#### Method 2 (Recommended if you only want the PDFs)
+
+Install the Hugging Face CLI:
+```bash
+pip install -U "huggingface_hub[cli]"
+```
+Now download only the PDF folder (this downloads only the `01.2_Input_Files_PDF` directory instead of the entire repository):
+```bash
+huggingface-cli download pdfqa/pdfQA-Benchmark \
+    --repo-type dataset \
+    --local-dir pdfQA-Benchmark \
+    --include "real-pdfQA/01.2_Input_Files_PDF/**"
+```
+
+#### Method 3 (Python)
+
+You can also use Python to download it:
+```python
+from huggingface_hub import snapshot_download
+
+snapshot_download(
+    repo_id="pdfqa/pdfQA-Benchmark",
+    repo_type="dataset",
+    local_dir="pdfQA-Benchmark",
+    allow_patterns=["real-pdfQA/01.2_Input_Files_PDF/*"]
+)
+```
+
+#### Verifying the Download
+After downloading using any method, you should see multiple PDF files inside the respective subdirectories under `pdfQA-Benchmark/real-pdfQA/01.2_Input_Files_PDF/`.
+
 ---
 
 ## ▶️ Execution

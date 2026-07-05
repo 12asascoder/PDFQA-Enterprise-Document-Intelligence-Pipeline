@@ -1,0 +1,19 @@
+# Dataset
+pdfQA-Benchmark/
+
+# Extracted output
+extracted_files/
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtual env
+.venv/
+venv/
