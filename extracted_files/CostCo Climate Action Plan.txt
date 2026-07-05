@@ -1,0 +1,500 @@
+--- Document Metadata ---
+Title: 5a. Climate Action Plan 2024 - Costco Wholesale
+Author: Costco Wholesale
+Created: D:20240112222939Z
+Pages: 15
+--- End Metadata ---
+
+Climate Action
+Plan
+Our 2023 Climate Action Plan shares an update on the progress
+we made this year and explains our future plans to advance
+our work on climate-related issues.
+Introduction Our approach to addressing our climate impacts is rooted in our
+sustainability principles, with a strong emphasis that we are learning
+as we go and seeking continuous improvement. This year’s Climate
+Action Plan update is a reflection of that learning and progress we
+have made to address our impact on global climate change. This
+section outlines our efforts to reduce emissions across our business,
+build supply chain resilience, and reduce our environmental impact.
+The viability of our Climate Action Plan depends upon many external
+factors that may be directly or indirectly beyond our control and
+include: our suppliers’ ability to meet our expectations,
+socio-economic and public health risks, the direct and indirect
+impacts of global climate change on our operations and global value
+chain, changes in the international and national policy and regulatory
+landscape, permitting requirements, the availability of refrigerant
+equipment and low-GWP refrigerant alternatives, the availability of
+qualified refrigerant and HVAC service providers, requisite supply of
+clean energy. Supply chain volatility, energy and commodity pricing,
+regulatory signals, and shifting member preferences and stakeholder
+attitudes also are material factors that can impact our Climate Action
+Plan timeline. The data reported is compiled from sources that we
+believe are reasonable to rely on at the time of publication, may
+change as new information becomes available, and future reports may
+change accordingly.
+
+[Table 1 — Page 1]
+
+Climate Action Plan
+Our 2023 Climate Action Plan shares an update on the progress we made this year and explains our future plans to advance our work on climate-related issues. Introduction Our approach to addressing our climate impacts is rooted in our sustainability principles, with a strong emphasis that we are learning as we go and seeking continuous improvement. This year’s Climate Action Plan update is a reflection of that learning and progress we have made to address our impact on global climate change. This section outlines our efforts to reduce emissions across our business, build supply chain resilience, and reduce our environmental impact. The viability of our Climate Action Plan depends upon many external factors that may be directly or indirectly beyond our control and include: our suppliers’ ability to meet our expectations, socio-economic and public health risks, the direct and indirect impacts of global climate change on our operations and global value chain, changes in the international and national policy and regulatory landscape, permitting requirements, the availability of refrigerant equipment and low-GWP refrigerant alternatives, the availability of qualified refrigerant and HVAC service providers, requisite supply of clean energy. Supply chain volatility, energy and commodity pricing, regulatory signals, and shifting member preferences and stakeholder attitudes also are material factors that can impact our Climate Action Plan timeline. The data reported is compiled from sources that we believe are reasonable to rely on at the time of publication, may change as new information becomes available, and future reports may change accordingly. 1
+
+[Table 2 — Page 1]
+| 1 | | |
+
+Our Climate Action Plan:
+Aligns with regulatory requirements and global standards: We
+incorporate regulatory requirements, certain global standards and
+industry guidance across measurement, disclosure and reporting and
+will continue to monitor evolving standards and guidance. These
+frameworks and standards continue to inform our approach to climate
+action1.
+Includes an accountability and governance model for climate
+progress: Our approach to governance and reporting is aligned with
+the Task Force for Climate-Related Financial Disclosures (TCFD) and
+the Sustainability Accounting Standards Board (SASB), both part of
+the International Sustainability Standards Board (ISSB) standards.
+More information can be found on the Governance & Reporting
+section of our Sustainability Commitment.
+1 While we have not adopted Science Based Targets, we actively consider SBTi’s
+Corporate Net Zero Standard as a framework for ambitious climate strategy and will
+continue to utilize SBTi’s guidance. Solutions must be operationally viable and fulfill
+our obligations to our shareholders, employees, members, suppliers, and the
+communities we serve. Additional guidelines and frameworks we consider include the
+GHG Protocol Accounting & Reporting Standard, TCFD, TNFD, IPCC, COP, SDGs,
+and CDP.
+
+[Table 1 — Page 2]
+O | ur Climate Action Plan:
+
+[Table 2 — Page 2]
+|
+
+[Table 3 — Page 2]
+| 2 | | |
+
+Provides transparent disclosure: Transparency and disclosure of our
+progress toward our climate goals are important. We believe in
+measuring our progress and sharing what we have learned with our
+community and stakeholders. We currently disclose to industry-wide
+forums, such as CDP-Climate and CDP-Forests, and we offer detailed
+information about our projects and efforts via our Sustainability
+Commitment website.
+Supports a holistic approach to climate: We have aligned our
+sustainability efforts and initiatives related to climate using a holistic
+and integrated approach. Climate has a number of interdependent
+issues, in addition to emissions, that we consider. These include but
+are not limited to: water, forests, biodiversity and a just transition for
+people and communities. While we focus on our emissions progress in
+this year’s update, in fiscal year (FY) 2024, we will also be working on
+our global water strategy and analyzing select supply chains for
+biodiversity risk.
+Over the past few years, we have made strides in our climate journey.
+Emissions
+Our Scope 1 and 2 emissions work is more mature, having started
+Executive with the inception of our STAR Program (more information can be
+found in the Operations section of our Sustainability Commitment) in
+Summary
+2021, and helps us prepare for Scope 3 improvement in a way that
+resonates with our culture. To meet our decarbonization goals for
+Scopes 1, 2 and 3, we need our employees to contribute in innovative
+ways, from reinforcing programs that have been in place to changing
+practices going forward. This requires broadening awareness and
+learning and implementing new policies and procedures.
+We have been able to use learnings generated from work on climate
+within our own direct control to inform our Scope 3 emissions strategy
+and approach. As a result, there are common themes to our approach
+across all scopes, such as broadening awareness, providing
+education, shifting toward clean energy, and focusing on resource
+efficiency and efficient transportation. In addition, our approach to
+reducing emissions is to set targets accompanied with pragmatic
+action plans that we believe will help us reach these targets.
+
+[Table 1 — Page 3]
+Sustainability |
+
+[Table 2 — Page 3]
+| 3 | | |
+
+Across the entire business, notable accomplishments of the past year
+include:
+● Launched a Global Energy Strategy to address Scope 1 and 2
+emissions in our operations portfolio and a Scope 3 Energy
+Transition Strategy targeting our Tier 1 and 2 suppliers.
+● To make progress in Scope 2, continued to increase clean
+energy2 procurement, which as of the end of calendar year
+2022 represented 19%3 of our global purchased energy and is
+on track to meet our 100% clean energy commitment by 2035.
+● Developed a Scope 3 emissions intensity reduction target and
+action plan (see below).
+● Reported all scopes for FY20, FY21 and FY22 (all third-party
+verified) to CDP Climate in July 2023 and participated in CDP
+Supply Chain, which requests our top 500 suppliers to disclose
+their Scope 1, 2 and 3 emissions to CDP.
+● Submitted our CDP Forests report for the second year in a row,
+disclosing our metrics on key forestry commodities that are
+related to climate change.
+● Invested in our technology and data infrastructure to build a
+platform for reporting and measurement across all scopes.
+Our emissions footprint across all three scopes for FY22 totaled to
+174M MT CO2e, up 10% from FY21 on an absolute basis. Our Scope
+1 emissions increased 15%, driven by bunker fuel related to the
+vessels Costco chartered due to the global pandemic. Costco has
+ceased this activity and will no longer incur these Scope 1 emissions
+in FY24. If one excludes this activity, our FY22 Scope 1 emissions
+were flat, despite our sales and square footage growth.
+Our Scope 2 market-based emissions, despite our growth, decreased
+3% over the past year, driven by purchasing more clean energy.
+Scope 3 emissions increased 10% — mostly driven by the increase in
+demand of our gas business, as well as a strong general merchandise
+sales growth rate.
+2 Clean energy for us includes solar, wind, hydroelectric, geothermal, nuclear and
+bioenergy.
+3 Clean energy procurement shown on a calendar year basis to align with clean
+energy procurement contracts and U.S. grid emission factors.
+
+[Table 1 — Page 4]
+| 4 | | |
+
+We recognize the significant opportunity to decarbonize our global
+Scope 1 & 2
+operations, from our warehouses to our depots and business centers.
+Emissions We also understand that our climate and energy-focused efforts in our
+operations can create near and long-term business value through
+lower operating costs, reliable, clean energy supply to power our
+warehouses, depots and business centers, and more resilient
+infrastructure.
+4 Inflation adjustment is based on U.S. CPI-U Index: City Average All Items Less
+Energy published by the Bureau of Labor Statistics.
+
+[Table 1 — Page 5]
+|
+|
+
+[Table 2 — Page 5]
+| 5 | | |
+
+Our Scope 1 and 2 Reduction Target
+We have committed to an ambitious Scope 1 and Scope 2 emission
+reduction target: 39% absolute reduction by 2030 compared to our
+2020 base year. We have also committed to power our operations with
+100% clean energy by 2035. To achieve these ambitious targets, we
+are evaluating, piloting and implementing a range of initiatives in our
+warehouses, expanding our procurement of clean energy and
+enhancing our framework to measure and monitor progress toward
+our goals.
+Our Scope 1 and 2 Action Plan
+Our Global Energy Strategy is the foundation of our Scope 1 and
+Scope 2 Action Plan. Led by select members of our executive
+leadership team, this cross-functional strategy focuses on five areas:
+Energy Supply: Our priority is to purchase clean energy and integrate
+on-site energy generation systems when operationally and financially
+feasible. Since 2020, we have been using a portfolio-wide approach to
+procure, generate and use clean energy in our operations. Where
+clean energy procurement or on-site generation may not be feasible,
+we acquire source-specific power with the verified emissions-free
+certificates (EFEC, REC) to reduce our Scope 2 emissions.
+Emissions-Free Energy Certificates
+During 2023 we contracted to purchase certified, time-stamped 24/7 clean power for 124
+warehouses across nine states. The clean power is sourced with hourly attributes, either
+Emissions-Free Energy Certificates (EFECs) or Renewable Energy Certificates (RECs), for 100%
+of the energy, 24/7. These time-stamped certificates demonstrate both where the clean energy is
+generated and the hour and date of production.
+
+[Table 1 — Page 6]
+Emissions-Free Energy Certificates During 2023 we contracted to purchase certified, time-stamped 24/7 clean power for 124 warehouses across nine states. The clean power is sourced with hourly attributes, either Emissions-Free Energy Certificates (EFECs) or Renewable Energy Certificates (RECs), for 100%
+During 2023 we contracted to purchase certified, time-stamped 24/7 clean power for 124 warehouses across nine states. The clean power is sourced with hourly attributes, either Emissions-Free Energy Certificates (EFECs) or Renewable Energy Certificates (RECs), for 100%
+of the energy, 24/7. These time-stamped certificates demonstrate both where the clean energy is generated and the hour and date of production.
+
+[Table 2 — Page 6]
+
+
+[Table 3 — Page 6]
+| 6 | | |
+
+Energy Efficiency: Increasing the energy efficiency of our
+warehouses, depots and business centers is crucial to long-term
+decarbonization as well as creating energy cost savings and financial
+return on our investment. We are implementing programs to improve
+the efficiency of heating, ventilation, air conditioning (HVAC) and
+refrigeration systems, light fixtures and other aspects of our
+warehouse operations.
+Refrigeration: Fugitive emissions is an area of continued focus to
+reduce the harmful impacts from hydrofluorocarbons and other gases
+from the refrigeration systems in our operations. We are committed to
+accelerating the phase-out of HFCs and increasing our investment in
+refrigeration retrofits to reduce refrigerant emission Global Warming
+Potential (GWP) by 30% by 2030 as compared to our 2020 baseline.
+Transportation: We are exploring clean energy for our transportation
+equipment where it makes financial and operational sense. This
+includes testing and deploying electric yard goats, exploring additional
+fleet electrification opportunities and using renewable diesel
+throughout our California depots and business delivery centers. For
+more information, see the “Transportation & Logistics” page in the
+Operations section.
+Design & Site Selection: We understand the impact that the materials
+we use in the construction of our facilities and the locations we
+choose for our warehouses, depots and manufacturing facilities have
+on our carbon footprint and the natural environment. We continue to
+explore ways in which we can minimize our carbon footprint and
+environmental impact with our design and construction choices.
+
+[Table 1 — Page 7]
+| 7 | | |
+
+Where We Are Today
+Since setting our initial Scope 1 and Scope 2 absolute reduction target
+in 2021, we have nearly doubled our 2030 absolute reduction target
+during 2022. In 2023, we further expanded our decarbonization efforts
+across our global footprint. Here are some highlights from FY23:
+● We increased the share of clean energy powering our global
+operations, reaching 19% of our total supply as of the end of
+calendar year 2022.
+● We expanded our onsite generation capabilities at our Mira
+Loma, California, distribution center to include a solar canopy
+and battery storage system to charge our electric yard goats.
+This brings the campus to 3.3MW.
+● We began using renewable diesel to power our depot and
+business center fleets in California, replacing over 2.4 million
+gallons of diesel with renewable diesel.
+● We continued to reduce our use of harmful HFCs, completing
+38 retrofits of our refrigeration systems, replacing harmful R-22
+with lower GWP refrigerants, while also installing seven
+additional CO2-based refrigeration systems globally.
+● We deployed energy-efficient LED lighting to 167 warehouses
+across the U.S., reducing the average wattage by 35%.
+
+[Table 1 — Page 8]
+| 8 | | |
+
+Costco is committed to doing our part to reduce emissions and
+Scope 3
+improve the resilience of our supply chain. Scope 3 emissions, unlike
+Emissions Scope 1 and 2, are outside of our direct control. We will need to rely
+upon and partner with our suppliers to make substantial
+transformation. We have developed a comprehensive approach to our
+Scope 3 emissions that focuses on five key pillars: supplier energy
+transition, regenerative and deforestation-free agriculture, sustainable
+livestock, energy efficient items, and sustainable packaging (described
+in detail below). Underpinning these pillars will be a supplier
+engagement plan, education programs for our merchandising teams,
+and IT infrastructure to support reporting and measurement.
+Our Scope 3 Reduction Target
+We estimate that our five-pillar plan will lead to a 20% reduction in our
+Scope 3 emissions intensity (inflation-adjusted) by 2030 from our
+baseline year of FY20, excluding fuel. We recognize that this Scope 3
+reduction target is not fully aligned to a 1.5-degree pathway. That
+pathway is not currently achievable for us if we are to continue to
+provide for all of our stakeholders. However, we believe this is an
+ambitious yet achievable target based on existing technologies, and
+we continue to explore opportunities for further improvement.
+While we are excluding fuel from the target, we are working to develop
+a separate climate transition plan for our fuel business (see below).
+Our Scope 3 Action Plan
+We believe that the below five pillars are the best path for us to reduce
+our Scope 3 emissions. We hope our supplier efforts in reducing their
+Scope 1 and 2 emissions will lower our Scope 3 emissions and that
+we can learn from these successes to continue to drive change:
+Supplier Energy Transition: One common thread throughout our
+supply chain is the reliance on energy. We believe that supporting our
+suppliers, through educational resources or direct partnership and
+investments to procure, generate and utilize clean energy in their
+operations can help them reduce their Scope 2 emissions.
+
+[Table 1 — Page 9]
+| 9 | | |
+
+Regenerative and Deforestation-Free Agriculture: A significant
+portion of our business is reliant on agriculture-based commodities,
+which are high carbon emitters. We are committed to supporting
+nature-based solutions, such as regenerative agriculture practices.
+These practices also have the benefits of protecting our soils, water
+and biodiversity as well as creating greater resiliency in times of more
+extreme weather events. In FY23, we worked on two pilot programs
+with Cargill and ADM related to regenerative agriculture to help us
+learn more about how to best support the farmers making this
+transition. We are also engaging our suppliers on supply chain
+traceability and supporting them in minimizing risk of sourcing from
+deforestation areas.
+Sustainable Livestock: We sell foods created from animal agriculture
+that can carry higher carbon footprints. We want to do our part to
+reduce the intensity of those emissions. We will focus on collaborating
+with various suppliers, scientists, civil society and animal welfare
+experts to help accomplish this. We recognize that beef can be a
+driver of deforestation in certain regions, and we work to make sure
+our Kirkland SignatureTM items containing beef are not sourced from
+high deforestation risk countries such as Brazil, Argentina, Colombia
+or Paraguay.
+Regenerative Agriculture:
+Cargill
+For an example of what one Costco
+supplier, Cargill, is doing to support
+regenerative agriculture practices, see
+the “Environmental Impacts & Land
+Stewardship” page in our Merchandising
+section. These practices improve crop
+productivity and soil health, support the
+livelihood of farmers and help reduce
+carbon emissions.
+
+[Table 1 — Page 10]
+Regenerative Agriculture: Cargill |
+|
+
+[Table 2 — Page 10]
+| 10 | | |
+
+Energy Efficient Items: We sell items that consume energy. We
+believe that working toward greater energy efficiency with our
+suppliers and leveraging existing energy efficiency certifications (e.g.,
+EnergyStarTM) can help us to reduce our Scope 3 Category 11
+emissions footprint.
+Sustainable Packaging: We have made progress on sustainable
+packaging over the years and will continue to make this a focus. We
+will continue to work with our suppliers to find ways to reduce
+unnecessary packaging, implement reuse models in operations, adopt
+lightweight packaging optimized for shipping efficiencies, and increase
+recycled content opportunities.
+Where We Are Today
+A majority of our Scope 3 emissions come from Category 1
+(Purchased Goods and Services) and Category 11 (Use of Sold
+Product). For Category 1, our emissions are highly concentrated in
+livestock, agriculture (including crops that tend to be drivers of
+deforestation) and manufacturing of the items we sell. For Category
+11, we recognize the role that our fuel business plays (more below)
+and the opportunity to continue to find ways to drive energy efficiency
+in the items we sell.
+
+[Table 1 — Page 11]
+| 11 | | |
+
+Emissions from our fuels business comprise ~40% of Costco’s total
+Fuel Transition
+emissions, largely Scope 3. We are taking actions to directly address
+Plan these emissions, as outlined in this transition plan. At the same time,
+we will continue ensuring that our members have access to affordable
+and high-quality transportation fuels. Similarly, we’re providing
+additional members with the necessary infrastructure to shift toward
+new lower-carbon transportation options such as EVs.
+Overall Action Plan
+We plan to take action across the entire span of the fuels business,
+including emissions upstream of the fuel station, at the fuel station and
+downstream of the station (i.e., combustion).
+Upstream of the fuel station, our focus will be on procuring the lowest
+carbon intensity fuels available. We estimate that ~20% of fuel Scope
+3 emissions stem from Costco’s fuel supply, and can be reduced by
+purchasing from refineries that prioritize clean procurement and
+production. We are engaging fuel suppliers to better understand their
+carbon footprint, climate goals, disclosure protocols and carbon
+reduction initiatives. We also expect this engagement to encourage
+refineries to use cleaner production methods.
+
+[Table 1 — Page 12]
+|
+
+[Table 2 — Page 12]
+| 12 | | |
+
+At the fuel station, we have a high degree of control to influence and
+minimize Scope 1 and Scope 2 emissions. Our efforts to date,
+highlighted in the next section, reflect our commitment to reducing
+negative environmental impact while ensuring members have
+continued access to affordable transportation fuels. To build on this
+progress, we are exploring the use of microgrids to power fuel station
+operations where feasible, and maintaining a focus on purchasing and
+maintaining state-of-the-art fueling equipment to minimize spills and
+vapor loss.
+Emissions are also driven by combustion of fuel in members’ vehicles.
+To combat these emissions, we will continue to use and refine
+proprietary additives in all gasoline fuel grades, which could provide
+an emissions reduction vs. LAC fuels6. We are also focusing on
+enabling members to shift toward lower carbon intensity
+transportation methods when they’re ready. We are closely monitoring
+the market as new technologies evolve (e.g., battery electric vehicles,
+hydrogen fuel cell vehicles and plug-in hybrids) to provide our
+members with the infrastructure necessary to utilize their preferred
+transportation methods.
+To support our members who have already purchased EVs and to
+encourage those considering a purchase, we are expanding our EV
+charging offering, with plans to open fast chargers at 20-plus
+warehouses. Our first fast EV charging station opened in Denver,
+Colorado, in 2023, and is serving as a pilot site to explore how to best
+provide EV charging services.
+6 LAC = Lowest Allowable Concentration; Results shown in scenarios where Kirkland
+SignatureTM Gasoline was tested against the minimum U.S. government-mandated
+detergency gasoline. Outcomes vary based on driving behaviors, engine type and
+vehicle maintenance intervals.
+
+[Table 1 — Page 13]
+| 13 | | |
+
+Where we are today
+Current efforts to minimize emissions and environmental impact
+include initiatives across the fuel station value chain:
+Upstream of the fuel station
+Fuel procurement: We procure only from refineries that are compliant
+with EPA Tier-3 regulations, resulting in some Kirkland Signature fuels
+containing lower sulfur content.
+Biofuels: We offer R99 (99% renewable diesel, 1% USLD #2) at all
+California fuel retail sites providing diesel, and plan to expand R99
+offerings in Washington and Oregon. Renewable diesel has up to a
+~65% lower carbon intensity than petroleum diesel.7
+Fuel delivery: We deliver ~35% of fuels after warehouse close times,
+which reduces delivery truck delivery times and resulting emissions.
+Additionally, over 40,000 fuel deliveries in 2023 were performed by
+carriers with 90% renewable diesel penetration or greater.
+At the fuel station
+Station design: Stations are designed with environmental protection
+in mind. We use double walled and electronically monitored
+underground tanks and piping, continuous remotely monitored leak
+detection with automatic shut down, oil and water separators, trained
+and certified full-time attendants, and best-in-class components
+throughout the station.
+7 California Air Resources Board, LCFS Pathway Certified Carbon Intensities, DOE
+
+[Table 1 — Page 14]
+| 14 | | |
+
+Fuel storage: We upgraded our fuel storage tanks to manage tank
+pressure and minimize release of gasoline vapors through the
+installation of 393 vapor management systems. Combined, these
+efforts equate to an estimated reduction of 1.5k tons of volatile
+organic compounds, 4.6k tons of CO2 and 522k gallons of gasoline.
+Spill management: We use dripless and spitless fuel nozzles that
+yield a 90% reduction in spills, with a corresponding reduction in
+volatile organic compounds released. Additionally, employing full-time
+attendants allows quick response to rare spills.
+Downstream of the fuel station
+EV fast charging: We offer EV charging at over 50 warehouses,
+including locations in the U.S., Canada, Spain, Korea and the United
+Kingdom. Charger speeds range from 7 to 350 kWh, allowing
+members to charge a vehicle in ~30 minutes at our fastest locations.
+Residential charging: We stock residential charging products,
+ensuring members can purchase hardware to enable home charging,
+with speeds allowing vehicles to fully charge overnight.
+EV sales: The Costco Auto Program offers members more than 30
+different EV models through the program’s approved dealer network.
+To date, approximately 90,000 EVs have been purchased via the
+Costco Auto Program.
+EV rentals: Costco Travel offers a selection of electric and hybrid
+rental cars through our rental car suppliers at a variety of locations in
+the U.S., Canada and Europe. While these rentals reflect a small
+percentage of Costco Travel’s rental car production, the category
+continues to grow. For a rental car on CostcoTravel.com, members
+can filter their search results to show “Eco friendly” options to include
+these car categories if available at the location they’re renting from.
+Electric micro-mobility: We sell multiple eBike models and eScooter
+models in the warehouse and on Costco.com.
+Through all these efforts, our goal is to support a just transition by
+providing members with low-cost best-in-class fuels, and
+opportunities to purchase, charge and rent electric vehicles. As the
+energy transition progresses, we look forward to continuing to meet
+members’ energy transportation needs for a variety of vehicle types.
+Updated
+Jan 2024
+
+[Table 1 — Page 15]
+| 15 |
+
+[Table 2 — Page 15]
+Updated Jan 2024 |

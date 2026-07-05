@@ -1,0 +1,230 @@
+[2026-07-05 17:21:17] [INFO    ] [root                ] Logging initialised — pipeline.log + error.log
+[2026-07-05 17:21:17] [INFO    ] [app                 ] === Phase 1: Dataset Download ===
+[2026-07-05 17:21:17] [INFO    ] [downloader.dataset_downloader] Dataset found — 1 PDFs already present in /Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/dataset.  Skipping download.
+[2026-07-05 17:21:17] [INFO    ] [app                 ] === Phase 2: Pipeline Initialisation ===
+[2026-07-05 17:21:17] [INFO    ] [app                 ] === Phase 3: Launching 4 workers ===
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-1 started
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-2 started
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-3 started
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-4 started
+[2026-07-05 17:21:17] [INFO    ] [app                 ] === Phase 4: Controller ===
+[2026-07-05 17:21:17] [WARNING ] [validation.virus_scanner] ClamAV is not available — virus scanning will be skipped.  Install ClamAV (clamd) for full protection.
+[2026-07-05 17:21:17] [INFO    ] [controller.controller] Controller started — scanning /Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/dataset
+[2026-07-05 17:21:17] [INFO    ] [controller.controller] Found 1 PDF files
+[2026-07-05 17:21:17] [INFO    ] [validation.validator] Validation PASSED — smoke_test.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:21:17] [INFO    ] [controller.controller] Enqueued: smoke_test.pdf
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-1 processing smoke_test.pdf
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-4 received shutdown signal
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-2 received shutdown signal
+[2026-07-05 17:21:17] [INFO    ] [extraction.hybrid_extractor] Extracting smoke_test.pdf — 1 pages
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-4 finished — processed=0, succeeded=0, failed=0
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-3 received shutdown signal
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-2 finished — processed=0, succeeded=0, failed=0
+[2026-07-05 17:21:17] [INFO    ] [extraction.hybrid_extractor] Extraction complete for smoke_test.pdf — pdfplumber=1, OCR=0, empty=0 — 0.0s
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-3 finished — processed=0, succeeded=0, failed=0
+[2026-07-05 17:21:17] [INFO    ] [controller.controller] Controller finished — total=1, enqueued=1, skipped=0, duration=0.0s
+[2026-07-05 17:21:17] [INFO    ] [app                 ] === Phase 5: Waiting for workers ===
+[2026-07-05 17:21:17] [INFO    ] [extraction.layout_detector] Layout for smoke_test.pdf: Detected elements: footer, header, paragraph
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-1 saved smoke_test.txt — pdfplumber=1, OCR=0, empty=0 — 0.0s
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-1 received shutdown signal
+[2026-07-05 17:21:17] [INFO    ] [worker.worker       ] Worker-1 finished — processed=1, succeeded=1, failed=0
+[2026-07-05 17:21:17] [INFO    ] [app                 ] Pipeline completed in 0.0s
+[2026-07-05 17:23:17] [INFO    ] [root                ] Logging initialised — pipeline.log + error.log
+[2026-07-05 17:23:17] [INFO    ] [app                 ] === Phase 1: Dataset Download ===
+[2026-07-05 17:23:17] [INFO    ] [downloader.dataset_downloader] Dataset found — 4312 PDFs already present in /Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/pdfQA-Benchmark/real-pdfQA/01.2_Input_Files_PDF.  Skipping download.
+[2026-07-05 17:23:17] [INFO    ] [app                 ] === Phase 2: Pipeline Initialisation ===
+[2026-07-05 17:23:17] [INFO    ] [app                 ] === Phase 3: Launching 4 workers ===
+[2026-07-05 17:23:17] [INFO    ] [worker.worker       ] Worker-1 started
+[2026-07-05 17:23:17] [INFO    ] [worker.worker       ] Worker-2 started
+[2026-07-05 17:23:17] [INFO    ] [worker.worker       ] Worker-3 started
+[2026-07-05 17:23:17] [INFO    ] [worker.worker       ] Worker-4 started
+[2026-07-05 17:23:17] [INFO    ] [app                 ] === Phase 4: Controller ===
+[2026-07-05 17:23:17] [WARNING ] [validation.virus_scanner] ClamAV is not available — virus scanning will be skipped.  Install ClamAV (clamd) for full protection.
+[2026-07-05 17:23:17] [INFO    ] [controller.controller] Controller started — scanning /Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/pdfQA-Benchmark/real-pdfQA/01.2_Input_Files_PDF
+[2026-07-05 17:23:17] [INFO    ] [controller.controller] Found 4312 PDF files
+[2026-07-05 17:23:17] [INFO    ] [validation.validator] Validation PASSED — 2022 Microsoft Environmental Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:17] [INFO    ] [controller.controller] Enqueued: 2022 Microsoft Environmental Sustainability Report.pdf
+[2026-07-05 17:23:17] [INFO    ] [worker.worker       ] Worker-1 processing 2022 Microsoft Environmental Sustainability Report.pdf
+[2026-07-05 17:23:17] [INFO    ] [extraction.hybrid_extractor] Extracting 2022 Microsoft Environmental Sustainability Report.pdf — 81 pages
+[2026-07-05 17:23:18] [INFO    ] [validation.validator] Validation PASSED — 2022_BXP_ESG_Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:18] [INFO    ] [controller.controller] Enqueued: 2022_BXP_ESG_Report.pdf
+[2026-07-05 17:23:18] [INFO    ] [worker.worker       ] Worker-3 processing 2022_BXP_ESG_Report.pdf
+[2026-07-05 17:23:18] [INFO    ] [extraction.hybrid_extractor] Extracting 2022_BXP_ESG_Report.pdf — 81 pages
+[2026-07-05 17:23:21] [INFO    ] [validation.validator] Validation PASSED — 2023 Lloyds sustainability report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:21] [INFO    ] [controller.controller] Enqueued: 2023 Lloyds sustainability report.pdf
+[2026-07-05 17:23:21] [INFO    ] [worker.worker       ] Worker-2 processing 2023 Lloyds sustainability report.pdf
+[2026-07-05 17:23:27] [INFO    ] [extraction.hybrid_extractor] Extraction complete for 2022_BXP_ESG_Report.pdf — pdfplumber=81, OCR=0, empty=0 — 9.1s
+[2026-07-05 17:23:27] [INFO    ] [extraction.hybrid_extractor] Extracting 2023 Lloyds sustainability report.pdf — 178 pages
+[2026-07-05 17:23:37] [INFO    ] [validation.validator] Validation PASSED — AEO 2022 ESG Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:37] [INFO    ] [controller.controller] Enqueued: AEO 2022 ESG Report.pdf
+[2026-07-05 17:23:37] [INFO    ] [worker.worker       ] Worker-4 processing AEO 2022 ESG Report.pdf
+[2026-07-05 17:23:39] [INFO    ] [extraction.hybrid_extractor] Extracting AEO 2022 ESG Report.pdf — 81 pages
+[2026-07-05 17:23:41] [INFO    ] [extraction.layout_detector] Layout for 2022_BXP_ESG_Report.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:23:41] [INFO    ] [worker.worker       ] Worker-3 saved 2022_BXP_ESG_Report.txt — pdfplumber=81, OCR=0, empty=0 — 23.7s
+[2026-07-05 17:23:43] [INFO    ] [validation.validator] Validation PASSED — AT&T 2022 Sustainability Summary.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:43] [INFO    ] [controller.controller] Enqueued: AT&T 2022 Sustainability Summary.pdf
+[2026-07-05 17:23:43] [INFO    ] [worker.worker       ] Worker-3 processing AT&T 2022 Sustainability Summary.pdf
+[2026-07-05 17:23:45] [INFO    ] [extraction.hybrid_extractor] Extracting AT&T 2022 Sustainability Summary.pdf — 33 pages
+[2026-07-05 17:23:50] [INFO    ] [validation.validator] Validation PASSED — Apple_2023_EnvironmentalProgress_Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:50] [INFO    ] [controller.controller] Enqueued: Apple_2023_EnvironmentalProgress_Report.pdf
+[2026-07-05 17:23:54] [INFO    ] [validation.validator] Validation PASSED — AstraZeneca Sustainability Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:54] [INFO    ] [controller.controller] Enqueued: AstraZeneca Sustainability Report 2023.pdf
+[2026-07-05 17:23:55] [INFO    ] [validation.validator] Validation PASSED — BHP Climate Change Report 2020.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:55] [INFO    ] [controller.controller] Enqueued: BHP Climate Change Report 2020.pdf
+[2026-07-05 17:23:56] [INFO    ] [extraction.hybrid_extractor] Extraction complete for AT&T 2022 Sustainability Summary.pdf — pdfplumber=33, OCR=0, empty=0 — 12.7s
+[2026-07-05 17:23:57] [INFO    ] [validation.validator] Validation PASSED — BHP Climate Transition Action Plan.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:23:57] [INFO    ] [controller.controller] Enqueued: BHP Climate Transition Action Plan.pdf
+[2026-07-05 17:24:00] [INFO    ] [validation.validator] Validation PASSED — Boeing 2023 Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:00] [INFO    ] [controller.controller] Enqueued: Boeing 2023 Sustainability Report.pdf
+[2026-07-05 17:24:01] [INFO    ] [validation.validator] Validation PASSED — CT REIT 2022 ESG Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:01] [INFO    ] [controller.controller] Enqueued: CT REIT 2022 ESG Report.pdf
+[2026-07-05 17:24:09] [INFO    ] [extraction.layout_detector] Layout for AT&T 2022 Sustainability Summary.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:24:09] [INFO    ] [worker.worker       ] Worker-3 saved AT&T 2022 Sustainability Summary.txt — pdfplumber=33, OCR=0, empty=0 — 26.0s
+[2026-07-05 17:24:09] [INFO    ] [worker.worker       ] Worker-3 processing Apple_2023_EnvironmentalProgress_Report.pdf
+[2026-07-05 17:24:11] [INFO    ] [extraction.hybrid_extractor] Extracting Apple_2023_EnvironmentalProgress_Report.pdf — 114 pages
+[2026-07-05 17:24:13] [INFO    ] [extraction.hybrid_extractor] Extraction complete for 2023 Lloyds sustainability report.pdf — pdfplumber=178, OCR=0, empty=0 — 51.4s
+[2026-07-05 17:24:13] [INFO    ] [validation.validator] Validation PASSED — Coca-Cola Business Sustainability Report 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:13] [INFO    ] [controller.controller] Enqueued: Coca-Cola Business Sustainability Report 2022.pdf
+[2026-07-05 17:24:15] [INFO    ] [validation.validator] Validation PASSED — CostCo Climate Action Plan.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:15] [INFO    ] [controller.controller] Enqueued: CostCo Climate Action Plan.pdf
+[2026-07-05 17:24:16] [INFO    ] [extraction.hybrid_extractor] Extraction complete for AEO 2022 ESG Report.pdf — pdfplumber=81, OCR=0, empty=0 — 38.3s
+[2026-07-05 17:24:24] [INFO    ] [validation.validator] Validation PASSED — Deloitte 2023 Global Impact Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:24] [INFO    ] [controller.controller] Enqueued: Deloitte 2023 Global Impact Report.pdf
+[2026-07-05 17:24:27] [INFO    ] [validation.validator] Validation PASSED — HM Group Sustainability Disclosure 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:27] [INFO    ] [controller.controller] Enqueued: HM Group Sustainability Disclosure 2022.pdf
+[2026-07-05 17:24:30] [INFO    ] [validation.validator] Validation PASSED — HSBC Annual Holdings and Accounts Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:30] [INFO    ] [controller.controller] Enqueued: HSBC Annual Holdings and Accounts Report 2023.pdf
+[2026-07-05 17:24:33] [INFO    ] [validation.validator] Validation PASSED — JP Morgan Climate Report 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:33] [INFO    ] [controller.controller] Enqueued: JP Morgan Climate Report 2022.pdf
+[2026-07-05 17:24:43] [INFO    ] [validation.validator] Validation PASSED — Mastercard 2022 ESG Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:43] [INFO    ] [controller.controller] Enqueued: Mastercard 2022 ESG Report.pdf
+[2026-07-05 17:24:47] [INFO    ] [extraction.layout_detector] Layout for AEO 2022 ESG Report.pdf: Detected elements: figure, footer, header, heading, list_item, page_number, paragraph, table
+[2026-07-05 17:24:47] [INFO    ] [worker.worker       ] Worker-4 saved AEO 2022 ESG Report.txt — pdfplumber=81, OCR=0, empty=0 — 69.8s
+[2026-07-05 17:24:47] [INFO    ] [worker.worker       ] Worker-4 processing AstraZeneca Sustainability Report 2023.pdf
+[2026-07-05 17:24:47] [INFO    ] [validation.validator] Validation PASSED — McKinsey 2022 ESG Full Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:47] [INFO    ] [controller.controller] Enqueued: McKinsey 2022 ESG Full Report.pdf
+[2026-07-05 17:24:48] [INFO    ] [extraction.hybrid_extractor] Extracting AstraZeneca Sustainability Report 2023.pdf — 40 pages
+[2026-07-05 17:24:52] [INFO    ] [validation.validator] Validation PASSED — Meta 2023 Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:24:52] [INFO    ] [controller.controller] Enqueued: Meta 2023 Sustainability Report.pdf
+[2026-07-05 17:24:57] [INFO    ] [extraction.hybrid_extractor] Extraction complete for AstraZeneca Sustainability Report 2023.pdf — pdfplumber=40, OCR=0, empty=0 — 10.4s
+[2026-07-05 17:25:00] [WARNING ] [validation.validator] Validation FAILED — Microsoft 2022 Environmental Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✗ | Virus scan:✓
+[2026-07-05 17:25:00] [WARNING ] [controller.controller] Skipped: Microsoft 2022 Environmental Sustainability Report.pdf — Failed: Duplicate (SHA-256)
+[2026-07-05 17:25:06] [INFO    ] [extraction.layout_detector] Layout for AstraZeneca Sustainability Report 2023.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:25:07] [INFO    ] [worker.worker       ] Worker-4 saved AstraZeneca Sustainability Report 2023.txt — pdfplumber=40, OCR=0, empty=0 — 19.8s
+[2026-07-05 17:25:07] [INFO    ] [worker.worker       ] Worker-4 processing BHP Climate Change Report 2020.pdf
+[2026-07-05 17:25:07] [INFO    ] [validation.validator] Validation PASSED — Netflix ESG Report 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:07] [INFO    ] [controller.controller] Enqueued: Netflix ESG Report 2022.pdf
+[2026-07-05 17:25:07] [INFO    ] [extraction.hybrid_extractor] Extracting BHP Climate Change Report 2020.pdf — 48 pages
+[2026-07-05 17:25:11] [INFO    ] [validation.validator] Validation PASSED — New Look sustainability report .pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:11] [INFO    ] [controller.controller] Enqueued: New Look sustainability report .pdf
+[2026-07-05 17:25:20] [INFO    ] [extraction.hybrid_extractor] Extraction complete for BHP Climate Change Report 2020.pdf — pdfplumber=48, OCR=0, empty=0 — 13.7s
+[2026-07-05 17:25:23] [INFO    ] [extraction.layout_detector] Layout for 2023 Lloyds sustainability report.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:25:23] [INFO    ] [worker.worker       ] Worker-2 saved 2023 Lloyds sustainability report.txt — pdfplumber=178, OCR=0, empty=0 — 122.4s
+[2026-07-05 17:25:24] [INFO    ] [worker.worker       ] Worker-2 processing BHP Climate Transition Action Plan.pdf
+[2026-07-05 17:25:25] [INFO    ] [extraction.hybrid_extractor] Extracting BHP Climate Transition Action Plan.pdf — 27 pages
+[2026-07-05 17:25:25] [INFO    ] [extraction.hybrid_extractor] Extraction complete for Apple_2023_EnvironmentalProgress_Report.pdf — pdfplumber=114, OCR=0, empty=0 — 75.3s
+[2026-07-05 17:25:35] [INFO    ] [extraction.layout_detector] Layout for BHP Climate Change Report 2020.pdf: Detected elements: figure, figure_reference, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:25:35] [INFO    ] [worker.worker       ] Worker-4 saved BHP Climate Change Report 2020.txt — pdfplumber=48, OCR=0, empty=0 — 28.7s
+[2026-07-05 17:25:35] [INFO    ] [worker.worker       ] Worker-4 processing Boeing 2023 Sustainability Report.pdf
+[2026-07-05 17:25:38] [INFO    ] [extraction.hybrid_extractor] Extraction complete for BHP Climate Transition Action Plan.pdf — pdfplumber=27, OCR=0, empty=0 — 14.6s
+[2026-07-05 17:25:38] [INFO    ] [extraction.hybrid_extractor] Extracting Boeing 2023 Sustainability Report.pdf — 100 pages
+[2026-07-05 17:25:40] [INFO    ] [validation.validator] Validation PASSED — PWC China ESG Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:40] [INFO    ] [controller.controller] Enqueued: PWC China ESG Report 2023.pdf
+[2026-07-05 17:25:44] [INFO    ] [validation.validator] Validation PASSED — PayPal Global Impact Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:44] [INFO    ] [controller.controller] Enqueued: PayPal Global Impact Report 2023.pdf
+[2026-07-05 17:25:47] [INFO    ] [validation.validator] Validation PASSED — PepsiCo ESG 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:47] [INFO    ] [controller.controller] Enqueued: PepsiCo ESG 2022.pdf
+[2026-07-05 17:25:48] [INFO    ] [extraction.layout_detector] Layout for BHP Climate Transition Action Plan.pdf: Detected elements: figure, figure_reference, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:25:48] [INFO    ] [worker.worker       ] Worker-2 saved BHP Climate Transition Action Plan.txt — pdfplumber=27, OCR=0, empty=0 — 24.5s
+[2026-07-05 17:25:48] [INFO    ] [worker.worker       ] Worker-2 processing CT REIT 2022 ESG Report.pdf
+[2026-07-05 17:25:50] [INFO    ] [extraction.hybrid_extractor] Extracting CT REIT 2022 ESG Report.pdf — 34 pages
+[2026-07-05 17:25:54] [INFO    ] [validation.validator] Validation PASSED — Qantas 2023 Sustainability Report .pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:54] [INFO    ] [controller.controller] Enqueued: Qantas 2023 Sustainability Report .pdf
+[2026-07-05 17:25:56] [INFO    ] [extraction.hybrid_extractor] Extraction complete for Boeing 2023 Sustainability Report.pdf — pdfplumber=100, OCR=0, empty=0 — 20.2s
+[2026-07-05 17:25:58] [INFO    ] [validation.validator] Validation PASSED — Rio Tinto Climate Change Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:25:58] [INFO    ] [controller.controller] Enqueued: Rio Tinto Climate Change Report 2023.pdf
+[2026-07-05 17:25:58] [INFO    ] [extraction.hybrid_extractor] Extraction complete for CT REIT 2022 ESG Report.pdf — pdfplumber=34, OCR=0, empty=0 — 9.9s
+[2026-07-05 17:26:00] [INFO    ] [validation.validator] Validation PASSED — Ryanair 2022 Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:00] [INFO    ] [controller.controller] Enqueued: Ryanair 2022 Sustainability Report.pdf
+[2026-07-05 17:26:02] [INFO    ] [validation.validator] Validation PASSED — Schneider Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:02] [INFO    ] [controller.controller] Enqueued: Schneider Sustainability Report.pdf
+[2026-07-05 17:26:02] [INFO    ] [extraction.layout_detector] Layout for CT REIT 2022 ESG Report.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:26:03] [INFO    ] [worker.worker       ] Worker-2 saved CT REIT 2022 ESG Report.txt — pdfplumber=34, OCR=0, empty=0 — 14.5s
+[2026-07-05 17:26:03] [INFO    ] [worker.worker       ] Worker-2 processing Coca-Cola Business Sustainability Report 2022.pdf
+[2026-07-05 17:26:06] [INFO    ] [validation.validator] Validation PASSED — Shell sustainability report 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:06] [INFO    ] [controller.controller] Enqueued: Shell sustainability report 2022.pdf
+[2026-07-05 17:26:07] [INFO    ] [extraction.hybrid_extractor] Extracting Coca-Cola Business Sustainability Report 2022.pdf — 88 pages
+[2026-07-05 17:26:09] [INFO    ] [validation.validator] Validation PASSED — Sony Sustainability Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:09] [INFO    ] [controller.controller] Enqueued: Sony Sustainability Report 2023.pdf
+[2026-07-05 17:26:10] [INFO    ] [extraction.layout_detector] Layout for Boeing 2023 Sustainability Report.pdf: Detected elements: figure, figure_reference, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:26:11] [INFO    ] [worker.worker       ] Worker-4 saved Boeing 2023 Sustainability Report.txt — pdfplumber=100, OCR=0, empty=0 — 35.3s
+[2026-07-05 17:26:11] [INFO    ] [worker.worker       ] Worker-4 processing CostCo Climate Action Plan.pdf
+[2026-07-05 17:26:11] [INFO    ] [extraction.hybrid_extractor] Extracting CostCo Climate Action Plan.pdf — 15 pages
+[2026-07-05 17:26:16] [INFO    ] [validation.validator] Validation PASSED — Starbucks Environmental & Social Impact Report 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:16] [INFO    ] [controller.controller] Enqueued: Starbucks Environmental & Social Impact Report 2022.pdf
+[2026-07-05 17:26:16] [INFO    ] [extraction.hybrid_extractor] Extraction complete for CostCo Climate Action Plan.pdf — pdfplumber=15, OCR=0, empty=0 — 5.6s
+[2026-07-05 17:26:19] [INFO    ] [validation.validator] Validation PASSED — Suncor Sustainability Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:19] [INFO    ] [controller.controller] Enqueued: Suncor Sustainability Report 2023.pdf
+[2026-07-05 17:26:20] [INFO    ] [extraction.layout_detector] Layout for CostCo Climate Action Plan.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:26:20] [INFO    ] [worker.worker       ] Worker-4 saved CostCo Climate Action Plan.txt — pdfplumber=15, OCR=0, empty=0 — 8.9s
+[2026-07-05 17:26:20] [INFO    ] [worker.worker       ] Worker-4 processing Deloitte 2023 Global Impact Report.pdf
+[2026-07-05 17:26:21] [INFO    ] [validation.validator] Validation PASSED — University of Oxford 2022 Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:21] [INFO    ] [controller.controller] Enqueued: University of Oxford 2022 Sustainability Report.pdf
+[2026-07-05 17:26:21] [INFO    ] [extraction.hybrid_extractor] Extracting Deloitte 2023 Global Impact Report.pdf — 115 pages
+[2026-07-05 17:26:25] [INFO    ] [validation.validator] Validation PASSED — Veolia ESG Report 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:25] [INFO    ] [controller.controller] Enqueued: Veolia ESG Report 2023.pdf
+[2026-07-05 17:26:27] [INFO    ] [validation.validator] Validation PASSED — Walmart ESG Highlights 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:27] [INFO    ] [controller.controller] Enqueued: Walmart ESG Highlights 2023.pdf
+[2026-07-05 17:26:33] [INFO    ] [validation.validator] Validation PASSED — Westpac 2023 climate report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:33] [INFO    ] [controller.controller] Enqueued: Westpac 2023 climate report.pdf
+[2026-07-05 17:26:37] [INFO    ] [extraction.layout_detector] Layout for Apple_2023_EnvironmentalProgress_Report.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:26:37] [INFO    ] [worker.worker       ] Worker-3 saved Apple_2023_EnvironmentalProgress_Report.txt — pdfplumber=114, OCR=0, empty=0 — 148.2s
+[2026-07-05 17:26:38] [INFO    ] [worker.worker       ] Worker-3 processing HM Group Sustainability Disclosure 2022.pdf
+[2026-07-05 17:26:38] [INFO    ] [validation.validator] Validation PASSED — Woolworths Group 2023 Sustainability Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:38] [INFO    ] [controller.controller] Enqueued: Woolworths Group 2023 Sustainability Report.pdf
+[2026-07-05 17:26:38] [INFO    ] [extraction.hybrid_extractor] Extraction complete for Deloitte 2023 Global Impact Report.pdf — pdfplumber=115, OCR=0, empty=0 — 18.1s
+[2026-07-05 17:26:38] [INFO    ] [extraction.hybrid_extractor] Extracting HM Group Sustainability Disclosure 2022.pdf — 90 pages
+[2026-07-05 17:26:46] [INFO    ] [validation.validator] Validation PASSED — 015157_LVMH_RSE_committed_to_positive_impact_2023_GB_SR_MEL_080724 (6)_2024-09-19_10_56.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:26:46] [INFO    ] [controller.controller] Enqueued: 015157_LVMH_RSE_committed_to_positive_impact_2023_GB_SR_MEL_080724 (6)_2024-09-19_10_56.pdf
+[2026-07-05 17:26:59] [INFO    ] [extraction.layout_detector] Layout for Deloitte 2023 Global Impact Report.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:26:59] [INFO    ] [worker.worker       ] Worker-4 saved Deloitte 2023 Global Impact Report.txt — pdfplumber=115, OCR=0, empty=0 — 39.3s
+[2026-07-05 17:26:59] [INFO    ] [worker.worker       ] Worker-4 processing HSBC Annual Holdings and Accounts Report 2023.pdf
+[2026-07-05 17:26:59] [INFO    ] [extraction.hybrid_extractor] Extraction complete for Coca-Cola Business Sustainability Report 2022.pdf — pdfplumber=88, OCR=0, empty=0 — 56.6s
+[2026-07-05 17:27:01] [INFO    ] [extraction.hybrid_extractor] Extracting HSBC Annual Holdings and Accounts Report 2023.pdf — 450 pages
+[2026-07-05 17:27:05] [INFO    ] [extraction.hybrid_extractor] Extraction complete for HM Group Sustainability Disclosure 2022.pdf — pdfplumber=90, OCR=0, empty=0 — 27.9s
+[2026-07-05 17:27:06] [INFO    ] [validation.validator] Validation PASSED — 2017-2018-NTPC-Sustainability-Report-Final_opt.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:06] [INFO    ] [controller.controller] Enqueued: 2017-2018-NTPC-Sustainability-Report-Final_opt.pdf
+[2026-07-05 17:27:08] [INFO    ] [validation.validator] Validation PASSED — 2019.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:08] [INFO    ] [controller.controller] Enqueued: 2019.pdf
+[2026-07-05 17:27:18] [INFO    ] [validation.validator] Validation PASSED — 2022.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:18] [INFO    ] [controller.controller] Enqueued: 2022.pdf
+[2026-07-05 17:27:21] [INFO    ] [validation.validator] Validation PASSED — 2023-advancing-climate-solutions-progress-report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:21] [INFO    ] [controller.controller] Enqueued: 2023-advancing-climate-solutions-progress-report.pdf
+[2026-07-05 17:27:34] [INFO    ] [validation.validator] Validation PASSED — 2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:34] [INFO    ] [controller.controller] Enqueued: 2023.pdf
+[2026-07-05 17:27:43] [INFO    ] [extraction.layout_detector] Layout for HM Group Sustainability Disclosure 2022.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:27:43] [INFO    ] [worker.worker       ] Worker-3 saved HM Group Sustainability Disclosure 2022.txt — pdfplumber=90, OCR=0, empty=0 — 65.5s
+[2026-07-05 17:27:43] [INFO    ] [worker.worker       ] Worker-3 processing JP Morgan Climate Report 2022.pdf
+[2026-07-05 17:27:45] [INFO    ] [extraction.hybrid_extractor] Extracting JP Morgan Climate Report 2022.pdf — 36 pages
+[2026-07-05 17:27:45] [INFO    ] [validation.validator] Validation PASSED — 2023sr_en.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:46] [INFO    ] [controller.controller] Enqueued: 2023sr_en.pdf
+[2026-07-05 17:27:52] [INFO    ] [validation.validator] Validation PASSED — 2024 Alibaba Group Environmental, Social and Governance Report-0809.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:52] [INFO    ] [controller.controller] Enqueued: 2024 Alibaba Group Environmental, Social and Governance Report-0809.pdf
+[2026-07-05 17:27:59] [INFO    ] [validation.validator] Validation PASSED — 2024-sustainability-report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:27:59] [INFO    ] [controller.controller] Enqueued: 2024-sustainability-report.pdf
+[2026-07-05 17:28:14] [INFO    ] [validation.validator] Validation PASSED — Apple_Environmental_Progress_Report_2024.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:28:14] [INFO    ] [controller.controller] Enqueued: Apple_Environmental_Progress_Report_2024.pdf
+[2026-07-05 17:28:22] [INFO    ] [extraction.hybrid_extractor] Extraction complete for JP Morgan Climate Report 2022.pdf — pdfplumber=36, OCR=0, empty=0 — 39.1s
+[2026-07-05 17:28:23] [INFO    ] [validation.validator] Validation PASSED — BASF_Report_2023.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:28:23] [INFO    ] [controller.controller] Enqueued: BASF_Report_2023.pdf
+[2026-07-05 17:28:23] [INFO    ] [extraction.hybrid_extractor] Extraction complete for 2022 Microsoft Environmental Sustainability Report.pdf — pdfplumber=81, OCR=0, empty=0 — 305.7s
+[2026-07-05 17:28:26] [INFO    ] [validation.validator] Validation PASSED — Engie RI_Version EN_2105.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:28:26] [INFO    ] [controller.controller] Enqueued: Engie RI_Version EN_2105.pdf
+[2026-07-05 17:28:28] [INFO    ] [extraction.layout_detector] Layout for Coca-Cola Business Sustainability Report 2022.pdf: Detected elements: figure, footer, header, heading, list_item, multi_column, page_number, paragraph, table
+[2026-07-05 17:28:29] [INFO    ] [worker.worker       ] Worker-2 saved Coca-Cola Business Sustainability Report 2022.txt — pdfplumber=88, OCR=0, empty=0 — 146.0s
+[2026-07-05 17:28:29] [INFO    ] [worker.worker       ] Worker-2 processing Mastercard 2022 ESG Report.pdf
+[2026-07-05 17:28:29] [INFO    ] [validation.validator] Validation PASSED — FY2024-NVIDIA-Corporate-Sustainability-Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:28:29] [INFO    ] [controller.controller] Enqueued: FY2024-NVIDIA-Corporate-Sustainability-Report.pdf
+[2026-07-05 17:28:31] [INFO    ] [extraction.hybrid_extractor] Extracting Mastercard 2022 ESG Report.pdf — 117 pages
+[2026-07-05 17:28:49] [INFO    ] [validation.validator] Validation PASSED — Meta-2024-Sustainability-Report.pdf — MIME type:✓ | Extension:✓ | File size:✓ | Readability:✓ | Permissions:✓ | Encryption:✓ | Corruption:✓ | Duplicate (SHA-256):✓ | Virus scan:✓
+[2026-07-05 17:28:49] [INFO    ] [controller.controller] Enqueued: Meta-2024-Sustainability-Report.pdf

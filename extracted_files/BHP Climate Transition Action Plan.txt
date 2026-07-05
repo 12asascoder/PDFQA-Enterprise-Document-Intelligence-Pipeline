@@ -1,0 +1,1704 @@
+--- Document Metadata ---
+Title: Climate Transition Action Plan
+Author: Owner
+Created: D:20210915104308+10'00'
+Pages: 27
+--- End Metadata ---
+
+BHP Climate Transition Plan 2021 1
+
+Contents
+Executive summary 4
+1. Pursuing net zero 7
+Our role and the opportunity to act 7
+A suite of actions to drive results 10
+2. Our Scope 1 and Scope 2 emissions position and performance 10
+Scope 1 and Scope 2 emissions profile 10
+FY2021 progress 11
+Carbon offset strategy 12
+3. Scope 3 emissions position and performance 12
+Scope 3 emissions profile 13
+Energy products 13
+Procurement 14
+Maritime 15
+Steelmaking 15
+Future facing commodities 18
+4. Assessing capital alignment with a 1.5°C world 19
+Green revenue 19
+5. Just transition 20
+6. Climate policy engagement 21
+7. Climate governance 22
+Board skills and experience 22
+Executive remuneration 22
+Stakeholder engagement 22
+Management authority 22
+8. TCFD disclosure 22
+Glossary 23
+Reporting terms 24
+Abbreviations key 25
+BHP Climate Transition Action Plan 2
+
+The Climate Transition Action Plan 2021 is
+available at bhp.com
+BHP Group Limited. ABN 49 004 028 077. Registered in Australia. Registered office: 171 Collins Street, Melbourne, Victoria 3000, Australia. BHP Group Plc. Registration number 3196209.
+Registered in England and Wales. Registered office: Nova South, 160 Victoria Street London SW1E 5LB United Kingdom. Each of BHP Group Limited and BHP Group Plc is a member of the
+Group. BHP is a Dual Listed Company structure comprising BHP Group Limited and BHP Group Plc. The two entities continue to exist as separate companies but operate as a combined
+group known as BHP.
+The headquarters of BHP Group Limited and the global headquarters of the combined Group are located in Melbourne, Australia. The headquarters of BHP Group Plc are located in London,
+United Kingdom. Both companies have identical Boards of Directors and are run by a unified management team. Throughout this publication, the Boards are referred to collectively as the
+Board. Shareholders in each company have equivalent economic and voting rights in the Group as a whole.
+In this BHP Climate Transition Action Plan (Plan), the terms ‘BHP’, the ‘Company’, the ‘Group’, ‘our business’, ‘organisation’, ‘we’, ‘us’, ‘our’ and ‘ourselves’ refer to BHP Group Limited, BHP
+Group Plc and, except where the context otherwise requires, their respective subsidiaries as defined in note 13 ‘Related undertakings of the Group’ in section 3.2 of the BHP Annual Report
+2021 available at bhp.com/annualreport. Those terms do not include non-operated assets.
+This Plan covers BHP’s assets (including those under exploration, projects in development or execution phases, sites and closed operations) that have been wholly owned and/or operated
+by BHP and that have been owned as a joint venture1 operated by BHP (referred to in this Plan as ‘operated assets’ or ‘operations’) during the period from 1 July 2020 to 30 June 2021. Our
+functions are also included.
+BHP also holds interests in assets that are owned as a joint venture but not operated by BHP (referred to in this Plan as ‘non-operated joint ventures’ or ‘non-operated assets’).
+Notwithstanding that this Plan may include production, financial, greenhouse gas emissions and other information from non-operated assets, non-operated assets are not included in the BHP
+Group and, as a result, statements regarding our operations, assets and values apply only to our operated assets unless stated otherwise.
+Forward looking statements
+This Plan has been prepared for submission to a shareholder advisory vote at the 2021 Annual General Meetings of BHP. It has not been prepared as financial or investment advice or to
+provide any guidance in relation to the future performance of BHP.
+This Plan contains forward looking statements, including, but not limited to: statements regarding trends in commodity prices and supply and demand for commodities; plans, strategies and
+objectives of management; assumed long-term scenarios; potential global responses to climate change; regulatory and policy developments; the development of certain technologies; the
+potential effect of possible future events on the value of the BHP portfolio and the plans, strategies and objectives of management.
+Forward looking statements may be identified by the use of terminology, including, but not limited to, ‘intend’, ‘aim’, ‘project’, ‘see’, ‘anticipate’, ‘expect’, ‘estimate’, ‘plan’, ‘objective’, ‘believe’,
+‘expect’, ‘commit’, ‘may’, ‘should’, ‘need’, ‘must’, ‘will’, ‘would’, ‘continue’ , ‘forecast’, ‘guidance’, ‘trend’ or similar words. These statements discuss future expectations concerning the results of
+assets or financial conditions, or provide other forward looking information. In particular, such statements may include, but are not limited to, statements that relate to the purpose, goals,
+targets, plans and objectives of BHP, assumptions made in energy, and other forms of environmental transition scenarios, as well as statements about how we run our business, including our
+work with contractors and partners, and our work with suppliers and customers.
+The forward looking statements in this Plan are based on management’s current expectations and reflect judgements, assumptions, estimates and other the information available as at the
+date of this Plan and/or the date of the Group’s planning processes or scenario analysis processes. There are inherent limitations with scenario analysis and it is difficult to predict which, if
+any, of the scenarios might eventuate. Scenarios do not constitute definitive outcomes for us. Scenario analysis relies on assumptions that may or may not be, or prove to be, correct and
+may or may not eventuate, and scenarios may be impacted by additional factors to the assumptions disclosed.
+Additionally, forward looking statements do not represent guarantees or predictions of future performance, and involve known and unknown risks, uncertainties and other factors, many of
+which are beyond our control, and which may cause actual results to differ materially from those expressed in the statements contained in this Plan. BHP cautions against reliance on any
+forward looking statements or guidance.
+For example, future revenues from our operations, projects or mines described in this Plan will be based, in part, upon the market price of the minerals, metals or petroleum produced, which
+may vary significantly from current levels. These variations, if materially adverse, may affect the timing or the feasibility of the development of a particular project, the expansion of certain
+facilities or mines, or the continuation of existing operations.
+There are a number of other factors that may have an adverse effect on our results or operations, including those identified in the risk factors discussed in BHP’s filings with the US Securities
+and Exchange Commission (the ‘SEC’) (including in Annual Reports on Form 20-F) which are available on the SEC’s website at www.sec.gov.
+Except as required by applicable regulations or by law, BHP does not undertake any obligation to publicly update or review any forward looking statements, whether as a result of new
+information or future events. Forward looking statements speak only as of the date of this Plan or the date planning process assumptions or scenario analysis assumptions were adopted, as
+relevant. Past performance cannot be relied on as a guide to future performance.
+Emissions data
+Due to the inherent uncertainty and limitations in measuring greenhouse gas (GHG) emissions under the calculation methodologies used in the preparation of such data, all GHG emissions
+data or references to GHG emissions volumes (including ratios or percentages) in this Plan are estimates. There may also be differences in the manner that third parties calculate or report
+GHG emissions data compared to BHP, which means that third party data may not be comparable to our data. For information on how we calculate our GHG emissions, see the BHP Scope
+1, 2 and 3 GHG Emissions Calculation Methodology, available at bhp.com/climate.
+No offer of securities
+Nothing in this Plan should be construed as either an offer or a solicitation of an offer to buy or sell BHP securities in any jurisdiction, or be treated or relied upon as a recommendation or
+advice by BHP.
+Reliance on third party information
+The views expressed in this Plan contain information that has been derived from publicly available sources that have not been independently verified. No representation or warranty is made
+as to the accuracy, completeness or reliability of the information. This Plan should not be relied upon as a recommendation or forecast by BHP.
+1 References in this Plan to a ‘joint venture’ are used for convenience to collectively describe assets that are not wholly owned by BHP. Such references are not intended to
+characterise the legal relationship between the owners of the asset.
+BHP Climate Transition Action Plan 3
+
+Executive summary
+The world faces a critical challenge to respond effectively to the 2030, and supporting 40 per cent emissions intensity reduction
+risks of climate change. These risks are clear and pressing. of BHP-chartered shipping of our products.
+Every segment of society – including business, government,
+investors, scientists and consumers – has a role to play. The The challenge moving forward
+world must prioritise action by focusing on sustained emissions For more than 130 years, BHP has been producing resources
+reductions to enable global net zero2 emissions. that have supported economic growth and made countless lives
+better, around the world. But the production of resources is not
+BHP recognises the role we must play in helping the world an end in itself; it is what these resources enable that makes the
+achieve its decarbonisation ambitions. This Climate Transition real difference: driving growth and development; underpinning
+Action Plan (Plan) provides an overview of our role and actions. materials for sanitation and healthcare; sustainable food
+It sets out our strategic approach to reduce greenhouse gas production; developing industry; building vital infrastructure and
+(GHG) emissions3 to net zero4 within our operations by 2050 and allowing broad based wealth creation.
+to work with customers and suppliers to support their own
+emissions reductions, consistent with the ambition of pursuing We recognise there is more to do. BHP’s long-term success is
+net zero in our value chain. dependent on a continued ability to attract people and capital
+and secure access to the resources the world needs, as well as
+Commitment and action providing continued value to those who rely on us. Our
+BHP has been taking action to address climate risks for commodities are necessary for economic growth and for
+decades. We first set emissions targets in 1996, have disclosed decarbonisation. Both outcomes are necessary if we are to
+our emissions performance since 1998 and for more than 10 achieve our purpose, ‘To bring people and resources together to
+years have incorporated carbon price assessments in our build a better world’.
+operational and project planning. We were involved in one of the
+Our portfolio is already well positioned to support the transition to
+earliest trades under the European Union Emissions Trading
+a lower carbon world aligned with the Paris Agreement goals,
+Scheme in January 2005. In 2015, we were one of the first
+while creating value for our shareholders and our broader
+companies to disclose the potential impacts of a low carbon
+transition on demand for our products and our profitability5. stakeholders. We have an important role to play in supporting a
+transition to a high-growth, net zero emissions future: providing
+All of these steps were tied to our business strategy and the essential building blocks for renewable energy and other
+understanding of long-term risks. This commercially-driven decarbonisation infrastructure from our steelmaking materials
+approach remains the defining feature of our climate planning. (iron ore and metallurgical coal) and future facing commodities
+(including copper, nickel, and potash). To help enable a net zero
+We continue to make significant progress in our climate actions emissions future, our commodities can play a vital part in
+to date, including tackling reductions in our operational accelerating the displacement of emissions intensive activities by
+emissions6 (where, for example, our iron ore production has the lower emissions alternatives.
+lowest emissions intensity in the sector7), supporting research
+into breakthrough low carbon solutions, investing in nature- The scenario analysis in the BHP Climate Change Report 202011
+based solutions including REDD and REDD+ projects8, and indicates that our portfolio is resilient and, in fact, many of our
+contributing to public policy debates on options to support commodities would further benefit from an accelerated
+economy-wide decarbonisation. decarbonisation pathway. In our 1.5°C scenario12, the world is
+expected to need almost twice as much steel in the next 30
+We have also extended our own emissions reduction years as it did in the last 30. To keep pace with the development
+commitments.9 In 2020, we set a medium-term target to reduce of renewable technologies such as electric vehicles and solar
+our operational emissions by at least 30 per cent from FY2020 energy, copper production will have to double over the next 30
+levels10 by FY2030. Our long-term goal is to achieve net zero years. Under our 1.5°C scenario, nickel production will have to
+operational emissions by 2050. In 2020, we also set goals for increase nearly four-fold to power the next generation of battery
+2030 of supporting the development of technologies and technology. Finally, potash will be vital for more efficient
+pathways capable of 30 per cent emissions intensity reduction in agricultural practices, and to ease pressure on scarce arable
+integrated steelmaking with widespread adoption expected post
+2 Net zero refers to a state in which the greenhouse gases (as defined in the Glossary) going into the atmosphere are balanced by removal out of the
+atmosphere. All further references to ‘net zero’ in this Plan for industry sectors, the global economy, transition or future, or similar, have this meaning.
+Refer to the Glossary at the end of this Plan for our definition of key terms.
+3 All further references to ‘emissions’ in this Plan are to greenhouse gas (GHG) emissions.
+4 Net zero includes the use of carbon offsets as required.
+5 The BHP Climate Change: Portfolio Analysis 2015 report is available at bhp.com
+6 ‘Operational emissions’ in this Plan refers to the Scope 1 and Scope 2 emissions from our operated assets.
+7 ‘Building a better world’: BHP Climate change briefing presentation, 10 September 2020.
+8 REDD and REDD+ are the United Nations programs for reducing emissions from deforestation and forest degradation.
+9 These positions are expressed using terms that are defined in the Glossary, including the terms ‘net zero’, ‘target’ and ‘goal’.
+10 FY2020 baseline will be adjusted for any material acquisitions and divestments based on emissions at the time of the transaction. Carbon offsets will
+be used as required.
+11 The BHP Climate Change Report 2020 is available at bhp.com/climate. There are inherent limitations with scenario analysis and it is difficult to predict
+which, if any, of the scenarios might eventuate. Scenarios do not constitute definitive outcomes for us. Scenario analysis relies on assumptions that
+may or may not be, or prove to be, correct and may or may not eventuate, and scenarios may be impacted by additional factors to the assumptions
+disclosed.
+12 This scenario aligns with the Paris Agreement goals and requires steep global annual emissions reductions, sustained for decades, to stay within a
+1.5°C carbon budget. Refer to the BHP Climate Change Report 2020 available at bhp.com/climate for information about the assumptions, outputs and
+limitations of our 1.5°C Paris-aligned scenario.
+BHP Climate Transition Action Plan 4
+
+land. Under any scenario, our industry will be critical to ensuring per cent14 of BHP’s total reported emissions inventory (Scopes 1,
+the rise of global living standards. 2 and 3). The most significant contributions to our reported
+Scope 3 inventory come from the emissions generated by
+We also noted in our Climate Change Report 2020 the steelmaking through the processing of iron ore and metallurgical
+importance of producing these resources in a manner that coal.
+delivers strong social value outcomes in our communities and
+through respectful relationships with local, regional and global In any net zero future, steel will play an essential role. It will be
+stakeholders. Our view is driven by the belief that investors, required for the infrastructure to support urban growth, industrial
+communities and governments will rightly preference those transformation, and the deployment of electric transport at global
+companies that demonstrate economic efficiency, a long-term scale. The challenge for steelmaking is to produce this vital
+perspective and a willingness to act collectively to deliver value, commodity to enable sustainable growth, while reducing the
+including the achievement of the United Nations Sustainable emissions footprint of the production process itself.
+Development Goals. The magnitude of the challenge to
+decarbonise and grow should demand nothing less. While Scope 3 emissions occur outside of our direct control, we
+seek opportunities to partner with others in the value chain to
+However, despite a general alignment among stakeholders as to enable the reduction of these emissions consistent with
+the urgency of, and the key changes required for, the transition, aspirations for global net zero. In this Plan, we build on our 2020
+we remain concerned that collective action is not yet at a level commitments with an enhanced Scope 3 position that reflects
+required to achieve it. Current barriers to society achieving a net the challenges and opportunities for our contribution (refer to the
+zero emissions future include the pace of technology BHP’s climate change goals and targets box15 in section 1
+development, new infrastructure, consumer behaviour change, ‘Pursuing net zero’).
+policy settings and the investment required to fund the transition.
+Overall, our aim is to position BHP to thrive in a low carbon world
+Action across the value chain by minimising emissions from existing products while providing
+All sectors of society and the economy will be impacted by, and the commodities that the world needs to achieve a net zero
+must contribute to, the system-wide response to achieve net future. To support this, we are working to align our portfolio and
+zero across the global value chain for the goods and services capital allocations and advocating for policy outcomes that
+that support global living standards. BHP is no exception. Rapid enhance the global response to climate change.
+decarbonisation is more feasible in some sectors versus others,
+Transparency and accountability
+and offsets will play an important role in balancing the system
+response to deliver net zero across the global economy. We The challenge the world faces is clear, but the solutions are
+recognise we have an important role to play in supporting complex - and urgent. For the world to meet its goals there must
+emissions reductions in our own value chain as part of this be transparency, clarity and a collective willingness to adjust and
+system response. improve responses to achieve the most effective pathway to net
+zero. Governments must set clear commitments aligned with the
+Scope 1 emissions result from sources that are owned or Paris Agreement goals, underpinned by the long-term and
+controlled by BHP, for example, emissions from materials equitable policy settings necessary to drive investment. Investors
+haulage, heat generation from combustion, etc. While exercising must allocate capital to activities that support decarbonisation
+control over the source of these emissions, we are in some and resilience building.
+cases reliant on the development and availability of low
+emissions equipment in the marketplace. Scope 2 emissions are This Plan aims to show how we have evolved and adapted our
+predominantly related to the generation of purchased electricity13 approach, and our determination to contribute our part to global
+consumed by our operations, and hence we are in some cases decarbonisation in line with our purpose.
+reliant on the development of options external to us, including
+We appreciate the engagement and insights of our investors and
+renewable energy at scale. Scope 3 includes all other emissions
+other stakeholders in the course of developing this Plan, which
+outside of BHP’s operated assets, resulting from the activities of
+has been prepared with reference to the Climate Action 100+
+our suppliers, logistics, customers and investments (such as
+Net-Zero Corporate Benchmark criteria, and builds upon and
+non-operated joint ventures). Scope 3 emissions represent 96
+should be read with the BHP Climate Change Report 2020.
+13 Purchased electricity is defined as electricity that is purchased or otherwise brought into the organisational boundary of the reporting company. Scope
+2 emissions physically occur at the facility where electricity is generated.
+14 Based on FY2021 data.
+15 These positions are expressed using terms that are defined in the Glossary, including the terms ‘net zero’, ‘target’ and ‘goal’.
+BHP Climate Transition Action Plan 5
+
+Our actions in FY2021
+BHP Climate Transition Action Plan 6
+
+1. Pursuing net zero
+In this Plan, we describe our approach to operational and value Figure 1 shows examples of actions and how they fall into this
+chain emissions across the material segments in our emissions framework.
+inventory. In FY2021, our total reported GHG emissions
+In section 2 ‘Scope 1 and Scope 2 emissions position and
+inventory was 418.7 million tonnes carbon dioxide equivalent (Mt
+performance’, we describe our FY2021 progress towards our
+CO -e). This includes 16 Mt CO -e of reported emissions from
+2 2 operational emissions targets and long-term goal and ongoing
+our operated assets (Scope 1 and Scope 2), and 402.5 Mt CO -e
+2 actions. Section 3 ‘Scope 3 emissions position and
+of reported emissions from our value chain (Scope 3).
+performance’ sets out our existing Scope 3 goals for 2030, and
+outlines our enhanced Scope 3 position.
+Our role and the opportunity to act
+For a summary of potential strategies to advance a pathway to
+Our ability to achieve emissions reductions across our operated net zero, and the role we can play, see Figure 2.
+assets and value chain varies depending on our capacity to
+affect outcomes. Our actions may be categorised according to We have also summarised our existing goals and targets and our
+the following framework: enhanced Scope 3 position in BHP’s climate change goals and
+targets box, on the next page.
+ Leveraging our control in areas where the decisions we take
+can have direct impact on emissions
+ Seeking opportunities to partner with suppliers, customers,
+and others to drive outcomes
+ Using our influence to provide thought leadership to support
+decarbonisation
+Figure 1: Control, Partner and Influence
+BHP Climate Transition Action Plan 7
+
+BHP’s climate change goals and targets16
+Operational greenhouse gas (GHG) emissions (Scope 1 and Scope 2 from our operated assets)
+Our commitments are:
+ A short-term target to maintain operational GHG emissions at or below FY2017 levels17 by FY2022, while we continue to grow our
+business
+ A medium-term target to reduce operational GHG emissions by at least 30 per cent from FY2020 levels18 by FY2030
+ A long-term goal to achieve net zero19 operational GHG emissions by 2050
+Value chain GHG emissions (Scope 3)
+For value chain (Scope 3) emissions, we have previously announced our goals for 2030 are to:
+ Support industry to develop technologies and pathways capable of 30 per cent emissions intensity reduction in integrated
+steelmaking, with widespread adoption expected post 2030
+ Support 40 per cent emissions intensity reduction of BHP-chartered shipping of our products
+In this Plan, we are building on these medium-term goals. Our position reflects the challenges and opportunities in line with our
+strategy for increasing long-term portfolio exposure towards future facing commodities. Our recent proposed portfolio changes20
+are aligned with our strategic approach to manage risk and maximise value. While these decisions were not made for the purpose
+of setting a future Scope 3 position, upon completion, the changes would lower our total Scope 3 emissions inventory (refer to
+‘Energy products’ below in section 3).
+As we shape our portfolio for the future, we are announcing our enhanced Scope 3 position.21
+While we cannot ensure the outcome alone, for our reshaped portfolio,22 we are pursuing the long-term goal of net zero23 Scope 3
+greenhouse gas (GHG) emissions by 2050 to support the transition that the world must make. To progress towards this goal:
+ we are targeting net zero for the operational GHG emissions of our direct suppliers24 and the emissions from maritime transport of
+our products; and
+ recognising the particular challenge of a net zero pathway for customers’ processing of our products,25 which is dependent on the
+development and downstream deployment of solutions and supportive policy, we cannot set a target, but will continue to partner
+with customers and others to accelerate the transition to carbon neutral26 steelmaking and other downstream processes. We will
+also support the value chain by pursuing carbon neutral production of our future facing commodities, such as copper, nickel and
+potash to provide the essential building blocks of a net zero transition.
+We have therefore set these Scope 3 targets:27
+ We will target net zero28 by 2050 for the operational GHG emissions of our direct suppliers,29 subject to the widespread availability
+of carbon neutral30 goods and services to meet our requirements.
+ We will target net zero31 by 2050 for GHG emissions from all shipping32 of our products,33 subject to the widespread availability of
+carbon neutral34 solutions including low/zero-emission technology on board suitable ships and low/zero-emission marine fuels.
+16 These positions are expressed using terms that are defined in the Glossary, including the terms ‘net zero’, ‘target’ and ‘goal’.
+17 FY2017 baseline will be adjusted for any material acquisitions and divestments based on emissions at the time of the transaction. Carbon offsets will
+be used as required.
+18 FY2020 baseline will be adjusted for any material acquisitions and divestments based on emissions at the time of the transaction. Carbon offsets will
+be used as required.
+19 Net zero includes the use of carbon offsets as required.
+20 On 17 August 2021, BHP announced it had entered into a merger commitment deed with Woodside to combine their respective oil and gas portfolios
+by an all-stock merger. Completion of the merger is subject to confirmatory due diligence, negotiation and execution of full form transaction
+documents, and satisfaction of conditions precedent including shareholder, regulatory and other approvals, and expected to occur in the second
+quarter of the 2022 calendar year, with an effective date of 1 July 2021. For more information, refer to the Joint Announcement ‘Woodside and BHP to
+create a global energy company’ by Woodside and BHP dated 17 August 2021, available at bhp.com/investor-centre. On 28 June 2021, BHP
+announced its agreement with Glencore to divest its 33.3 per cent interest in Cerrejón, a non-operated energy coal joint venture in Colombia, with an
+effective economic date of 31 December 2020. Completion is subject to the satisfaction of customary competition and regulatory requirements and
+expected to occur in the first half of the 2022 calendar year.
+21 This position is expressed using terms that are defined in the Glossary, including the terms ‘net zero’, ‘target’ and ‘goal’.
+22 Subject to completion of both of the divestment of our oil and gas business and the sale of our interest in Cerrejón.
+23 Net zero includes the use of carbon offsets as required.
+24 ‘Operational GHG emissions of our direct suppliers’ means the Scope 1 and Scope 2 emissions of our direct suppliers included in BHP’s Scope 3
+reporting categories of purchased goods and services (including capital goods), fuel and energy related activities, business travel, and employee
+commuting.
+25 In line with our reporting methodology for Scope 3 emissions, we define ‘processing of our products’ as emissions resulting from our customers’
+processing of our products comprising iron ore and metallurgical coal (steelmaking materials) and copper (assumed to be processed into copper wire
+for end use).
+26 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+27 These targets are referable to a FY2020 baseline year, which will be adjusted for any material acquisitions and divestments based on emissions at
+the time of the transaction, and to reflect progressive refinement of the Scope 3 emissions reporting methodology. The targets’ boundaries may in
+some cases differ from required reporting boundaries. Carbon offsets will be used as required.
+28 Net zero includes the use of carbon offsets as required.
+29 ‘Operational GHG emissions of our direct suppliers’ means the Scope 1 and Scope 2 emissions of our direct suppliers included in BHP’s Scope 3
+reporting categories of purchased goods and services (including capital goods), fuel and energy related activities, business travel, and employee
+commuting.
+30 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+31 Net zero includes the use of carbon offsets as required.
+32 BHP-chartered and third party-chartered shipping.
+33 Target excludes maritime transportation of products purchased by BHP.
+34 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+BHP Climate Transition Action Plan 8
+
+Figure 2: Overview of actions towards net zero and the role we play in each
+BHP Climate Transition Action Plan 9
+
+A suite of actions to drive results voluntary carbon market is critical to reaching the Paris
+Agreement goals and estimates that voluntary carbon markets
+Recognising the complexity and multi-dimensional nature of the
+need to grow by more than 15-fold by 2030 in order to support
+challenge to address emissions, we utilise a range of tools and
+the investment required to deliver a 1.5°C pathway.
+levers as part of our approach.
+We expect voluntary and/or regulatory carbon offsets will play a
+Investments and capital alignment
+role for some of our customers as they seek to reduce their
+We are supporting our climate plan with targeted investment in Scope 1 and Scope 2 emissions, contributing to decarbonisation
+areas such as operational emissions reduction, product in our value chain. We will continue to seek opportunities to
+optimisation, customer, supplier and technology partnerships invest in high-quality offset-generating projects that also deliver
+and future low-carbon growth technology options. sustainability co-benefits. We are also considering supplying
+offsets to complement our customers’ decarbonisation
+ We have established a pipeline of operational
+strategies, which may include structured ‘low carbon’ product
+decarbonisation projects across all our operated assets, for offerings or a standalone supply of offsets. Refer to ‘BHP’s
+which potential capital spend is expected to be in the range of Carbon Offset strategy’ below in section 2 for more
+US$100 million to US$200 million per annum over the next information.
+five years. This estimate for operational decarbonisation
+expenditure has been included in existing capital guidance. Advocacy and transparency
+Potential capital spend on operational decarbonisation to
+Management is held to account through both our rigorous
+FY2030 may be in the range of US$2 billion to US$4 billion35.
+process of Board oversight and a direct linkage of climate-related
+ In FY2020, we announced a commitment of at least US$400 targets and goals to executive remuneration. We have also
+million in emissions reduction initiatives across our operated affirmed our commitment to advocate for efficient public policy
+assets (as described above) and value chain over the five- settings in pursuit of global decarbonisation. We aim to continue
+year life of the Climate Investment Program. We remain on to demonstrate leadership in responding to evolving approaches
+track to exceed this commitment. In FY2021, we spent to climate change and climate-related disclosures.
+US$29 million under this program, and committed to spend
+significantly more, including up to US$65 million over coming 2. Our Scope 1 and Scope 2 emissions
+years towards partnerships with our customers in the steel
+position and performance
+sector.
+ Through BHP Ventures36, we target emerging companies We remain committed to continuing reductions in GHG
+with potentially game-changing offerings. We are seeking to emissions in our operations. For our operational GHG emissions
+drive innovation in solutions that support BHP, and our (Scope 1 and Scope 2 from our operated assets), we have set: 38
+suppliers and customers as we all seek to decarbonise, while
+creating value for BHP and our shareholders.  A short-term target to maintain operational GHG emissions at
+or below FY2017 levels39 by FY2022, while we continue to
+Going forward, as our climate response is further integrated into
+grow our business
+business-as-usual planning, our spending on climate initiatives
+will be increasingly indistinguishable from normal business  A medium-term target to reduce operational GHG emissions
+spending as we integrate climate metrics into our operating, by at least 30 per cent from FY2020 levels40 by FY2030
+capital and portfolio decision making. We are making capital  A long-term goal to achieve net zero41 operational GHG
+decisions that recognise BHP’s prioritisation of commodities that emissions by 2050
+are positively leveraged to the emerging global decarbonisation
+mega-trend. This reflects our commitment to decarbonising BHP‘s operations
+and a recognition that we must play our part to accelerate the
+We intend to systematically integrate one or more Paris-aligned global pathway to decarbonisation.
+scenarios (including 1.5°C scenarios) into our strategy and
+capital prioritisation processes beginning in FY2022. This will Scope 1 and Scope 2 emissions profile
+enhance our current approach, in which our 1.5°C scenario is
+The reported Scope 1 and Scope 2 emissions inventory of our
+used to inform and test strategic portfolio decisions. For more
+operated assets totalled 16.2 Mt CO -e in FY2021, about 2 per
+information, see our discussion in section 4 ‘Assessing capital 2
+cent higher than our operational emissions in FY2020. The
+alignment with a 1.5°C world’.
+majority of these emissions resulted from the combined impact of
+Offsets electricity use (6.2 Mt, 38 per cent) and diesel use for material
+We are furthering our approach to use of carbon offsets and movement (6.4 Mt, 40 per cent); the remainder was associated
+supporting the market functionality required to enable their use. with fugitive emissions from coal mining and petroleum (2.2 Mt,
+We believe carbon offsets are a necessary contributor to 13.5 per cent), emissions from the use of natural gas for power
+meeting the Paris Agreement goals, with offsets included in most and heat generation (1.2 Mt, 7 per cent), and other less material
+credible pathways to a global net zero emissions position. BHP sources (0.2 Mt, 1 per cent).42 As a result of actions taken in
+is a member of the Taskforce on Scaling Voluntary Carbon FY2020 and FY2021, particularly securing the supply of
+Markets (TSVCM), a private sector-led initiative sponsored by renewable energy for some of our operated assets, our
+the International Institute of Finance. In January 2021, the forecasted operational GHG emissions are currently tracking in
+TSVCM released a report37 which states that a large-scale line with our FY2022 and FY2030 targets.
+35 Spend estimates remain uncertain and may change as studies continue to progress, technologies mature and new alternatives emerge.
+36 Our internal venture capital unit.
+37 Taskforce on Scaling Voluntary Carbon Markets https://www.iif.com/Portals/1/Files/TSVCM_Report.pdf.
+38 These positions are expressed using terms that are defined in the Glossary, including the terms ‘net zero’, ‘target’ and ‘goal’.
+39 FY2017 baseline will be adjusted for any material acquisitions and divestments based on GHG emissions at the time of the transaction. Carbon
+offsets will be used as required.
+40 FY2020 baseline will be adjusted for any material acquisitions and divestments based on GHG emissions at the time of the transaction. Carbon
+offsets will be used as required.
+41 Net zero includes the use of carbon offsets as required.
+42 For detailed reporting of emissions, refer to the BHP Annual Report 2021 available at bhp.com/annualreport.
+BHP Climate Transition Action Plan 10
+
+FY2021 progress  Working with TransAlta on plans to build two solar farms and
+a battery storage system to help power the Mt Keith and
+In FY2021, each of our operated assets developed
+Leinster operations at Nickel West (announced July 2021)
+decarbonisation plans out to FY2030, containing a pipeline of
+emissions reduction projects and initiatives that collectively  Securing renewable electricity via a PPA to supply
+support our medium-term target and long-term goal for approximately half of the electricity needs across Queensland
+operational emissions. We have progressed early-stage projects Coal mines from low-emissions sources
+designed to reduce operational emissions at a number of our
+operated assets, entered several renewable power purchase This builds on our FY2020 progress at our Chilean copper
+agreements (PPAs) and started to tackle the technical challenge operated assets, Escondida and Spence, which put in place
+of reducing emissions from the use of diesel for trucks. renewable PPAs commencing from FY2022. We are on track to
+use 100 per cent renewable power supply at these assets by the
+Operational capital planning mid-2020s.
+We assess and rank each decarbonisation project across our
+Technology partnerships
+operated assets through our Capital Allocation Framework,
+where our decarbonisation commitments rank alongside We continue to collaborate with industry peers and original
+maintenance capital in the hierarchy of our capital allocation. equipment manufacturers (OEMs) to assess zero emissions
+Through our studies and investment governance process, we material movement options and determine how they can be
+seek to optimise the risk and reward proposition for these deployed at our operations in the future. In FY2021, we
+projects to allocate capital and optimise decarbonisation at a partnered with Rio Tinto and Vale to launch the ‘Charge on
+portfolio level. We have developed an internal marginal Innovation Challenge’, a mining truck electrification initiative,
+abatement cost curve (Figure 3) designed to support the facilitated by Austmine. The initiative aims to develop innovative
+allocation of capital towards the most economically efficient and charging infrastructure in parallel with the development of
+effective decarbonisation projects. battery-electric trucks.
+We include regional carbon price forecasts in our assessment of We recognise the essential role of OEMs in the development of
+all projects in the Capital Allocation Framework. In recognition new products, bringing their expertise and know-how to help
+that explicit carbon pricing regimes in many instances do not fully solve for the emissions challenge. Acting alone, we are not in a
+reflect the implicit regulatory risk and value of carbon across our position to achieve the necessary emissions reductions. In
+value chain, we are developing additional qualitative and August 2021, BHP became a founding member of Komatsu’s
+quantitative metrics to better capture the future cost and value of GHG Alliance, which aims to develop commercially viable zeroemissions abatement to inform corporate strategy and core GHG emissions haul trucks. We will provide engineering and
+business decisions. technical resources to Komatsu, enabling our real-time access to
+technology in development and giving Komatsu the opportunity
+Power initiatives to draw on our mining expertise to accelerate its path to market.
+We have achieved significant milestones in progressing our plan
+In FY2022, we intend to look for further opportunities to
+to reduce future emissions associated with the use of electricity.
+collaborate with OEMs, source renewable electricity for our
+We expect to increasingly see the impact from FY2022 onwards.
+Australian operated assets and progress studies for diesel
+Examples of actions taken in FY2021 include:
+displacement at our operated assets.
+ Signing a renewable PPA, which is expected to supply up to For more information on our pathway to net zero operational
+50 per cent of our electricity needs at the Nickel West emissions by 2050, see the BHP Climate Change Report 2020
+Kwinana Refinery available at bhp.com/climate.
+Figure 3: BHP operational emissions marginal abatement cost curve
+BHP Climate Transition Action Plan 11
+
+3. Scope 3 emissions position and
+Carbon offset strategy performance
+While we plan to prioritise emissions reductions within our
+We recognise the importance of supporting efforts to reduce
+operated assets to meet our medium-term target, we expect to
+emissions in our value chain as a critical element in the pursuit of
+have a requirement for offsets in order to deliver our net zero
+global net zero across the economy.
+goal, particularly to address ‘hard to abate’ emissions such as
+fugitive methane from coal production. By including offsets as an In 2020, we set Scope 3 emissions goals for 2030 for processing
+element of our climate change strategy, we can also continue to of our steelmaking products and maritime transportation of our
+support a range of projects that offer sustainability co-benefits, products, supported by an action plan and aligned to a long-term
+including support for local communities and biodiversity vision to support the economy-wide transition necessary to meet
+conservation. the Paris Agreement goals by working with customers and
+suppliers to achieve sectoral decarbonisation. Those goals are to:
+Our offset strategy focuses on:
+ Support industry to develop technologies and pathways
+ Directly investing in offset-generating projects that deliver capable of 30 per cent emissions intensity reduction in
+sustainability co-benefits and that can provide a long-term integrated steelmaking, with widespread adoption expected
+supply of offsets post 2030
+ Working with others to support the move toward mature  Support 40 per cent emissions intensity reduction of BHPinternational and sub-national carbon market mechanisms chartered shipping of our products
+ Developing a clear approach to both the voluntary and In this Plan, we are building on these medium-term goals. Our
+regulatory use of offsets to meet emission reduction position reflects the challenges and opportunities in line with our
+commitments, as well as for structured product offerings to strategy for increasing long-term portfolio exposure towards
+our customer base future facing commodities. Our recent proposed portfolio
+In FY2021, we retired 300,000 carbon offsets in the form of changes44 are aligned with our strategic approach to manage
+verified carbon units equivalent to the net increase in our risk and maximise value. While these decisions were not made
+FY2021 operational emissions from FY2020 of 0.3Mt CO -e. The for the purpose of setting a future Scope 3 position, upon
+offsets were sourced from high quality projects such as the completion, the changes would lower our total Scope 3
+Cordillera Azul National Park REDD+ Project and the Kasigau emissions inventory (refer to ‘Energy products’ below).
+Corridor REDD Project,43 representing additional, permanent
+As we shape our portfolio for the future, we are announcing our
+and otherwise unclaimed emission reductions from activities
+enhanced Scope 3 position.45
+designed to avoid contributing to social or environmental harms.
+For more information on our approach to progressive offsetting, While we cannot ensure the outcome alone, for our reshaped
+see the BHP Climate Change Report 2020 available at portfolio46, we are pursuing the long-term goal of net zero47
+bhp.com/climate. Scope 3 greenhouse gas (GHG) emissions by 2050 to support
+the transition that the world must make. To progress towards this
+goal:
+ we are targeting net zero for the operational GHG emissions
+of our direct suppliers48 and the emissions from maritime
+transport of our products; and
+ recognising the particular challenge of a net zero pathway for
+customers’ processing of our products,49 which is dependent
+on the development and downstream deployment of solutions
+and supportive policy, we cannot set a target, but will
+continue to partner with customers and others to accelerate
+the transition to carbon neutral50 steelmaking and other
+downstream processes. We will also support the value chain
+by pursuing carbon neutral production of our future facing
+commodities, such as copper, nickel, and potash, to provide
+the essential building blocks of a net zero transition.
+Each target is described with its assumptions and drivers in the
+relevant sub-section of this section 3 below.
+43 REDD and REDD+ are United Nations programs for reducing emissions from deforestation and forest degradation.
+44 On 17 August 2021, BHP announced it had entered into a merger commitment deed with Woodside to combine their respective oil and gas portfolios
+by an all-stock merger. Completion of the merger is subject to confirmatory due diligence, negotiation and execution of full form transaction
+documents, and satisfaction of conditions precedent including shareholder, regulatory and other approvals, and expected to occur in the second
+quarter of the 2022 calendar year, with an effective date of 1 July 2021. For more information, refer to the Joint Announcement ‘Woodside and BHP to
+create a global energy company’ by Woodside and BHP dated 17 August 2021, available at bhp.com/investor-centre. On 28 June 2021, BHP
+announced its agreement with Glencore to divest its 33.3 per cent interest in Cerrejón, a non-operated energy coal joint venture in Colombia, with an
+effective economic date of 31 December 2020. Completion is subject to the satisfaction of customary competition and regulatory requirements and
+expected to occur in the first half of the 2022 calendar year.
+45 This position is expressed using terms that are defined in the Glossary, including the terms ‘net zero’, ‘target’ and ‘goal’.
+46 Subject to completion of both of the divestment of our oil and gas business and the sale of our interest in Cerrejón.
+47 Net zero includes the use of carbon offsets as required.
+48 ‘Operational GHG emissions of our direct suppliers’ means the Scope 1 and Scope 2 emissions of our direct suppliers included in BHP’s Scope 3
+reporting categories of purchased goods and services (including capital goods), fuel and energy related activities, business travel, and employee
+commuting.
+49 In line with our reporting methodology for Scope 3 emissions, we define ‘processing of our products’ as emissions resulting from our customers’
+processing of our products comprising iron ore and metallurgical coal (steelmaking materials) and copper (assumed to be processed into copper wire
+for end use).
+50 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+BHP Climate Transition Action Plan 12
+
+Scope 3 emissions profile Improving the accuracy and transparency
+BHP’s total reported Scope 3 emissions inventory in FY2021 is of steelmaking emissions
+estimated at 402.5 Mt CO -e. The most significant contributions
+to Scope 3 emissions come from the downstream processing of In FY2021, we have addressed some of the key limitations
+our products, in particular from the processing of iron ore and associated with estimating Scope 3 emissions in our reported
+metallurgical coal in steelmaking. inventory. We have worked to eliminate ‘double counting’ of
+emissions from our customers’ processing of iron ore and
+Key Scope 3 emissions addressed in this
+metallurgical coal in steelmaking, by allocating emissions
+transition plan#^
+between the two and reporting a single total Scope 3
+Million tonnes CO -equivalent
+2- estimation for emissions from steelmaking. We now include
+FY2021 FY2020 metallurgical coal together with iron ore under the ‘processing
+of sold products’ category to form a complete picture of
+Procurement* 10.4 10.4
+steelmaking emissions. This approach to improving accuracy
+Maritime 7.4 7.5 is consistent with the GHG Protocol’s Scope 3 Standard.
+Energy products** 76.4 96.8 We have also improved the accuracy of the emission factor
+used to estimate Scope 3 emissions by reflecting the blast
+Steelmaking, comprising: 300.5 292.9
+furnace integrated steelmaking route into which the majority
+Iron ore 260.7 252.8 of our steelmaking raw materials portfolio is sold. The
+improved estimation also considers our iron ore product
+Metallurgical coal 39.8 40.1
+quality and its impact on the amount of ore required to
+Future facing produce steel. We will adjust the balance of intensity factors
+5.0 5.2
+commodities as transparency in the industry grows and our product quality
+and sales placement evolve.
+# Source: BHP Annual Report 2021, available at bhp.com/annualreport
+^ Some non-material categories (representing less than 1 per cent of our total reported
+Scope 3 emissions inventory) that are not listed in the categories above include investments
+and non-maritime upstream and downstream logistics. Energy investments are discussed in
+the ‘Energy products’ sub-section below. Energy products
+* Procurement includes Scope 3 emissions reporting categories of purchased goods and
+services (including capital goods), fuel and energy related activities, business travel, and We are in the process of several portfolio changes that propose
+employee commuting.
+** In line with our reporting methodology for Scope 3 emissions, we define our energy to shape our business reflecting a range of criteria consistent
+products as oil, gas and energy coal and we account for metallurgical coal within our with our long-term strategy to maximise shareholder value. Each
+customers’ processing of sold products (within steelmaking emissions).
+Future facing commodities currently only includes our customers’ processing of copper. decision around portfolio must be made on its merits, and
+Other products including nickel and potash are currently not included because of the consider a range of impacts on economic, social and
+difficulty in determining their exact end use, current production volumes still being relatively
+low or inconsequential, and/or downstream emissions being estimated to be immaterial. environmental outcomes. Divestments also allow for a
+reallocation of capital towards other parts of the portfolio. Our
+We calculate Scope 3 emissions using methodologies consistent
+proposed portfolio changes will further enable us to focus our
+with the GHG Protocol Corporate Value Chain (Scope 3)
+investment on production of the future facing commodities that
+Accounting and Reporting Standard (Scope 3 Standard). This
+are the essential building blocks of a net zero transition.
+identifies five generally accepted principles: relevance,
+completeness, consistency, transparency, and accuracy. We Upon completion of these transactions, emissions associated
+have made key improvements to our reporting of steelmaking with customers’ use of our energy products will no longer be a
+emissions this year, as described in the Improving the significant portion of the overall reported emissions inventory in
+accuracy and transparency of steelmaking emissions box our reshaped, future facing portfolio.
+on this page. However, a degree of overlap in reporting
+In FY2021, customers’ use of our energy products contributed an
+boundaries still exists in other parts of Scope 3 emissions due to
+estimated total of 76.4 Mt CO -e to the ‘use of sold products’
+our involvement at multiple points in the life cycle of commodities 2
+category of our reported Scope 3 emissions inventory. This
+we produce and consume. As result, some ‘double counting’
+consisted of energy coal (38.3 Mt CO -e), natural gas (19.5 Mt
+may be inherent due to our position in the value chain and may 2
+CO -e), crude oil and condensates (16.8 Mt CO -e) and natural
+inflate the total Scope 3 figure reported. 2 2
+gas liquids (1.8 Mt CO -e). Metallurgical coal is excluded from
+As reporting improves in other parts of our value chain, we will this category and counted in steelmaking emissions under the
+seek to improve our own reporting, continuing to focus on customers’ processing of our products category.
+accuracy and relevance. For further detail on how we calculate
+our emissions inventory see the BHP Scope 1, 2 and 3 GHG Oil and gas
+Emissions Calculation Methodology, available at On 17 August 2021, we announced our intent to separate our oil
+bhp.com/climate. and gas business, including all our Petroleum operated assets
+and equity investments in non-operating oil and gas joint
+As noted, our Scope 3 targets are referable to a FY2020
+ventures, and combine it with Woodside’s oil and gas portfolio by
+baseline year and, in some cases, their boundaries differ from
+an all-stock merger. The merger is subject to confirmatory due
+the required reporting boundaries. We expect the significant
+diligence, negotiation and execution of full form transaction
+degree of uncertainty that currently affects Scope 3 reporting,
+documents, and satisfaction of conditions precedent including
+including ‘double counting’ and the inevitable inaccuracy of topshareholder, regulatory and other approvals, and expected to be
+level estimates for emissions intensity for different categories, to
+completed in the second quarter of the 2022 calendar year with
+improve over time as stakeholders work to refine Scope 3
+an effective date of 1 July 2021. For more information, refer to
+emissions reporting. As the boundaries and methodology of
+the Joint Announcement ‘Woodside and BHP to create a global
+accounting evolve, we will seek to recalculate the emissions
+energy company’ by Woodside and BHP dated 17 August 2021,
+baseline for our Scope 3 targets accordingly.
+available at bhp.com/investor-centre.
+The merged entity is expected to unlock synergies and increase
+choice for BHP’s shareholders in the energy transition, while
+building on Woodside’s and BHP’s shared values and focus on
+sustainable operations, carbon management and ESG
+leadership. We believe that the combined business will be more
+resilient, agile, and likely to have the necessary cash flow and
+BHP Climate Transition Action Plan 13
+
+[Table 1 — Page 13]
+Improving the accuracy and transparency
+----------------------------------------
+of steelmaking emissions
+In FY2021, we have addressed some of the key limitations
+associated with estimating Scope 3 emissions in our reported
+inventory. We have worked to eliminate ‘double counting’ of
+emissions from our customers’ processing of iron ore and
+metallurgical coal in steelmaking, by allocating emissions
+between the two and reporting a single total Scope 3
+estimation for emissions from steelmaking. We now include
+metallurgical coal together with iron ore under the ‘processing
+of sold products’ category to form a complete picture of
+steelmaking emissions. This approach to improving accuracy
+is consistent with the GHG Protocol’s Scope 3 Standard.
+We have also improved the accuracy of the emission factor
+used to estimate Scope 3 emissions by reflecting the blast
+furnace integrated steelmaking route into which the majority
+of our steelmaking raw materials portfolio is sold. The
+improved estimation also considers our iron ore product
+quality and its impact on the amount of ore required to
+produce steel. We will adjust the balance of intensity factors
+as transparency in the industry grows and our product quality
+and sales placement evolve.
+
+balance sheet to facilitate investment in emerging opportunities currently rely on the ‘spend-based’ method which covers ‘cradlesuch as hydrogen, ammonia and carbon capture, utilisation and to-gate’52 emissions as the reporting boundary. However, the
+storage (CCUS). The combined business should be better accounting of the above categories remains highly uncertain and
+placed to fund investments that support the energy transition category-level default factors based on spend do not accurately
+than two smaller, separate sets of assets. reflect the real intensity of goods and services procured. Our
+reported emissions inventory boundary based on this method will
+In FY2021, the Petroleum business (our Petroleum operated
+also differ from how we will track progress towards our Scope 3
+assets and equity investments in non-operating oil and gas joint
+target for procurement, which is focused on our ability to
+ventures) accounted for 38.1Mt CO -e of our reported Scope 3
+2 influence the Scope 1 and Scope 2 emissions of our direct
+emissions inventory in the ‘use of sold products’ category, and
+suppliers.
+2.3Mt CO -e in the downstream investments (i.e. our non2
+operated assets) category.
+We will target net zero53 by 2050 for the operational
+Energy coal GHG emissions of our direct suppliers,54 subject to
+In August 2020, we announced plans to divest our interests in the widespread availability of carbon neutral55 goods
+assets, including Cerrejón, a non-operated energy coal joint and services to meet our requirements.
+venture in Colombia, and New South Wales Energy Coal
+(NSWEC), to focus our coal portfolio on higher-quality In order to take targeted measures to support reduction and
+metallurgical coals used in steelmaking. management of emissions from the highest emitting supplier
+categories, we will take further steps to improve the recording of
+In June 2021, we announced the signing of an agreement to
+the carbon footprint of our supplier value chain. In FY2022, we
+divest our 33.3 per cent interest in Cerrejón, with an effective
+will review our procurement-related emissions methodology,
+economic date of 31 December 2020. Subject to the satisfaction
+seeking to incorporate accounting and intensity factors more
+of customary competition and regulatory requirements, this is
+tailored to a BHP-specific, rather than industry-wide, position.
+expected to complete in the second half of FY2022. In FY2021,
+Cerrejón51 accounted for 3.4 Mt CO -e of our reported Scope 3 We have started to engage with our major strategic suppliers to
+2 understand their emissions, climate roadmap, targets and risks.
+emissions inventory in the ‘use of sold products’ category, and
+In the short term, we plan to actively monitor and track our key
+0.05 Mt CO -e in the downstream investments (i.e. our non2 suppliers’ public commitments to decarbonisation. In coming
+operated assets) category.
+years, we will systemise the integration of our climate target into
+The process for NSWEC is progressing, in line with the two-year our supplier selection criteria, onboarding of new suppliers,
+timeframe we set last year. We remain open to all options and existing contract management practices and contract renewals.
+continue consultation with relevant stakeholders. In FY2021,
+Progressive improvement in the emissions intensity of inbound
+NSWEC accounted for 34.9 Mt CO -e of our reported Scope 3
+2 goods and services is expected, in line with country-level targets
+emissions inventory in the ‘use of sold products’ category.
+and corporate commitments. We will seek to partner in the
+development and commercialisation of carbon neutral goods and
+Procurement services targeting the needs of our business. We acknowledge
+BHP’s reported Scope 3 emissions inventory for procurement- the challenges that some of our suppliers may face in reducing
+related categories (purchased goods and services [including hard-to-abate emissions, and we plan to work with them through
+capital goods], fuel and energy related activities, business travel, knowledge sharing and research and development initiatives to
+and employee commuting) totalled 10.4 Mt CO -e in FY2021. support the pursuit of solutions.
+Reported emissions in these categories include emissions from
+production of equipment used in our operations; construction
+materials used in our capital projects; professional services; and
+the upstream emissions related to the production of fuels used in
+our operations.
+ For purchased goods and services, our current calculation
+methodology is the ‘spend-based’ method, assigning
+industry average emission factors to the economic value of
+the goods and services.
+ For fuel and energy related activities, industry-average
+Scope 3 emission factors for each fuel source and electricity
+are applied to the relevant consumption volumes from our
+operations to calculate an overall emissions estimate.
+ Business travel is calculated based on distance, sourced
+from our corporate travel services providers and other
+internal spend data. Employee commuting is primarily
+related to business flights and Fly-in Fly-out (FIFO) charters
+and is also calculated based on spend.
+Aligned with the GHG Protocol reporting standards, the majority
+of our emissions estimations for procurement categories
+51 Emissions for 2H2020 only; 1H2021 are not accounted or in FY2021 reporting as a result of the effective economic date for sale of BHP’s interest in
+Cerrejón.
+52 Cradle-to-gate includes all emissions that occur in the lifecycle of purchased products, up to the point of receipt by the reporting company (excluding
+emissions from sources that are owned or controlled by the reporting company).
+53 Net zero includes the use of carbon offsets as required.
+54 ‘Operational GHG emissions of our direct suppliers’ means the Scope 1 and Scope 2 emissions of our direct suppliers included in BHP’s Scope 3
+reporting categories of purchased goods and services (including capital goods), fuel and energy related activities, business travel, and employee
+commuting.
+55 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+BHP Climate Transition Action Plan 14
+
+[Table 1 — Page 14]
+In August 2020, we announced plans to divest our interests in | |
+----------------------------------------
+assets, including | Cerrejón | , a non-operated energy coal joint
+venture in Colombia, and New South Wales Energy Coal | |
+(NSWEC), | |
+
+[Table 2 — Page 14]
+In June 2021, we announced the signing of an agreement to |
+----------------------------------------
+divest our 33.3 per cent interest in | , with an effective
+economic date of 31 December 2020. |
+
+Maritime While we continue to support our shipping partners in achieving
+the IMO’s GHG strategy ambitions, including their 2030
+Maritime transport of our products contributed 7.4 Mt CO -e to
+2 emissions intensity targets, we believe that the IMO must set
+our reported Scope 3 emissions inventory in FY2021. BHP is
+more ambitious longer-term goals for international shipping and
+one of the largest dry bulk charterers in the world and maritime
+we will use our position to advocate for these.
+transport of our products makes up approximately 1 per cent of
+the international shipping emissions from the maritime industry. The use of offsets will be influenced by factors including remnant
+As a result, we recognise our role in supporting the maritime lifecycle emissions associated with the production, processing
+industry in meeting or exceeding the decarbonisation ambitions and transport of marine fuels, any remaining third partyplanned by the International Maritime Organisation (IMO), while chartered vessel emissions and the effectiveness of on board
+plotting a trajectory towards net zero shipping of our products by carbon capture and offshore storage. We will monitor the relative
+2050. emissions intensity of future low-emission technology and fuel,
+and use our position and actions to influence our value chain
+We will target net zero56 by 2050 for GHG emissions towards lower emissions-intensity options to minimise our use of
+from all shipping57 of our products,58 subject to the offsets in meeting the target.
+widespread availability of carbon neutral59 solutions In FY2022, we intend to begin to integrate the use of LNGincluding low/zero-emission technology on board fuelled bulk carriers into our maritime operations, while also
+suitable ships and low/zero-emission marine fuels. assessing the suitability of other routes for LNG or bio-fuelled
+bulk carriers. We will also explore additional ecosystem
+partnerships focused on wind-assisted propulsion and renewably
+Actions we are planning include investing in the Global Centre
+for Maritime Decarbonisation, to be established in Singapore. We
+produced future fuels. We expect that, in the long term, new
+fuels such as renewably produced diesel or LNG, or green/blue
+are seeking further opportunities to collaborate with ship owners
+ammonia or methanol-fuelled dry bulk vessels, will be required to
+and fuel suppliers on projects to test and adopt low/zerofully decarbonise the industry.
+emission fuels and energy-efficient technology on board ships.
+We commit to chartering and fuelling low/zero-emission vessels In addition to our existing use of RightShip’s GHG rating vetting
+in line with the rate they become available on the market. criteria, we are working to develop a sustainability analytics
+platform to analyse the operational energy efficiency and
+In the medium term, we will continue supporting 40 per cent
+emissions of BHP-chartered vessels. This will provide
+emissions intensity reduction of BHP-chartered shipping of our
+intelligence to enable more energy-efficient vessel selection, as
+products (our goal for 2030).
+well as more targeted emissions reduction insights and actions
+that can be pursued with our shipping partners.
+Our FY2021 progress in maritime
+Steelmaking
+BHP issued and awarded a world-first tender for loweremissions LNG-fuelled bulk carrier vessels for iron ore Steel is the backbone of the modern built environment and has
+transportation to Eastern Pacific Shipping and the LNG supply an important role in decarbonisation. Our 1.5°C scenario62
+agreement to Shell. This will significantly reduce GHG modelling suggests the world is expected to need almost twice
+emissions per voyage and virtually eliminate nitrogen oxides as much steel in the next 30 years as it did in the last 30. As
+(NOx) and sulfur oxides (SOx)60 emissions. climate action and the energy transition unfold, we expect steel
+to remain the key building block of global infrastructure,
+We signed a Memorandum of Cooperation to become one of
+underpinning the energy and economic transition as well as
+the founding members of the Global Centre for Maritime
+broader development goals.
+Decarbonisation. The Centre will be set up in Singapore and
+act as a focal point for the global maritime industry’s efforts in Emissions from steelmaking represent around 7-10 per cent of
+decarbonisation and innovation. We have initially pledged global total estimated emissions,63 meaning tackling the
+S$10M to support the establishment of the Centre and fund challenge of decarbonising the sector is crucial to meeting global
+research and development projects through the Centre. ambitions. The continued production of steel is necessary to
+BHP participated in the first marine biofuel trial involving an support future economic growth and to enable system-wide
+ocean-going vessel bunkering in Singapore in collaboration decarbonisation, even while it remains one of the most difficult
+with Oldendorff and GoodFuels, and supported by the sectors to abate.
+Maritime and Port Authority of Singapore. This trial sought to
+The Institutional Investors Group on Climate Change (IIGCC), in
+reduce GHG emissions by 80-90 per cent ‘well-to-wake’
+partnership with Climate Action 100+ (CA100+), recently
+compared with Heavy Fuel Oil/Very Low Sulphur Fuel Oil,
+published a report64 highlighting how difficult it will be to
+with fuel produced from sustainable waste and residue
+transition the global steel value chain to net zero by 2050. In
+streams. We recommitted to GHG rating vetting criteria of
+their modelling of even the most ambitious trajectory for
+RightShip61, choosing only to allow vessels into our supply
+innovation, investment and adoption of decarbonisation
+chain that have a better relative design efficiency compared to
+measures, the steel industry is considered unlikely to reach net
+peer vessels.
+zero.
+56 Net zero includes the use of carbon offsets as required.
+57 BHP-chartered and third party-chartered shipping.
+58 Target excludes maritime transportation of products purchased by BHP.
+59 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+60 SOx are not GHGs and not all NOx are GHGs. However, nitrous oxide is a GHG and is commonly included under the banner of NOx.
+61 RightShip is a leading maritime risk management and environmental assessment organisation that aims to improve the safety and environmental
+sustainability of the maritime industry. The company is equally owned by BHP, Rio Tinto and Cargill. More information is available at rightship.com.
+62 This scenario aligns with the Paris Agreement goals and requires steep global annual emissions reductions, sustained for decades, to stay within a
+1.5°C carbon budget. Refer to the BHP Climate Change Report 2020 available at bhp.com/climate for information about the assumptions, outputs and
+limitations of our 1.5°C Paris-aligned scenario.
+63 https://www.iea.org/reports/iron-and-steel-technology-roadmap
+64 https://www.iigcc.org/resources
+BHP Climate Transition Action Plan 15
+
+[Table 1 — Page 15]
+Our FY2021 progress in maritime
+----------------------------------------
+BHP issued and awarded a world-first tender for loweremissions LNG-fuelled bulk carrier vessels for iron ore
+transportation to Eastern Pacific Shipping and the LNG supply
+agreement to Shell. This will significantly reduce GHG
+emissions per voyage and virtually eliminate nitrogen oxides
+(NOx) and sulfur oxides (SOx)60 emissions.
+We signed a Memorandum of Cooperation to become one of
+the founding members of the Global Centre for Maritime
+Decarbonisation. The Centre will be set up in Singapore and
+act as a focal point for the global maritime industry’s efforts in
+decarbonisation and innovation. We have initially pledged
+S$10M to support the establishment of the Centre and fund
+research and development projects through the Centre.
+BHP participated in the first marine biofuel trial involving an
+ocean-going vessel bunkering in Singapore in collaboration
+with Oldendorff and GoodFuels, and supported by the
+Maritime and Port Authority of Singapore. This trial sought to
+reduce GHG emissions by 80-90 per cent ‘well-to-wake’
+compared with Heavy Fuel Oil/Very Low Sulphur Fuel Oil,
+with fuel produced from sustainable waste and residue
+streams. We recommitted to GHG rating vetting criteria of
+RightShip61, choosing only to allow vessels into our supply
+chain that have a better relative design efficiency compared to
+peer vessels.
+
+For BHP, emissions from the processing of iron ore and deployment of technologies and energy sources for steel
+metallurgical coal within customers’ steelmaking operations decarbonisation must be supported by regulators and investors
+totalled 300.5 Mt CO -e in FY2021, representing 75 per cent of and shared appropriately across the value chain. These costs
+our total reported Scope 3 emissions inventory. will need to be captured in price signals further downstream to
+the end consumer in order to incentivise the development of
+BHP’s iron ore and metallurgical coal is processed almost
+solutions. Through wide-scale deployment and adoption, these
+exclusively within the blast furnace-basic oxygen furnace (BFcosts can be brought down over time through efficiencies of
+BOF) steelmaking process, which today represents 72 per cent
+scale and innovation.
+of steel production.65 The BF-BOF is favoured because of its
+efficiency and operational flexibility, enabling the use of a For more on BHP’s views on the key technologies needed to
+broad range of iron ore qualities. However, the BF-BOF decarbonise steel, refer to our “Pathways to decarbonisation”
+process is roughly five times more emissions intensive than series available at bhp.com/media-and-insights/prospects/
+scrap-based electric arc furnace (EAF) and two times more
+emissions intensive than natural gas-based direct reduced  Pathways to decarbonisation episode one: power
+iron-EAF (DRI-EAF).  Pathways to decarbonisation episode two: steelmaking
+technologies
+The blast furnace (BF) relies on coke (produced from
+metallurgical coal) to remove oxygen and other impurities from  Pathways to decarbonisation episode three: regional
+iron ore to yield metallic iron. While low carbon fuels such as approaches to steel
+hydrogen can supplement energy requirements, only coke can
+ Pathways to decarbonisation episode four: hydrogen
+provide the structural support required for efficient BF operation.
+Utilising our deep understanding of the steelmaking process, we Steelmaking: inherent uncertainties to net zero
+have developed a Steel Decarbonisation Framework to examine There are a number of global uncertainties that must be
+the stages that the industry must pass through on its reckoned with in terms of achieving net zero in steel. These are
+decarbonisation journey, and associated technologies (Figure 4). principally in the areas of technology development (including
+The framework envisions an ultimate, assumed ‘green’ end-state cost). Beyond this, there are a range of regional factors that are
+in which carbon neutral steel can be produced due to the equally influential (and in some cases maybe more so) in
+adoption of incremental and transformative technologies such as determining likely future pathways. Key factors include:
+hydrogen-based direct reduced iron (DRI) or electrolysis. This
+would require access to affordable renewable electricity,  Availability of lower carbon raw material feedstock (including
+widespread commercial-scale low or zero carbon alternative but not exclusively scrap)
+fuels (like hydrogen and biofuels) and supporting infrastructure.
+ Age of existing facilities
+In the transition to this ‘green’ end state, additional abatement
+measures such as BF optimisation technologies (including use of  Variable levels of policy support (either subsidies for
+low carbon fuels and/or top gas recycling) and CCUS would also technology or carbon pricing to incentivise abatement)
+be necessary.  Exposure to international trade in steel and steel products
+Capital cost estimates for decarbonisation of the global steel  Future growth in demand for affordable steel
+sector vary widely, dependent upon technology pathways and
+assumptions regarding the inclusion of associated renewable
+energy infrastructure, but typically exist in the range of US$1
+trillion and US$3 trillion (cumulative).66 As argued by the IIGCC
+and other industry stakeholders, the costs of development and
+Figure 4: BHP’s steel decarbonisation framework
+65 https://www.iea.org/reports/iron-and-steel-technology-roadmap
+66 See, for example, the Global Financial Markets Association, Climate Finance Markets and the Real Economy
+BHP Climate Transition Action Plan 16
+
+Different regions will progress decarbonisation at different paces higher penetration of alternative steelmaking processes.
+because of the factors outlined above. Today’s policies and However, potential reduction in demand could be offset by
+signposts indicate that most regions will only achieve a green expected increase in premiums for higher quality coal, which
+end-state after 2050, as illustrated by the steel outcomes in our BHP would be well placed to capture. It is important to
+Central Energy and Lower Carbon scenarios (Figure 5)67. emphasise that we consider the likelihood of the Deep Green
+hypothetical to be much lower than our Central and Lower
+Even assuming a step-change and global convergence in Carbon scenarios.
+regulatory and technological factors over the next decade, our
+modelling indicates that it is still difficult to achieve net zero We do note that the commitment to enable swifter
+sector emissions for key steel producing regions. To explore the decarbonisation pathways in the steel sector is gathering
+bottom-up limits of steel decarbonisation on a regional basis, we momentum. Today, 34 per cent of BHP’s current iron sales are
+have developed a “Deep Green” hypothetical for the steel sector. to customers that have net zero targets in place. These
+commitments are underpinned by net zero commitments in the
+Deep Green seeks to simulate the specific impact on the steel major Asian steelmaking nations of China (2060), Japan (2050)
+sector of a much more rapid global convergence towards and South Korea (2050). However, although ambitions are
+decarbonisation, universal access to zero emissions electricity growing, a pathway to net zero for steel is still highly uncertain.
+and a US$200 per tonne global carbon price. It is not like the Despite the supportive regulatory landscape, emitters may still
+whole-system modelling with global temperature outcomes like be constrained by bottlenecks in scrap availability and the ramp
+our Central Energy or Lower Carbon scenarios. Deep Green is up of low emissions steelmaking capacity. Notably, some
+also entirely separate to BHP’s 1.5°C scenario (which is a global steelmakers expect to utilise offsets and carbon abatement
+top-down technical model more similar in approach to the solutions (including CCUS), in addition to new production
+Central Energy and Lower Carbon scenarios) In this Deep Green technologies, to achieve their long-term goals.
+hypothetical, global steel emissions fall by around two-thirds
+Finally, steel producers have available various decarbonisation
+from current levels, bringing absolute volumes well below the
+levers (such as scrap usage), which do not always result in
+1990 base level. That is significant, but is not net zero. Even in
+reduced emissions from customers’ processing of our products.
+Europe, which has positive exposure to the factors outlined
+Net zero for some of our steel producers may not result in
+above, net zero is not achieved. Under the Deep Green
+equivalent reduction of BHP’s value chain emissions.
+hypothetical, primary iron demand could be modestly affected
+due to higher scrap use. Metallurgical coal demand volumes may
+be lower than projected in our climate change scenarios due to
+Figure 5: Steel emissions for key regions under different assumptions
+67 The Central Energy View and Lower Carbon View scenarios are described in the footnotes to section 4 below, and in more detail in the BHP Climate
+Change Report 2020 available at bhp.com/climate. There are inherent limitations with scenario analysis and it is difficult to predict which, if any, of the
+scenarios might eventuate. Scenarios do not constitute definitive outcomes for us. Scenario analysis relies on assumptions that may or may not be, or
+prove to be, correct and may or may not eventuate, and scenarios may be impacted by additional factors to the assumptions disclosed.
+BHP Climate Transition Action Plan 17
+
+Steelmaking: BHP’s action plan Future facing commodities
+Recognising the particular challenge of a net zero Future facing commodities are those that BHP deem to be
+pathway for customers’ processing of our products68, positively leveraged to the mega-trends, including
+decarbonisation, that are playing out in the world around us, as
+which is dependent on the development and downstream
+indicated by our scenario analysis including our 1.5°C scenario.
+deployment of solutions and supportive policy, we will
+In general, the demand for future facing commodities increases
+continue to partner with customers and others to
+as the scale of decarbonisation encapsulated in each scenario
+accelerate the transition to carbon neutral69 steelmaking. increases. The modelled demand increases are of sufficient
+scale that they may be expected to have a material impact on
+In the medium term, we will continue supporting industry to
+long-term market balance. Currently, the major commodities in
+develop technologies and pathways capable of 30 per cent
+the BHP portfolio that fall within this criteria are copper, nickel,
+emissions intensity reduction in integrated steelmaking, with
+and potash.
+widespread adoption expected post 2030 (our goal for 2030).
+Buyers of future facing commodities are increasingly demanding
+As the IIGCC noted in their report, the decarbonisation of the
+improved supply chain sustainability and traceability. The legal
+steel industry is inherently a value chain effort that will require
+landscape, governmental policies and corporate goals continue
+contributions from policy makers, investors, steel producers,
+to push the industry towards more sustainable practices and set
+suppliers and customers. We have a number of partnerships and
+new performance criteria for decarbonisation. Key nickel and
+internal initiatives underway to test and implement low-carbon
+copper customers such as automakers and battery
+steelmaking technologies and raw materials.
+manufacturers have indicated they are firstly focusing on
+ In FY2021, we announced memoranda of understanding for removing emissions from their own operations and then from the
+partnerships with China Baowu, JFE and HBIS to invest up to entire value chain.
+a total of US$65 million in research and development of steel
+We will support industry to develop technologies for
+decarbonisation pathways. We also established a research
+improved traceability and support the value chain by
+program with University of Newcastle in Australia to study
+pursuing carbon neutral70 production of our future facing
+raw material properties in low carbon iron and steel making.
+commodities, such as copper, nickel and potash, to
+ Additionally, BHP Ventures is strategically investing in a
+provide the essential building blocks of a net zero
+range of emerging companies, including some focused on
+transition.
+low- or no-carbon steelmaking. Our portfolio includes various
+investments in electrochemical technologies that are In FY2021, emissions related to our customers’ processing of
+particularly amenable to processing our Pilbara iron ores, copper was 5 Mt CO -e, representing only one per cent of our
+potentially providing BHP and our customers with added total reported Scope 3 emissions inventory. Our customers’
+optionality to complement other more readily available processing or application of other products and/or by-products,
+technologies, such as hydrogen-based DRI. including nickel and potash, are currently not included because
+ We are currently assessing the opportunity to implement of the difficulty in determining their exact end use, current
+beneficiation at our Jimblebar operation. By improving our production volumes still being relatively low or inconsequential,
+product quality, we can support emissions reduction in the and/or downstream emissions being estimated to be immaterial.
+short- to medium-term within the integrated BF-BOF
+For nickel, we have estimated the downstream emissions
+steelmaking process. Longer-term, advancements in
+associated with the use of our product. The majority of our nickel
+beneficiation and or EAF technology may see a greater
+is sold to the battery industry and we have consulted with that
+proportion of BHP’s ores used in DRI-EAF steelmaking.
+industry to assess value chain emissions. While the emissions
+We will continue to seek opportunities to form partnerships with associated with nickel production (accounted for in BHP's Scope
+our customers and others in the industry to advance the 1 and Scope 2 emissions) are a material part of total emissions
+development of key technologies and products. In FY2022, we in the battery value chain, the emissions downstream from our
+intend to progress research and development and develop plans nickel production are not material to our total reported Scope 3
+for operational testing and trials under the three steelmaking emissions inventory. As emissions reporting standards in the
+partnerships described above. In the long-term, we expect battery sector improve, we will aim to include nickel downstream
+significant advancements in CCUS for the blast furnace and Scope 3 emissions within our reporting.
+green hydrogen DRI-EAF will also be needed.
+For potash, we announced on 17 August 2021 the approval of
+US$5.7 billion (C$7.5 billion) in capital expenditure for the
+Jansen Stage 1 potash project in the province of Saskatchewan,
+Canada. Jansen is designed with a focus on sustainability,
+including embedding a low carbon footprint and low water
+intensity in the design.71 First ore is not targeted until the 2027
+calendar year, so downstream emissions are currently
+immaterial, however we project that the potential emissions
+associated with our customers’ processing and application of
+potash may be lower relative to that of other fertilisers.72
+68 In line with our reporting methodology for Scope 3 emissions, we define ‘processing of our products’ as emissions resulting from our customers’
+processing of our products comprising iron ore and metallurgical coal (steelmaking materials) and copper (assumed to be processed into copper wire
+for end use).
+69 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+70 Carbon neutral includes all those greenhouse gas emissions as defined for BHP reporting purposes.
+71 Scope 1 and Scope 2 emissions of ~60kg CO2-e/t. Scope 1 and Scope 2 emissions for flotation-based MOP 50-80 kg CO2-e/t, other production routes
+are 100-500kg. High nutrient concentration (60 per cent K2O) maximises efficiency in transportation and spreading.
+72 From BHP research conducted so far, nitrogen-based fertilisers appear to have a larger downstream emissions impact than potash-based fertilisers.
+However, trying to estimate the GHG contribution impact of fertiliser on soils and crops is very complicated. We continue to develop and improve our
+knowledge in this area. Scope 3 impact relates only to emissions associated with downstream processing and application, not other considerations
+such as transportation.
+BHP Climate Transition Action Plan 18
+
+4. Assessing capital alignment with a trends pose to the resilience of our portfolio and investment
+decisions, and identify how well placed we are to act on
+1.5°C world73
+opportunities they may present.
+We recognise the importance of demonstrating how our capital Evolving our approach in FY2022
+allocation aligns with our strategy and action on climate change.
+Global action to decarbonise under a 1.5°C trajectory would
+Our stakeholders want to understand the potential impacts on
+represent a significant shift in the global economy. Such a
+our business if the world takes the actions necessary to limit
+transition would be complex, multi-faceted and could reasonably
+global temperature increase to 1.5°C, and how we consider
+be expected to manifest in unique ways across different regions,
+these potential impacts in our strategic decision making and
+reflecting heterogeneous local conditions. We intend to
+allocation of growth capital.
+systematically integrate one or more Paris-aligned scenarios
+(including 1.5°C scenarios) into our strategy and capital
+Stakeholders have also communicated that they want to be able
+prioritisation processes beginning in FY2022. This will enhance
+to assess whether we are allocating sufficient capital to meet our
+our current approach, in which our 1.5°C scenario is used to
+targets to reduce operational emissions (Scope 1 and Scope 2).
+inform and test strategic portfolio decisions.
+See Section 2 above for how we are investing in operational
+decarbonisation through asset-level planning and our Capital
+Green revenue
+Allocation Framework. The Basis of Preparation (BoP) of BHP’s
+FY2021 financial statements describes how operational Green revenue is intended as a measure of the extent to which
+emissions reduction projects are considered in our key products and services contribute to the transition to a green
+accounting judgements and estimates. The BoP also describes economy76. While these contributions will be measured on a
+the two scenarios (Central Energy View74 and Lower Carbon range of important indicators (including water conservation,
+View75) currently being used as inputs to our operational biodiversity or reforestation), much of the discussion about green
+planning cases, based on our current estimates of the most likely revenue is focused around the contribution to the transition to
+range of futures for the global economy and associated sub- renewable energy that is vital for climate change mitigation.
+systems. These operational planning ranges are periodically
+There is no settled methodology for classifying green revenue in
+reviewed to reflect new information. They impact certain of the
+the resources sector. In response to increased investor interest
+significant judgements and key estimates that Management is
+in the concept, in FY2021 we reviewed potential approaches to
+required to make in the preparation of BHP’s Financial
+classification and measurement of green revenue, starting with
+Statements, including the determination of the valuation of
+consideration of how our products contribute to addressing the
+assets and potential impairment charges, the estimation of the
+challenge of climate change.
+remaining useful economic life of assets for depreciation
+purposes, the timing of closure and rehabilitation activities and We expect many of our commodities to be important to the
+the recoverability of certain deferred tax assets. For more energy transition. For example, the International Energy
+information, refer to the BHP Annual Report 2021 available at Agency’s ‘The Role of Critical Minerals in Clean Energy
+bhp.com/annualreport. Transitions’ report77 highlights the critical role of copper and
+nickel. Our 1.5°C scenario78 indicates demand growth for
+Our capital alignment approach copper, nickel and potash could be even more compelling as the
+We consider a range of different global, sectoral and regional world takes action to decarbonise. Iron ore also fares slightly
+scenarios in forming our strategy and in operational and better under our 1.5°C scenario versus our other scenarios, as
+commercial decision making. steel requirements of the energy transition are expected to be
+considerable.
+Our decisions on portfolio composition and capital allocation are
+The most commonly used measure for green revenue is based
+based on assessment of plausible future pathways and then
+on end use of products. However, this measure is not
+tested against a range of scenarios. For example, in 2020 we
+straightforward, for two reasons.
+updated our portfolio analysis to include our 1.5°C scenario to
+better identify signposts for climate-related risks and
+ Identifying the end use of some commodities is challenging.
+opportunities, and understand how our scenario’s trajectory
+Copper and iron ore, in particular, undergo multiple stages of
+towards a 1.5°C world might impact our strategy and portfolio
+processing and have a diverse range of end uses.
+resilience (refer to the BHP Climate Change Report 2020
+ The way in which commodities are produced is not captured
+available at bhp.com/climate for more information).
+by end use measures. However, production methods for the
+Applying a wide range of scenarios is intended to enable us to resource sector can in themselves be an important
+examine divergent pathways to identify the biggest and most contributor to achieving a green economy. For example, our
+durable trends, determine the balance of risks that these external Chilean copper operated asset at Escondida is on track to
+73 The Paris Agreement’s central aim is to strengthen the global response to the threat of climate change by keeping a global temperature rise this
+century well below 2°C above pre-industrial levels and to pursue efforts to limit the temperature increase even further to 1.5°C. There are a range of
+GHG emissions trajectories to 2100 that could limit global warming to 1.5°C above pre-industrial levels. We refer to a ‘1.5°C world’ as the 2050 point
+on these trajectories.
+74 Central Energy View reflects, and is periodically updated to respond to, existing policy trends and commitments and currently tracks to approximately
+3°C temperature increase above pre-industrial levels by 2100. Refer to the BHP Climate Change Report 2020 available at bhp.com/climate for more
+information.
+75 Lower Carbon View currently tracks to approximately 2.5°C temperature increase above pre-industrial levels by 2100, and accelerates
+decarbonisation trends and policies, particularly in easier-to-abate sectors such as power generation and light duty vehicles. Refer to the BHP Climate
+Change Report 2020 available at bhp.com/climate for more information.
+76 A green economy is defined by the UN Environment Programme as low carbon, resource efficient and socially inclusive. In a green economy, growth
+in employment and income are driven by public and private investment into such economic activities, infrastructure and assets that allow reduced
+carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services. Refer to
+Green Economy at unep.org for more information.
+77 The Role of Critical Minerals in Clean Energy Transitions, World Energy Outlook Special Report, May 2021.
+78 This scenario aligns with the Paris Agreement goals and requires steep global annual emissions reductions, sustained for decades, to stay within a
+1.5°C carbon budget. Refer to the BHP Climate Change Report 2020 available at bhp.com/climate for information about the assumptions, outputs and
+limitations of our 1.5°C Paris-aligned scenario.
+BHP Climate Transition Action Plan 19
+
+have 100 per cent renewable electricity supply by the mid- part of the local community for the long term, which is why social
+2020s, and source desalinated water for operational value is an important part of the way we do business.
+purposes, minimising water extraction from sensitive Andean
+As a global leader in the development of natural resources, we
+aquifers.
+have an opportunity to demonstrate a planned and purposeful
+approach to closure and rehabilitation through the life cycle of
+End use may therefore not be the sole appropriate measure of our operated assets. Our process considers risks and
+products’ contribution to the energy transition, and other opportunities, for the communities and environment where we
+measures (such as how they are produced) may also be useful, operate, as well as shareholder value. Where value cannot be
+and even be more appropriate in some circumstances. generated from divestment, the best option to balance financial,
+workforce and community considerations may be to retain an
+In FY2021, we have applied an approach to green revenue
+asset and transition it towards closure, while setting a leading
+based on end use, using nickel and uranium by way of
+example for both rehabilitation and partnership with employees,
+illustration. At this stage, these are the most straightforward of
+local community and governments.
+our commodities for which to determine contribution to the
+energy transition from their end use. In FY2022, we intend to It drives toward optimised closure outcomes for our sites by
+continue to consult with investors, industry and standard setters balancing our values, obligations, safety, costs and the
+to explore ways of establishing clear methodologies for expectations of external stakeholders to enable an outcome that
+classification and measurement of green revenue. We also plan involves one or a combination of an alternative land-use,
+to work with our customers, suppliers and others in our value ongoing management, relinquishment or divestment. We
+chain to improve the traceability of our products and the maintain a provision for closure and rehabilitation, which
+emissions produced by their use. currently stands, as disclosed in the BHP Annual Report 2021, at
+US$11.9 billion.
+Battery manufacture contributes to climate change mitigation79.
+Therefore, for illustrative purposes,80 we have measured the Each of our operations (whether they are projects, producing
+revenue from our sales to battery materials suppliers as green assets, in care and maintenance or a closed site) must have a
+revenue. Seventy two per cent of BHP’s battery-suitable nickel Closure Management Plan, documenting the implementation of
+metal81 was sold to global battery material suppliers in FY202182. the closure management process. This process includes
+For FY2021, our green revenue from battery-suitable nickel collating relevant knowledge and data, undertaking a risk and
+metal amounted to US$760 million83. opportunity assessment, framing closure options, comparing
+alternative options, and selecting the optimised closure
+Australian uranium is sold for nuclear power generation only, a outcomes, underpinned by ongoing stakeholder engagement
+low emissions source of electricity, and therefore, also for and communication. Closure Management Plans are required to
+illustrative purposes, we have measured all revenue from be supported by stakeholder engagement plans for the lifecycle
+uranium as green revenue. For FY2021, our green revenue from of the site, and should balance business and stakeholder needs
+uranium amounted to US$249 million. while meeting the following objectives:
+5. Just transition  Meet all legal requirements and obligations, and recognised
+industry practice
+The Paris Agreement recognises the need to reduce emissions
+ Manage pre- and post-closure risks and opportunities
+but also to take “into account the imperatives of a just transition
+ Manage and optimise costs
+of the workforce and the creation of decent work and quality jobs
+in accordance with nationally defined development priorities”.84  Achieve safe and stable outcomes and meet approved
+environment outcomes
+The process of structural adjustment as economies and
+ Progressively reduce obligations
+consumer priorities evolve is not new. However the energy
+transition implies an adjustment process on a global scale that
+At some of our operations, the transition to new skill sets is
+will likely extend for decades as the world pursues
+already underway through the changing use of technology. For
+decarbonisation of power generation and industrial processes.
+example, the implementation of autonomous haulage at sites
+And the energy transition is only one aspect of the way in which
+such as Western Australia Iron Ore’s Jimblebar mine has
+economies are anticipated to evolve in the decades to come.
+provided opportunities for our workforce to gain new skills. While
+Such transitions must balance the needs of communities, nations the introduction of this technology removes the need for an
+and investors and protect our environment for the long term. operator in the haul truck, new roles are being created in the
+Both financial and social value considerations are relevant - and operations as a result. Roles such as field officers, service
+inherently linked. technicians and mine controllers are an essential part of an
+autonomous operation and we are working with our people to
+Social value is the positive contribution we make to the
+provide opportunities to transition into these new roles. Our
+environment and society. It goes hand in hand with financial
+people and the communities in which we operate are central to
+value in our decision-making, and we believe this approach is in
+this change.
+the long-term best interests of shareholders. The longevity of our
+assets means that it is important for us to think and plan in We also recognise that reducing employee numbers at certain
+decades. When we invest in a region, we become an intrinsic operations can impact the viability of local communities, so it is
+important to consider not just which roles transition, but where
+they are located. As an example of where we have considered
+79 For example, the draft EU taxonomy recognises battery manufacture as a significant contributor to climate change mitigation. The EU Taxonomy is a
+classification system, establishing a list of environmentally sustainable economic activities. Note the EU taxonomy does not presently cover the
+mining sector. https://ec.europa.eu/finance/docs/level-2-measures/taxonomy-regulation-delegated-act-2021-2800-annex-1_en.pdf
+80 Recognising that a settled methodology for classifying green revenue in the resources sector has yet to be determined.
+81 Battery suitable nickel metal is defined as nickel briquettes and nickel powder. It does not include off-spec nickel metal.
+82 Based on percentage battery-suitable nickel metal sales to battery material suppliers. Where customer’s planned end-use is not known with certainty
+to be for battery supply, assumptions of usage have been made using historical nickel metal usage for those customers.
+83 Calculated based on gross revenue from battery-suitable nickel metal multiplied by percentage of BHP’s sales of nickel metal to battery material
+suppliers.
+84 Paris Agreement preamble, https://unfccc.int/sites/default/files/english_paris_agreement.pdf.
+BHP Climate Transition Action Plan 20
+
+these issues, in 2020 we launched our FutureFit Academy as specific coalitions and initiatives. Key examples of our recent
+part of BHP Operations Services, a new team of permanent BHP public advocacy include:
+employees that provides production and maintenance services.
+ We are a signatory to the World Bank’s ‘Putting a Price on
+Among other things, the FutureFit Academy is intended to
+Carbon’ statement and a partner in the Carbon Pricing
+develop the future facing skills in our teams to operate and
+Leadership Coalition, a global initiative that brings together
+maintain the zero-emission trucks under development through
+leaders from industry, government, academia and civil
+our collaboration with Komatsu. Candidates from regional
+society with the goal of putting in place effective carbon
+communities are specifically targeted, and are offered fit-forpricing policies. As part of this, we participated in the
+purpose training programs in dedicated learning centres in Perth,
+development of the Report of the High Level Commission on
+Western Australia or Mackay, Queensland. Once trained and
+Carbon Pricing and Competitiveness.
+qualified, graduates are offered a permanent position with the
+Operations Services Maintenance team at one of our Australia-  We have supported efforts by the Centre for Climate and
+based operations in Western Australia's Pilbara or Queensland's Energy Solutions (C2ES) to strengthen the policy response to
+Bowen Basin regions. climate change in the United States. This included signing on
+to public statements calling for the administration and
+Where demand for a commodity is expected to be particularly Congress to ‘enact ambitious, durable, and bipartisan climate
+impacted by the transition, the opportunity for migration to policies’, and to prioritise investment in low carbon
+alternate mining roles may not be possible and therefore infrastructure. We also opposed the previous administration’s
+alternative solutions will need to be identified in cooperation with change to methane emissions rules.
+government and the community themselves.
+ We have provided feedback on key aspects of the Australian
+Currently, there are several external frameworks related to Government’s approach to climate change, including the
+ensuring a just transition. Developing a common understanding proposed Corporate Emissions Reduction Transparency
+of just transition and tracking progress will be essential for report and the Technology Investment Roadmap.
+success, allowing companies to make clear commitments and We recognise there is considerable stakeholder interest in the
+investors to identify benefits of effective implementation. role played by industry associations in public policy debates,
+particularly in the context of climate change policy. Over the past
+The CA100+ Net Zero Company Benchmark, in its Disclosure
+five years, we have introduced a range of measures to
+Indicator 9, requests that a company considers the impacts from
+strengthen governance of our member associations and their
+transitioning to a lower-carbon business model on its workers
+climate change advocacy. These have included:
+and communities. CA100+ has not yet fully developed this
+indicator. In FY2022, we intend to contribute to the CA100+  Establishing a transparent process to review the alignment
+development work, providing insights from our sector. between BHP’s climate policy positions and those held by our
+member associations, and to act where ‘material differences’
+6. Climate policy engagement
+have been identified
+Achieving the Paris Agreement goals will require supportive  Publishing our Global Climate Policy Standards, which set
+policy across jurisdictions globally. The following principles our expectations for how member associations should
+underpin our views on how governments should take action on advocate on climate policy
+climate change:
+ Committing to disclose in ‘real time’ if we determine that one
+ Climate change is a global challenge, and international of our member associations has substantially departed from
+collaboration is required to maximise emissions reductions our Global Climate Policy Standards
+and minimise impacts to competitiveness.  Working with key member associations in Australia to clarify
+ National governments should set long-term climate change advocacy roles and responsibilities and improve the
+targets consistent with the Paris Agreement and intermediate transparency of their advocacy activities
+targets aligned with this goal. Such certainty is essential to
+ Disclosing key information about BHP’s material member
+support business decision making.
+associations, including membership fees and our rationale for
+ Policymaking should accommodate changes in scientific membership85
+understanding over time, take into account full life-cycle
+impacts and promote the most efficient system-wide BHP has also been taking proactive steps to enhance the
+decarbonisation outcomes. climate advocacy of our member associations. This has involved:
+ Least-cost abatement should be the primary focus of climate  Working with other members to progress the Mineral Council
+mitigation policies. This is most likely to be realised through of Australia’s (MCA) Climate Action Plan. This plan is focused
+market mechanisms (including carbon pricing) and outcomes- on developing technology pathways to drive emissions
+based regulatory approaches. reduction, improving the sector’s understanding and
+ Governments should play an active role in supporting the management of climate change risks, and raising awareness
+development and deployment of low emissions technologies. of the sector’s response to climate change.
+ Governments should undertake regular adaptation planning  Working with the Australian Petroleum Production and
+and introduce policies to strengthen the adaptive capacity of Exploration Association to update its climate change policy
+businesses and communities. principles. These provide explicit support for achieving net
+The policy-making process is complex and change is unlikely to zero emissions by 2050, and are aligned with BHP’s Global
+be smooth or linear. We believe we can best support policy Climate Policy Standards.
+development by ensuring we meet our own climate
+ Supporting the efforts of the C2ES, the CEO Climate
+commitments, continuing to make the case for the economic
+Dialogue and the Climate Leadership Council to provide
+opportunities arising from the energy transition, and focusing on
+public backing for the enactment of enact ambitious climate
+those policy areas where we are likely to have the greatest ability
+policy in the United States Congress.
+to influence change.
+ Contributing to the development of the Business Council of
+We engage on policy matters directly with government and Australia’s new National Climate Strategy, which is expected
+through our membership of industry associations and issue85 Refer to bhp.com/our-approach/operating-with-integrity/industry-associations-bhps-approach/.
+BHP Climate Transition Action Plan 21
+
+to be released ahead of the 26th United Nations Climate 2020, with performance against operational emissions and value
+Change Conference of the Parties (COP26) in late 2021. chain measures now representing 10 per cent of the Cash and
+Deferred Plan (CDP) scorecard.
+We are also strengthening our approach by subjecting our
+material member associations to a formal industry association The 10 per cent climate change component applied to
+review, as we announced in 2020. In accordance with BHP’s remuneration paid in respect of FY2021 and includes these key
+principles for participating in industry associations, if the review measures:
+process identifies a material difference with a member
+association on climate policy, BHP will consider a range of  Reductions in Scope 1 and Scope 2 operational GHG
+remediation measures, including suspension or cessation of emissions
+membership. BHP’s general view, however, is that there is  Short and medium-term actions to reduce operational GHG
+greater scope to achieve positive climate outcomes if we use our emissions on the pathway to net zero emissions
+influence within industry associations.
+ Short and medium-term actions to address value chain
+As an example of this, BHP’s 2019 industry association review (Scope 3) GHG emissions
+identified two material differences with the US Chamber of
+Stakeholder engagement
+Commerce (US Chamber), relating to the association’s previous
+opposition to specific emissions reduction targets and carbon The Board uses a range of formal and informal communication
+pricing. Through engagement from BHP and other member channels to seek to understand and take into account the views
+companies, the US Chamber recently updated its climate change of shareholders. Feedback and commentary related to climate
+position statement to provide support for market-based change are increasingly a part of all of our routine investor
+approaches to accelerate emissions reduction across the US engagements, including results roadshows with the CEO and
+economy. The US Chamber also recently welcomed the return of CFO, and the Chair’s investor engagement meetings. A
+the United States ‘to international leadership on climate change’ summary of this feedback is provided to the Board.
+following the announcement of President Biden’s new climate
+In FY2021, the CEO, CFO, senior management and the Investor
+goal. BHP will continue to use its position on the US Chamber’s
+Relations team held virtual meetings and roundtables with
+Task Force on Climate Action to further strengthen the
+investors worldwide. Topics covered included corporate
+association’s advocacy on climate policy, particularly in regard to
+governance and ESG matters, steel decarbonisation
+providing clearer support for carbon pricing and emissions
+technologies, strategy, finance and operating performance. We
+reduction targets aligned with the Paris Agreement goals.
+also engaged regularly with the CA100+ on a range of
+The next update to this review will be published in 2022. Further decarbonisation and emissions related topics, and with the
+information on our approach to industry associations is available Transparency Pathway Initiative and FTSE Russell about their
+at bhp.com/our-approach/operating-with-integrity. methodologies relating to the transition and approach to mined
+commodities.
+7. Climate governance
+Management authority
+Climate change is a material governance and strategic issue and
+Below the level of the Board, key management decisions are
+is routinely on the BHP Board’s agenda, including as part of
+made by the CEO and management, in accordance with their
+strategy discussions, portfolio reviews and investment decisions,
+delegated authority. Our Executive Leadership Team (ELT) is
+risk management oversight and monitoring, and performance
+held to account for a range of measures including climate-related
+against our commitments.
+performance, which are then cascaded through the organisation.
+The Sustainability Committee assists the Board in overseeing
+BHP has a dedicated Climate Change Team that is responsible
+the Group’s climate change performance and governance
+for advising the ELT. The team collaborates with BHP’s functions
+responsibilities, and the Risk and Audit Committee assists the
+and asset teams, external partners and industry to develop
+Board with the oversight of climate-related risk management,
+practical climate change solutions, designed to preserve and
+although the Board retains overall accountability for BHP’s risk
+unlock long-term value for the Group. It regularly prepares
+profile.
+information and advice for the ELT, Sustainability Committee,
+Board skills and experience Risk and Audit Committee and the Board on climate-related
+strategy, risks and opportunities, and performance against
+Board members bring experience from a range of sectors,
+climate-related metrics. It also monitors key risk indicators and
+including resources, energy, finance, technology and the public
+signposts against our appetite for climate change-related risks.
+sector. The Board also seeks the input of suitably skilled
+members of management and independent advisers. This equips Climate-related activity is also undertaken across the Group,
+them to consider potential implications of climate change on BHP including in our Portfolio Strategy and Development,
+and our operational capacity, as well as to understand the nature Commercial, Planning and Technical and Environment teams.
+of the debate and the international policy response as it These activities are overseen by the Climate Change Steering
+develops. In addition, there is an ongoing focus on Committee, which is made up of ELT representatives of our
+understanding systemic risk and the potential impacts on our Operational and Commercial teams, plus Legal, Governance,
+portfolio. Finance, Planning and Investor Relations functions.
+The Board has taken measures designed to ensure its decisions
+8. TCFD disclosure
+are informed by climate change science and expert advisers.
+The Board seeks the input from management (including Dr Fiona We have been reporting in line with the Task Force on ClimateWild, our Vice President Sustainability and Climate Change) and related Financial Disclosures (TCFD) recommendations since
+a range of independent advisers. In addition, our Forum on the recommendations were released in 2017. For example, the
+Corporate Responsibility (which includes Don Henry, former BHP Climate Change Report 2020 aligns with the TCFD’s
+CEO of the Australian Conservation Foundation and Changhua themes of Governance, Strategy, Risk Management, and Metrics
+Wu, former Greater China Director, the Climate Group) advises and Targets. Our Vice President of Sustainability and Climate
+operational management teams and engages with the Change, Dr Fiona Wild, has been a member of the Task Force
+Sustainability Committee and the Board, as appropriate. since its inception in 2015. We believe the TCFD
+recommendations represent an important step towards
+Executive remuneration
+establishing a widely accepted framework for climate-related
+The Board strengthened the link between executive financial risk disclosure.
+remuneration and delivery of our climate change strategy in
+BHP Climate Transition Action Plan 22
+
+Glossary
+Assets Greenhouse gas (GHG) emissions
+Assets are a set of one or more geographically proximate For BHP reporting purposes, GHG emissions are the aggregate
+operations (including open-cut mines, underground mines, and anthropogenic carbon dioxide equivalent emissions of carbon
+onshore and offshore oil and gas production and processing dioxide (CO ), methane (CH4), nitrous oxide (N2O),
+facilities). Assets include our operated and non-operated assets. hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and
+sulphur hexafluoride (SF6). All are expressed in carbon dioxide
+BHP (‘the Group’, ‘our business’, ‘organisation’, ‘we’, ‘us’, equivalent (CO -e). Nitrogen trifluoride (NF3) GHG emissions are
+‘our’ and ‘ourselves’) currently not relevant for BHP reporting purposes.
+Both companies in the dual listed company structure, being BHP Group
+Group Limited, BHP Group Plc, and their respective subsidiaries.
+BHP Group Limited, BHP Group Plc and their respective
+BHP Ventures subsidiaries.
+Our internal venture capital unit, which looks to invest in Net zero (for a BHP goal, target or pathway, or similar)
+emerging companies with game-changing technologies and
+management teams to help drive innovation and provide us with Net zero includes the use of carbon offsets as required.
+a valuable portfolio of growth options.
+Net zero (for industry sectors, the global economy,
+Board transition or future, or similar)
+The Board of Directors of BHP. Net zero refers to a state in which the greenhouse gases (as
+defined in this Glossary) going into the atmosphere are balanced
+Carbon dioxide equivalent (CO2-e) by removal out of the atmosphere.
+The universal unit of measurement to indicate the global Nickel West
+warming potential (GWP) of each greenhouse gas, expressed in
+terms of the GWP of one unit of carbon dioxide. It is used to Nickel West is our integrated sulphide mining, concentrating,
+evaluate releasing (or avoiding releasing) different greenhouse smelting and refining operation in Western Australia.
+gases against a common basis.
+Paris Agreement
+Carbon neutral
+The Paris Agreement is an agreement between countries party
+Carbon neutral includes all those greenhouse gas emissions as to the United Nations Framework Convention on Climate Change
+defined for BHP reporting purposes. (UNFCC) to strengthen efforts to combat climate change and
+adapt to its effects, with enhanced support to assist developing
+Carbon offsets countries to do so.
+The central purpose of a carbon offset for an organisation is to Paris Agreement goals
+substitute for internal GHG emission reductions. Offsets may be
+generated through projects in which GHG emissions are The central objective of the Paris Agreement is its long-term
+avoided, reduced, removed from the atmosphere or permanently temperature goal to hold global average temperature increase to
+stored (sequestration). Carbon offsets are generally created and well below 2°C above preindustrial levels and pursue efforts to
+independently verified in accordance with either a voluntary limit the temperature increase to 1.5°C above pre-industrial
+program or under a regulatory program. The purchaser of a levels.
+carbon offset can ‘retire’ or ‘surrender’ it to claim the underlying
+reduction towards their own GHG emissions reduction targets or Paris-aligned
+goals or to meet legal obligations.
+Aligned to the Paris Agreement goals.
+Executive Leadership Team
+Plan
+The Executive Leadership Team directly reports to the Chief
+This Climate Transition Action Plan.
+Executive Officer and is responsible for the day-to-day
+management of BHP and leading the delivery of our strategic
+Queensland Coal
+objectives.
+Queensland Coal comprises the BHP Mitsubishi Alliance (BMA)
+Goal
+and BHP Mitsui Coal (BMC) assets in the Bowen Basin in
+Central Queensland, Australia.
+An ambition to seek an outcome for which there is no current
+pathway(s), but for which efforts will be pursued towards
+Target
+addressing that challenge, subject to certain assumptions or
+conditions. An intended outcome in relation to which we have identified one
+or more pathways for delivery of that outcome, subject to certain
+assumptions or conditions.
+1.5°C
+Above pre-industrial levels.
+BHP Climate Transition Action Plan 23
+
+Direct emissions
+Scenario analysis
+Emissions from sources that are owned or controlled by the
+Central Energy scenario
+reporting company.
+Central Energy View is one of our scenarios used as an input
+to our planning cases (our mid-planning case). It reflects, and Downstream emissions
+is periodically updated to respond to, existing policy trends
+Indirect GHG emissions from sold goods and services.
+and commitments and currently tracks to approximately 3°C
+Downstream emissions also include emissions from products
+temperature increase above pre-industrial levels by 2100.
+that are distributed but not sold (i.e. distributed without receiving
+Refer to the BHP Climate Change Report 2020 at bhp.com for
+payment).
+more information.
+Lower Carbon scenario Emission factor
+Lower Carbon View is one of our scenarios used as an input
+A factor that converts activity data into GHG emissions data (e.g.
+to our planning cases. It currently tracks to approximately
+kg CO -e emitted per gigajoule of fuel consumed, kg CO -e
+2.5°C temperature increase above pre-industrial levels by 2 2
+emitted per kilowatt-hour of electricity used).
+2100, and accelerates decarbonisation trends and policies,
+particularly in easier-to-abate sectors such as power
+Energy coal
+generation and light duty vehicles. Refer to the BHP Climate
+Change Report 2020 at bhp.com for more information. Used as a fuel source in electrical power generation, cement
+BHP’s 1.5°C scenario (‘our 1.5°C scenario’) manufacture and various industrial applications. Energy coal
+may also be referred to as steaming or thermal coal.
+Our 1.5°C scenario models a GHG emissions trajectory to
+2100 that limits global warming to 1.5°C above pre-industrial
+Fugitive emissions
+levels. BHP’s 1.5°C scenario aligns with the Paris Agreement
+goals and requires steep global annual emissions reductions, Emissions that are not physically controlled but result from the
+sustained for decades, to stay within a 1.5°C carbon budget. intentional or unintentional releases of greenhouse gases.
+Deep Green hypothetical
+GHG Protocol
+Deep Green hypothetical is BHP’s regional and sectorspecific, bottom-up modelling exercise that seeks to simulate The Greenhouse Gas Protocol: A Corporate Accounting and
+the specific impact on the steel sector of a much more rapid Reporting Standard, which provides requirements and guidance
+global convergence towards decarbonisation, universal for companies and other organisations preparing a corporateaccess to zero emissions electricity and a US$200 per tonne level GHG emissions inventory.
+global carbon price. It is unlike and wholly separate from the
+whole-system modelling with global temperature outcomes Indirect emissions
+approach taken in our Central Energy, Lower Carbon, or
+1.5°C scenarios. Emissions that are a consequence of the activities of the
+reporting company, but occur at sources owned or controlled by
+another party.
+Reporting terms
+LNG (liquefied natural gas)
+Capital goods Consists largely of methane that has been liquefied through
+chilling and pressurisation. One tonne of LNG is approximately
+Final goods that have an extended life and are used by the equivalent to 46,000 cubic feet of natural gas.
+reporting company to manufacture a product, provide a service,
+or sell, store, and deliver merchandise. In financial accounting, Metallurgical coal
+capital goods are treated as fixed assets or plant, property and
+equipment (PP&E). Examples of capital goods include A broader term than coking coal, which includes all coals used in
+equipment, machinery, buildings, facilities, and vehicles. steelmaking, such as coal used for the pulverised coal injection
+process
+Cradle-to-gate
+Natural gas liquids
+All GHG emissions that occur in the lifecycle of purchased
+products, up to the point of receipt by the reporting company Consists of propane, butane and ethane – individually or as a
+(excluding emissions from sources that are owned or controlled mixture.
+by the reporting company).
+Non-operated asset/non-operated joint venture (NOJV)
+Customers’ processing of our products
+Non-operated assets/non-operated joint ventures include
+In line with our reporting methodology for Scope 3 emissions, we interests in assets that are owned as a joint venture but not
+define ‘processing of our products’ as emissions resulting from operated by BHP. References in this Plan to a ‘joint venture’ are
+our customers’ processing of our products comprising iron ore used for convenience to collectively describe assets that are not
+and metallurgical coal (steelmaking materials) and copper wholly owned by BHP. Such references are not intended to
+(assumed to be processed into copper wire for end use). These characterise the legal relationship between the owners of the
+are reported under the Scope 3 Standard’s ‘Processing of sold asset.
+products’ category.
+Customers’ use of our energy products
+In line with our reporting methodology for Scope 3 emissions, we
+define our energy products as oil, gas and energy coal and we
+account for metallurgical coal within our customers’ processing
+of sold products (within steelmaking emissions). These are
+reported under the Scope 3 Standard’s ‘Use of sold products’
+category.
+BHP Climate Transition Action Plan 24
+
+[Table 1 — Page 24]
+Scenario analysis
+----------------------------------------
+Central Energy scenario
+Central Energy View is one of our scenarios used as an input
+to our planning cases (our mid-planning case). It reflects, and
+is periodically updated to respond to, existing policy trends
+and commitments and currently tracks to approximately 3°C
+temperature increase above pre-industrial levels by 2100.
+Refer to the BHP Climate Change Report 2020 at bhp.com for
+more information.
+Lower Carbon scenario
+Lower Carbon View is one of our scenarios used as an input
+to our planning cases. It currently tracks to approximately
+2.5°C temperature increase above pre-industrial levels by
+2100, and accelerates decarbonisation trends and policies,
+particularly in easier-to-abate sectors such as power
+generation and light duty vehicles. Refer to the BHP Climate
+Change Report 2020 at bhp.com for more information.
+BHP’s 1.5°C scenario (‘our 1.5°C scenario’)
+Our 1.5°C scenario models a GHG emissions trajectory to
+2100 that limits global warming to 1.5°C above pre-industrial
+levels. BHP’s 1.5°C scenario aligns with the Paris Agreement
+goals and requires steep global annual emissions reductions,
+sustained for decades, to stay within a 1.5°C carbon budget.
+Deep Green hypothetical
+Deep Green hypothetical is BHP’s regional and sectorspecific, bottom-up modelling exercise that seeks to simulate
+the specific impact on the steel sector of a much more rapid
+global convergence towards decarbonisation, universal
+access to zero emissions electricity and a US$200 per tonne
+global carbon price. It is unlike and wholly separate from the
+whole-system modelling with global temperature outcomes
+approach taken in our Central Energy, Lower Carbon, or
+1.5°C scenarios.
+
+Operated assets (‘our operations’) Scope 3 Standard
+Operated assets include assets that are wholly owned and The GHG Protocol Corporate Value Chain (Scope 3) Accounting
+operated by BHP and assets that are owned as a joint venture and Reporting Standard, which allows companies to assess their
+and operated by BHP. References in this Plan to a ‘joint venture’ entire value chain emissions impact and identify where to focus
+are used for convenience to collectively describe assets that are reduction activities.
+not wholly owned by BHP. Such references are not intended to
+Scope 3 category
+characterise the legal relationship between the owners of the
+asset. One of the 15 types of Scope 3 emissions defined by the Scope
+3 Standard.
+Operational boundaries
+Upstream emissions
+The boundaries that determine the direct and indirect GHG
+emissions associated with operations owned or controlled by the
+Indirect GHG emissions from purchased or acquired goods and
+reporting company.
+services.
+Operational emissions (‘operational GHG emissions’)
+Value chain emissions
+‘Operational emissions’ or ‘operational GHG emissions’ in this ‘Value chain emissions’ in this Plan refers to BHP’s reported
+Plan refers to the Scope 1 and Scope 2 emissions from our Scope 3 emissions inventory.
+operated assets.
+Abbreviations key
+Operational GHG emissions of our direct suppliers
+‘Operational GHG emissions of our direct suppliers’ means the BF - blast furnace
+Scope 1 and Scope 2 emissions of our direct suppliers included BF-BOF - blast furnace-basic oxygen furnace
+in BHP’s Scope 3 reporting categories (under the Scope 3
+CA100+ - Climate Action 100+
+Standard) of ‘Purchased goods and services (including capital
+goods)’, ‘Fuel and energy related activities’, ‘Business travel’, CCUS - carbon capture, utilisation and storage and/or carbon
+and ‘Employee commuting’. capture and storage.
+Scope 1 greenhouse gas emissions
+CO2-e - tonnes of carbon dioxide equivalent
+DRI - direct reduced iron
+Scope 1 greenhouse gas emissions are direct emissions from
+operations that are owned or controlled by the reporting DRI-EAF - direct reduced iron electric arc furnace
+company. For BHP, these are primarily emissions from fuel
+EAF - electric arc furnace
+consumed by haul trucks at our operated assets, as well as
+fugitive methane emissions from coal and petroleum production ESG - Environment Social Governance
+at our operated assets. GHG - greenhouse gas
+Scope 2 greenhouse gas emissions H2 - hydrogen
+Scope 2 greenhouse gas emissions are indirect emissions from IEA - International Energy Agency
+the generation of purchased or acquired electricity, steam, heat IIGCC - Institutional Investors Group on Climate Change
+or cooling that is consumed by operations that are owned or
+controlled by the reporting company. BHP’s Scope 2 emissions IMO - International Maritime Organisation
+have been calculated using the market-based method using IPCC - Intergovernmental Panel on Climate Change
+supplier specific emissions factors unless otherwise specified
+Kt CO2-e – kilotonnes of carbon dioxide equivalent
+Scope 3 greenhouse gas emissions LNG - liquefied natural gas
+Scope 3 greenhouse gas emissions are all other indirect Mt CO2-e - million tonnes of carbon dioxide equivalent
+emissions (not included in Scope 2) that occur in the reporting
+NSWEC - New South Wales Energy Coal
+company’s value chain. For BHP, these are primarily emissions
+resulting from our customers using and processing the OEM – original equipment manufacturer
+commodities we sell, as well as upstream emissions associated
+PPA – power purchasing agreement
+with the extraction, production and transportation of the goods,
+services, fuels and energy we purchase for use at our TCFD - Task Force on Climate-related Financial Disclosures
+operations; emissions resulting from the transportation and UN – United Nations
+distribution of our products; and operational GHG emissions (on
+an equity basis) from our non-operated joint ventures.
+US$/t CO2-e – United States dollars per tonne of carbon dioxide
+equivalent
+BHP Climate Transition Action Plan 25
+
+BHP Climate Transition Action Plan 26
+
+BHP Climate Transition Action Plan 27
