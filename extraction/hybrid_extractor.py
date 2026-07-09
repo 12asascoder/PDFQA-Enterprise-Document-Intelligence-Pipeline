@@ -142,9 +142,9 @@ class HybridExtractor:
     ) -> PageResult:
         """Try pdfplumber on *page*; fall back to OCR if empty."""
 
-        # --- Step 1: Try pdfplumber -----------------------------------
+        # --- Step 1: Try pdfplumber (column-aware) --------------------
         try:
-            text: Optional[str] = page.extract_text()
+            text = self._extract_text_column_aware(page, page_idx, pdf_path.name)
         except Exception as exc:
             logger.debug(
                 "pdfplumber error on page %d of %s: %s",
@@ -189,6 +189,121 @@ class HybridExtractor:
             method="empty",
             has_text=False,
         )
+
+    # ------------------------------------------------------------------
+    # Column-aware text extraction
+    # ------------------------------------------------------------------
+    def _extract_text_column_aware(
+        self,
+        page: pdfplumber.page.Page,
+        page_idx: int,
+        filename: str,
+    ) -> Optional[str]:
+        """Extract text respecting multi-column layouts.
+
+        Analyses character x-positions to detect a column gutter.  When a
+        multi-column layout is found the page is cropped into left and right
+        halves and each column's text is extracted independently, then
+        concatenated in reading order (left first, then right).  For
+        single-column pages the standard ``extract_text()`` is returned.
+        """
+        # Try to get character-level data for column detection
+        try:
+            chars = page.chars
+        except Exception:
+            chars = []
+
+        if not chars:
+            # No character data — fall back to default extraction
+            return page.extract_text()
+
+        # Collect all character x0 positions
+        x0_positions = [float(c.get("x0", 0)) for c in chars if c.get("x0") is not None]
+        if not x0_positions:
+            return page.extract_text()
+
+        # Determine the page width and find the column split point
+        page_width = float(page.width)
+
+        # Build a histogram of x0 positions in bins to find the gutter
+        # The gutter is a region in the middle of the page with few characters
+        num_bins = 100
+        bin_width = page_width / num_bins
+        bins = [0] * num_bins
+
+        for x in x0_positions:
+            bin_idx = min(int(x / bin_width), num_bins - 1)
+            bins[bin_idx] += 1
+
+        # Look for a gutter: a run of low-density bins in the middle third
+        # of the page (between 25% and 75% of page width)
+        middle_start = num_bins // 4
+        middle_end = 3 * num_bins // 4
+
+        # Calculate average density for reference
+        total_chars = sum(bins)
+        avg_density = total_chars / num_bins if num_bins > 0 else 0
+        low_threshold = avg_density * 0.1  # bins with < 10% of avg are "empty"
+
+        # Find the widest run of low-density bins in the middle region
+        best_gutter_start = -1
+        best_gutter_end = -1
+        best_gutter_width = 0
+
+        current_start = -1
+        for i in range(middle_start, middle_end):
+            if bins[i] <= low_threshold:
+                if current_start == -1:
+                    current_start = i
+            else:
+                if current_start != -1:
+                    run_width = i - current_start
+                    if run_width > best_gutter_width:
+                        best_gutter_start = current_start
+                        best_gutter_end = i
+                        best_gutter_width = run_width
+                    current_start = -1
+
+        # Check if the final run extends to the end of the search region
+        if current_start != -1:
+            run_width = middle_end - current_start
+            if run_width > best_gutter_width:
+                best_gutter_start = current_start
+                best_gutter_end = middle_end
+                best_gutter_width = run_width
+
+        # A gutter must span at least ~3% of the page width to be real
+        min_gutter_bins = max(3, num_bins // 30)
+        if best_gutter_width < min_gutter_bins:
+            # No significant gutter found → single-column page
+            return page.extract_text()
+
+        # Calculate the split x-coordinate (middle of the gutter)
+        split_x = (best_gutter_start + best_gutter_end) / 2 * bin_width
+
+        logger.debug(
+            "Multi-column detected on page %d of %s — split at x=%.1f",
+            page_idx, filename, split_x,
+        )
+
+        # Crop left and right columns and extract text from each
+        bbox = page.bbox  # (x0, top, x1, bottom)
+
+        left_crop = page.crop((bbox[0], bbox[1], split_x, bbox[3]))
+        right_crop = page.crop((split_x, bbox[1], bbox[2], bbox[3]))
+
+        left_text = left_crop.extract_text() or ""
+        right_text = right_crop.extract_text() or ""
+
+        # Concatenate: left column first, then right column
+        if left_text.strip() and right_text.strip():
+            return left_text.strip() + "\n\n" + right_text.strip()
+        elif left_text.strip():
+            return left_text.strip()
+        elif right_text.strip():
+            return right_text.strip()
+        else:
+            return page.extract_text()
 
     # ------------------------------------------------------------------
     # Table extraction helper
