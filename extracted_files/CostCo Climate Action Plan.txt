@@ -42,6 +42,7 @@ Our 2023 Climate Action Plan shares an update on the progress we made this year 
 [Table 2 — Page 1]
 | 1 | | |
 
+
 Our Climate Action Plan:
 Aligns with regulatory requirements and global standards: We
 incorporate regulatory requirements, certain global standards and
@@ -73,6 +74,10 @@ O | ur Climate Action Plan:
 [Table 3 — Page 2]
 | 2 | | |
 
+Emissions
+Executive
+Summary
+
 Provides transparent disclosure: Transparency and disclosure of our
 progress toward our climate goals are important. We believe in
 measuring our progress and sharing what we have learned with our
@@ -90,11 +95,9 @@ this year’s update, in fiscal year (FY) 2024, we will also be working on
 our global water strategy and analyzing select supply chains for
 biodiversity risk.
 Over the past few years, we have made strides in our climate journey.
-Emissions
 Our Scope 1 and 2 emissions work is more mature, having started
-Executive with the inception of our STAR Program (more information can be
+with the inception of our STAR Program (more information can be
 found in the Operations section of our Sustainability Commitment) in
-Summary
 2021, and helps us prepare for Scope 3 improvement in a way that
 resonates with our culture. To meet our decarbonization goals for
 Scopes 1, 2 and 3, we need our employees to contribute in innovative
@@ -115,6 +118,7 @@ Sustainability |
 
 [Table 2 — Page 3]
 | 3 | | |
+
 
 Across the entire business, notable accomplishments of the past year
 include:
@@ -156,10 +160,12 @@ energy procurement contracts and U.S. grid emission factors.
 [Table 1 — Page 4]
 | 4 | | |
 
-We recognize the significant opportunity to decarbonize our global
 Scope 1 & 2
+Emissions
+
+We recognize the significant opportunity to decarbonize our global
 operations, from our warehouses to our depots and business centers.
-Emissions We also understand that our climate and energy-focused efforts in our
+We also understand that our climate and energy-focused efforts in our
 operations can create near and long-term business value through
 lower operating costs, reliable, clean energy supply to power our
 warehouses, depots and business centers, and more resilient
@@ -212,6 +218,7 @@ of the energy, 24/7. These time-stamped certificates demonstrate both where the 
 [Table 3 — Page 6]
 | 6 | | |
 
+
 Energy Efficiency: Increasing the energy efficiency of our
 warehouses, depots and business centers is crucial to long-term
 decarbonization as well as creating energy cost savings and financial
@@ -242,6 +249,7 @@ environmental impact with our design and construction choices.
 [Table 1 — Page 7]
 | 7 | | |
 
+
 Where We Are Today
 Since setting our initial Scope 1 and Scope 2 absolute reduction target
 in 2021, we have nearly doubled our 2030 absolute reduction target
@@ -267,10 +275,12 @@ across the U.S., reducing the average wattage by 35%.
 [Table 1 — Page 8]
 | 8 | | |
 
-Costco is committed to doing our part to reduce emissions and
 Scope 3
+Emissions
+
+Costco is committed to doing our part to reduce emissions and
 improve the resilience of our supply chain. Scope 3 emissions, unlike
-Emissions Scope 1 and 2, are outside of our direct control. We will need to rely
+Scope 1 and 2, are outside of our direct control. We will need to rely
 upon and partner with our suppliers to make substantial
 transformation. We have developed a comprehensive approach to our
 Scope 3 emissions that focuses on five key pillars: supplier energy
@@ -344,6 +354,7 @@ Regenerative Agriculture: Cargill |
 [Table 2 — Page 10]
 | 10 | | |
 
+
 Energy Efficient Items: We sell items that consume energy. We
 believe that working toward greater energy efficiency with our
 suppliers and leveraging existing energy efficiency certifications (e.g.,
@@ -368,10 +379,12 @@ in the items we sell.
 [Table 1 — Page 11]
 | 11 | | |
 
-Emissions from our fuels business comprise ~40% of Costco’s total
 Fuel Transition
+Plan
+
+Emissions from our fuels business comprise ~40% of Costco’s total
 emissions, largely Scope 3. We are taking actions to directly address
-Plan these emissions, as outlined in this transition plan. At the same time,
+these emissions, as outlined in this transition plan. At the same time,
 we will continue ensuring that our members have access to affordable
 and high-quality transportation fuels. Similarly, we’re providing
 additional members with the necessary infrastructure to shift toward
@@ -394,6 +407,7 @@ refineries to use cleaner production methods.
 
 [Table 2 — Page 12]
 | 12 | | |
+
 
 At the fuel station, we have a high degree of control to influence and
 minimize Scope 1 and Scope 2 emissions. Our efforts to date,
@@ -428,6 +442,7 @@ vehicle maintenance intervals.
 [Table 1 — Page 13]
 | 13 | | |
 
+
 Where we are today
 Current efforts to minimize emissions and environmental impact
 include initiatives across the fuel station value chain:
@@ -454,6 +469,7 @@ throughout the station.
 
 [Table 1 — Page 14]
 | 14 | | |
+
 
 Fuel storage: We upgraded our fuel storage tanks to manage tank
 pressure and minimize release of gasoline vapors through the

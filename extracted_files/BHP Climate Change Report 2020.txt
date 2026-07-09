@@ -58,48 +58,43 @@ only to our operated assets unless stated otherwise.
 (1) References in this Climate Change Report to a ‘joint venture’ are used for convenience to collectively describe assets that are not wholly owned by BHP.
 Such references are not intended to characterise the legal relationship between the owners of the asset.
 
-Forward looking statements Contents
+Forward looking statements
 This Report contains forward looking statements, including, but not limited
-to: statements regarding trends in commodity prices and supply and demand Chief Executive Officer introduction 2
+to: statements regarding trends in commodity prices and supply and demand
 for commodities; plans, strategies and objectives of management; assumed
-long-term scenarios; potential global responses to climate change; regulatory Our Position on Climate Change 3
+long-term scenarios; potential global responses to climate change; regulatory
 and policy developments; the development of certain technologies; the
-potential effect of possible future events on the value of the BHP portfolio About this Report 4
+potential effect of possible future events on the value of the BHP portfolio
 and the plans, strategies and objectives of management.
-Executive summary 5
 Forward looking statements may be identified by the use of terminology,
-including, but not limited to, ‘intend’, ‘aim’, ‘project’, ‘see’, ‘anticipate’, 1. Governance 9
+including, but not limited to, ‘intend’, ‘aim’, ‘project’, ‘see’, ‘anticipate’,
 ‘expect’, ‘estimate’, ‘plan’, ‘objective’, ‘believe’, ‘expect’, ‘may’, ‘should’,
-‘will’, ‘would’, ‘continue’ or similar words. These statements discuss future 1.1 Role and responsibilities of the Board 9
+‘will’, ‘would’, ‘continue’ or similar words. These statements discuss future
 expectations concerning the results of assets or financial conditions, or
-1.2 Role and responsibilities of management 11
 provide other forward looking information. In particular, such statements may
-include, but are not limited to, statements that relate to the purpose, goals, 2. T aking action through our targets,
+include, but are not limited to, statements that relate to the purpose, goals,
 targets, plans and objectives of BHP, assumptions made in energy, and other
-goals and strategies 12
 forms of environmental transition scenarios, as well as statements about how
-we run our business, including our work with contractors and partners. 2.1 Portfolio analysis 13
+we run our business, including our work with contractors and partners.
 The forward looking statements in this Report are based on the information
-available as at the date of this Report and/or the date of the Group’s planning 2.2 Reducing our GHG emissions 22
+available as at the date of this Report and/or the date of the Group’s planning
 processes or scenario analysis processes. There are inherent limitations with
-2.3 Partnering across our value chain 28
 scenario analysis and it is difficult to predict which, if any, of the scenarios
-might eventuate. Scenarios do not constitute definitive outcomes for us. 2.4 Natural climate solutions strategy 32
+might eventuate. Scenarios do not constitute definitive outcomes for us.
 Scenario analysis relies on assumptions that may or may not be, or prove to
-be, correct and may or may not eventuate, and scenarios may be impacted 2.5 Adaptation strategy 34
+be, correct and may or may not eventuate, and scenarios may be impacted
 by additional factors to the assumptions disclosed.
-2.6 Advocacy strategy 35
 Additionally, forward looking statements are not guarantees or predictions of
-future performance, and involve known and unknown risks, uncertainties and 3. Risk management 36
+future performance, and involve known and unknown risks, uncertainties and
 other factors, many of which are beyond our control, and which may cause
-actual results to differ materially from those expressed in the statements 3.1 Risk Framework 36
+actual results to differ materially from those expressed in the statements
 contained in this Report. BHP cautions against reliance on any forward
-looking statements or guidance. 3.2 Climate-related risks 37
-For example, future revenues from our operations, projects or mines 3.3 Emerging risks 39
+looking statements or guidance.
+For example, future revenues from our operations, projects or mines
 described in this Report will be based, in part, upon the market price of the
-minerals, metals or petroleum produced, which may vary significantly from Looking ahead 39
+minerals, metals or petroleum produced, which may vary significantly from
 current levels. These variations, if materially adverse, may affect the timing or
-the feasibility of the development of a particular project, the expansion of Glossary 42
+the feasibility of the development of a particular project, the expansion of
 certain facilities or mines, or the continuation of existing operations.
 There are a number of other factors that may have an adverse effect on our
 results or operations, including those identified in the risk factors discussed
@@ -141,6 +136,29 @@ from publicly available sources that have not been independently verified.
 No representation or warranty is made as to the accuracy, completeness
 or reliability of the information. This Report should not be relied upon
 as a recommendation or forecast by BHP.
+
+Contents
+Chief Executive Officer introduction 2
+Our Position on Climate Change 3
+About this Report 4
+Executive summary 5
+1. Governance 9
+1.1 Role and responsibilities of the Board 9
+1.2 Role and responsibilities of management 11
+2. T aking action through our targets,
+goals and strategies 12
+2.1 Portfolio analysis 13
+2.2 Reducing our GHG emissions 22
+2.3 Partnering across our value chain 28
+2.4 Natural climate solutions strategy 32
+2.5 Adaptation strategy 34
+2.6 Advocacy strategy 35
+3. Risk management 36
+3.1 Risk Framework 36
+3.2 Climate-related risks 37
+3.3 Emerging risks 39
+Looking ahead 39
+Glossary 42
 BHP Climate Change Report 2020 1
 
 Chief Executive Officer introduction
@@ -1067,49 +1085,69 @@ processes like steel and cement.
 14 BHP Climate Change Report 2020
 
 Lower Carbon View (~21⁄2°C) 2020 – 2050
-Reflects faster and deeper decarbonisation trends and policies, particularly in easier to abate sectors
-The Lower Carbon View is based on equivalent energy Assumptions and outputs:
+Reflects faster and deeper decarbonisation trends and policies, p
+The Lower Carbon View is based on equivalent energy
 services to the Central Energy View, but assumes more
-Population in 2050 Based on UN forecast
 efficient primary energy input and GHG emissions output
-9.8 billion
 based on aggressive policies and more rapid technological
-diffusion. In particular, renewables, EVs, and energy TPED TPED grows at ~0.5% CAGR
-efficiency are pushed to the plausible boundary. to 2050;
+diffusion. In particular, renewables, EVs, and energy
+efficiency are pushed to the plausible boundary.
 Overall trends are dictated by lowest-cost energy
-Energy intensity of GDP ~60% improvement in
 solutions, subject to the prevailing policy environment,
-energy intensity
 rather than large-scale shifts in societal preferences.
-Power: Wind and solar grow to make up over half of Rate of energy-related -0.6% CAGR to 2050
-emissions reductions
+Power: Wind and solar grow to make up over half of
 electricity generation by 2050. To accommodate this, we
-assume the technical challenges of integrating very large Carbon prices (US$/tCO2e) Regional carbon prices range
-amounts of variable renewable generation into grids are from ~$25-110/t in 2030
+assume the technical challenges of integrating very large
+amounts of variable renewable generation into grids are
 overcome. Gas loses market share in the power sector to
-renewables with battery storage. Nuclear plays an Fossil fuel share of primary ~60%
-energy by 2050
+renewables with battery storage. Nuclear plays an
 important role for longer than in the Central Energy View,
-with plant lifetimes extended in advanced economies. Peak year for coal (energy and Coal already peaked; oil
-Energy coal is a casualty of downgrading the importance metallurgical) and oil demand (liquids) peaks in mid to
-of affordability: it has already peaked in this scenario. late 2020s
-Transport: Additional policies banning internal Uptake of EVs in light duty 100% of sales in 2050
-combustion engines (ICEs) in many regions and charging vehicle segment
+with plant lifetimes extended in advanced economies.
+Energy coal is a casualty of downgrading the importance
+of affordability: it has already peaked in this scenario.
+Transport: Additional policies banning internal
+combustion engines (ICEs) in many regions and charging
 infrastructure roll outs enable an even faster EV ramp-up
-than in the Central Energy View. By 2050, 100 per cent Implications of the Lower Carbon View scenario for
-sales penetration for light vehicles and the majority of BHP’s commodities:
-buses sold globally. • Copper and nickel are advantaged by the acceleration
-in electrification of end use sectors.
+than in the Central Energy View. By 2050, 100 per cent
+sales penetration for light vehicles and the majority of
+buses sold globally.
 Industry: We assume some decarbonisation inroads
-• Oil (liquids) demand peaks in the mid to late 2020s,
 are made in harder-to-abate sectors, with most gains
-though the decline rate in supply requires the market
 manifesting in the industrial sector’s switch from coal
-to continue to induce new production.
 and oil to natural gas. Large cost and infrastructure
-challenges to full decarbonisation remain. Carbon • Natural gas demand declines post-2040 due to
-capture, utilisation and storage (CCUS) still does not loss of market share in power to renewables paired
-penetrate in a major way. with battery storage.
+challenges to full decarbonisation remain. Carbon
+capture, utilisation and storage (CCUS) still does not
+penetrate in a major way.
+
+particularly in easier to abate sectors
+Assumptions and outputs:
+Population in 2050 Based on UN forecast
+9.8 billion
+TPED TPED grows at ~0.5% CAGR
+to 2050;
+Energy intensity of GDP ~60% improvement in
+energy intensity
+Rate of energy-related -0.6% CAGR to 2050
+emissions reductions
+Carbon prices (US$/tCO2e) Regional carbon prices range
+from ~$25-110/t in 2030
+Fossil fuel share of primary ~60%
+energy by 2050
+Peak year for coal (energy and Coal already peaked; oil
+metallurgical) and oil demand (liquids) peaks in mid to
+late 2020s
+Uptake of EVs in light duty 100% of sales in 2050
+vehicle segment
+Implications of the Lower Carbon View scenario for
+BHP’s commodities:
+• Copper and nickel are advantaged by the acceleration
+in electrification of end use sectors.
+• Oil (liquids) demand peaks in the mid to late 2020s,
+though the decline rate in supply requires the market
+to continue to induce new production.
+• Natural gas demand declines post-2040 due to
+loss of market share in power to renewables paired
+with battery storage.
 • Uranium demand peaks in the mid-2030s as plant
 lifetimes are extended.
 BHP Climate Change Report 2020 15
@@ -1131,67 +1169,101 @@ ahead
 
 Climate Crisis scenario 2020 – 2050
 Climate shock leads to environmental and societal turmoil
-Climate Crisis is a non-linear scenario that describes Assumptions and outputs:
+Climate Crisis is a non-linear scenario that describes
 a period of strong growth without climate action for
-Population in 2050 Based on UN forecast
 a decade and a half, followed by a period of societal
-9.8 billion
 turmoil once a climate crisis hits. The shock leads to a
-massive economic contraction. This provokes a dramatic TPED growth Pre-crisis: Post-crisis:
-reorientation of the global energy system, and forceful +1.7% CAGR -1.7% CAGR
+massive economic contraction. This provokes a dramatic
+reorientation of the global energy system, and forceful
 global collective action to attempt to achieve incredible
-Energy intensity of GDP ~50% improvement in energy
 levels of decarbonisation in the remainder of the period.
-intensity by 2050
 As a result, emissions reduce on a steep trajectory in the
-latter period to 2050. Rate of energy-related Pre-crisis: Post-crisis:
-emissions growth +1.2% CAGR -4.1% CAGR
+latter period to 2050.
 Pre-shock: The initial period sees high economic
-growth and a complacent approach to addressing climate Carbon prices Pre-crisis: Post-crisis:
-change, with emissions rising steadily. The growth in TPED (US$/tCO2e) <$10/t $160/t by 2050
+growth and a complacent approach to addressing climate
+change, with emissions rising steadily. The growth in TPED
 in this period is consistent with our high planning case for
-living standards, but those energy services are delivered Fossil fuel share of primary Pre-crisis: Post-crisis:
-energy demand 76% 56%
+living standards, but those energy services are delivered
 with relatively less progress made on decarbonisation.
-Energy coal and natural gas continue to provide an Peak year for coal Coal and oil (liquids) peak around
-important power generation source, accounting for (energy and metallurgical) 2035, pre-climate crisis
-approximately 40 per cent of generating capacity by and oil demand
+Energy coal and natural gas continue to provide an
+important power generation source, accounting for
+approximately 40 per cent of generating capacity by
 the end of pre-shock period. Wind and solar growth
-Uptake of EVs in light duty Pre-crisis: Post-crisis:
 are slower to take off but in regions where clean energy
-vehicle segment ~10% of sales 100% by late
 technology costs are already less expensive, wind and
-2030s
 solar are developed. Oil demand in transport increases
-as electrification of transport is delayed. Implications of the Climate Crisis scenario for
-BHP’s commodities:
+as electrification of transport is delayed.
 Climate shock: A series of assumed physical climate
-change effects cluster around 2035 and a recession • In the pre-shock period, the Climate Crisis
-is assumed to be the result. The macroeconomic scenario is characterised by high economic
-contraction endures for several years before the global growth which advantages almost all of our
-economy eventually stabilises at a much lower level than commodities through demand growth, although
-in the initial high growth period. The turning point delivers copper and nickel are deprived of their decarbonisation
-a mandate to governments around the world to enact green-growth opportunities.
-wide-sweeping climate policies. • In the post-shock period, the assumed low economic
-Post-shock: Policymakers accelerate clean energy growth induced by the climate crisis has a significant
-penetration and decarbonisation solutions at an adverse effect on all commodities. While copper and
-unprecedented rate in a bid to slow the physical nickel benefit from the extraordinarily rapid rates of
-climate change effects. Wind and solar’s share in the electrification in the transport and power sectors,
-power mix grows from one fifth to almost half by the primary demand for these commodities would be
-end of the scenario. Pro-EV policies phase out internal partially offset by the likely significant increases in
-combustion engine vehicles, and by 2050, light duty recycling. Energy coal, oil, gas and steelmaking raw
-vehicles are virtually decarbonised. Heavy industry still materials would be affected by permanently lower
-finds it difficult to shift away from fossil fuels, but retrofits demand, as a result of the lower absolute GDP post the
-and new build CCUS facilities ensure emissions are shock. Within the energy commodities, demand is also
-captured. The carbon price is assumed to increase disrupted by substitution to cleaner forms of energy.
-to a global average of greater than US$160/t to support • Supply disruptions from assumed physical climate
-the large-scale transitions. change effects across this scenario could place
-Limitations: The Climate Crisis scenario does not additional upward pressure on costs and cause
-consider the compound impacts of the events or physical significant market volatility.
+change effects cluster around 2035 and a recession
+is assumed to be the result. The macroeconomic
+contraction endures for several years before the global
+economy eventually stabilises at a much lower level than
+in the initial high growth period. The turning point delivers
+a mandate to governments around the world to enact
+wide-sweeping climate policies.
+Post-shock: Policymakers accelerate clean energy
+penetration and decarbonisation solutions at an
+unprecedented rate in a bid to slow the physical
+climate change effects. Wind and solar’s share in the
+power mix grows from one fifth to almost half by the
+end of the scenario. Pro-EV policies phase out internal
+combustion engine vehicles, and by 2050, light duty
+vehicles are virtually decarbonised. Heavy industry still
+finds it difficult to shift away from fossil fuels, but retrofits
+and new build CCUS facilities ensure emissions are
+captured. The carbon price is assumed to increase
+to a global average of greater than US$160/t to support
+the large-scale transitions.
+Limitations: The Climate Crisis scenario does not
+consider the compound impacts of the events or physical
 climate change effects described on commodity markets
 or the potential secondary social, economic and political
 impacts, which could amplify the impact.
 16 BHP Climate Change Report 2020
+
+Assumptions and outputs:
+Population in 2050 Based on UN forecast
+9.8 billion
+TPED growth Pre-crisis: Post-crisis:
++1.7% CAGR -1.7% CAGR
+Energy intensity of GDP ~50% improvement in energy
+intensity by 2050
+Rate of energy-related Pre-crisis: Post-crisis:
+emissions growth +1.2% CAGR -4.1% CAGR
+Carbon prices Pre-crisis: Post-crisis:
+(US$/tCO2e) <$10/t $160/t by 2050
+Fossil fuel share of primary Pre-crisis: Post-crisis:
+energy demand 76% 56%
+Peak year for coal Coal and oil (liquids) peak around
+(energy and metallurgical) 2035, pre-climate crisis
+and oil demand
+Uptake of EVs in light duty Pre-crisis: Post-crisis:
+vehicle segment ~10% of sales 100% by late
+2030s
+Implications of the Climate Crisis scenario for
+BHP’s commodities:
+• In the pre-shock period, the Climate Crisis
+scenario is characterised by high economic
+growth which advantages almost all of our
+commodities through demand growth, although
+copper and nickel are deprived of their decarbonisation
+green-growth opportunities.
+• In the post-shock period, the assumed low economic
+growth induced by the climate crisis has a significant
+adverse effect on all commodities. While copper and
+nickel benefit from the extraordinarily rapid rates of
+electrification in the transport and power sectors,
+primary demand for these commodities would be
+partially offset by the likely significant increases in
+recycling. Energy coal, oil, gas and steelmaking raw
+materials would be affected by permanently lower
+demand, as a result of the lower absolute GDP post the
+shock. Within the energy commodities, demand is also
+disrupted by substitution to cleaner forms of energy.
+• Supply disruptions from assumed physical climate
+change effects across this scenario could place
+additional upward pressure on costs and cause
+significant market volatility.
 
 [Table 1 — Page 18]
 Climate Crisis scenario 2020 – 2050 Climate shock leads to environmental and societal turmoil |
@@ -1777,82 +1849,106 @@ ahead
 
 Pathways to net zero emissions continued
 Diesel displacement
-Combustion of diesel contributed about 40 per cent of Moving to renewable energy in Chile and Australia
+Combustion of diesel contributed about 40 per cent of
 operational emissions in FY2020. Greater than 85 per cent
-In FY2020, BHP entered into four new renewable
 of these emissions were associated with material movement
-power purchase agreements (PPAs) for its Escondida
 by mining equipment. Transitioning the fuel source of material
-and Spence copper operations in Chile. The new
 movement from diesel to renewable electricity can unlock
-contracts will meet current energy needs and also
 value, given the higher efficiency of electric motors compared
-contain flexibility to help manage future demand.
 with relatively inefficient ICEs, in addition to switching to a
-The separate contracts agreed by Escondida and
 lower cost fuel source.
-Spence are 15-year contracts for 3 terawatt hours per
-The path to electrification of mining equipment will likely include year (TWh/year) to ENEL Generación Chile and 10-year
-solutions such as trolley assist, in-pit crush and convey, overland contracts for 3TWh/year to Colbún. The ENEL contracts
-conveyors and battery solutions. Diesel displacement represents will begin in August 2021 and the Colbún contracts in
-a higher risk, higher capital step towards decarbonisation, January 2022. The contracts will effectively displace
-so a phased approach to execution is proposed with particular 3 million tonnes (Mt) CO2e per year from FY2022,
-emphasis on Minerals Americas operated assets that are further compared with the fossil fuel based contracts they
-advanced on the decarbonisation journey. Taking a transitional are replacing. The connection of North and South grids
-approach to electrification provides flexibility to allow for the in Chile has increased the system redundancy to
-potential for rapid development of emerging technologies and enhance reliability, and the hydro supply provides
-to resolve the complexities of integrating these technologies firming capacity for other renewable generation.
-into existing operations. Our new PPAs have triggered the development of new
-renewable generation capacity. About half of our new
+The path to electrification of mining equipment will likely include
+solutions such as trolley assist, in-pit crush and convey, overland
+conveyors and battery solutions. Diesel displacement represents
+a higher risk, higher capital step towards decarbonisation,
+so a phased approach to execution is proposed with particular
+emphasis on Minerals Americas operated assets that are further
+advanced on the decarbonisation journey. Taking a transitional
+approach to electrification provides flexibility to allow for the
+potential for rapid development of emerging technologies and
+to resolve the complexities of integrating these technologies
+into existing operations.
 During FY2021, we will seek to collaborate further with
-contracted supply will be met by existing capacity and
 International Council on Mining and Metals members, industry
-the remainder from new capacity which is currently
 and original equipment manufacturers (OEMs) to progress
-under construction. This new renewable generation will
 research and development to reduce costs and assess any
-displace thermal generation, leading to a reduction in
 potential impacts from electrified mining equipment solutions
-total emissions in Chile. The new PPAs also offer
 to replace current diesel options.
-financial savings compared with existing arrangements.
 Fugitive emissions
-BHP has also signed a firm renewable power purchasing
 Fugitive emissions from coal mining and petroleum
-agreement to meet half of the electricity needs across
 production in our operated assets contributed about
-Queensland Coal mines from low emissions sources.
 12 per cent of operational emissions in FY2020. We will also
-The agreement, with Queensland’s state-owned clean
 continue to consider opportunities and support research
-energy generator and retailer CleanCo, is intended to
 and development of technologies for hard-to-abate fugitive
-run for five years from 1 January 2021. This will
 emissions. This includes a collaboration with San Diego State
-effectively displace an estimated 1.7 million tonnes of
 University and Manaaki Whenua – Landcare Research (NZ)
-CO2e between 2021 and 2025 – equivalent to the annual
 to assess the viability of using methane-eating bacteria
-emissions of around 400,000 combustion engine cars.
 as biofilters, for abatement of methane in underground
-The agreement is the first of its kind signed by BHP in
 and open cut coal mines.
+Decarbonisation plans for operated assets
+Each of our operated assets is developing decarbonisation
+plans. Individual decarbonisation investment decisions will
+be considered as part of the broader Capital Allocation
+Framework and while structural abatement is our preference,
+appropriate use of carbon offsets will be required to maintain
+operating flexibility and where technical or economic
+limitations warrant it. More information on the Capital
+Allocation Framework is available in section 1.2 Role and
+responsibilities of management and in the BHP Annual
+Report 2020 available online at bhp.com.
+26 BHP Climate Change Report 2020
+
+Moving to renewable energy in Chile and Australia
+In FY2020, BHP entered into four new renewable
+power purchase agreements (PPAs) for its Escondida
+and Spence copper operations in Chile. The new
+contracts will meet current energy needs and also
+contain flexibility to help manage future demand.
+The separate contracts agreed by Escondida and
+Spence are 15-year contracts for 3 terawatt hours per
+year (TWh/year) to ENEL Generación Chile and 10-year
+contracts for 3TWh/year to Colbún. The ENEL contracts
+will begin in August 2021 and the Colbún contracts in
+January 2022. The contracts will effectively displace
+3 million tonnes (Mt) CO2e per year from FY2022,
+compared with the fossil fuel based contracts they
+are replacing. The connection of North and South grids
+in Chile has increased the system redundancy to
+enhance reliability, and the hydro supply provides
+firming capacity for other renewable generation.
+Our new PPAs have triggered the development of new
+renewable generation capacity. About half of our new
+contracted supply will be met by existing capacity and
+the remainder from new capacity which is currently
+under construction. This new renewable generation will
+displace thermal generation, leading to a reduction in
+total emissions in Chile. The new PPAs also offer
+financial savings compared with existing arrangements.
+BHP has also signed a firm renewable power purchasing
+agreement to meet half of the electricity needs across
+Queensland Coal mines from low emissions sources.
+The agreement, with Queensland’s state-owned clean
+energy generator and retailer CleanCo, is intended to
+run for five years from 1 January 2021. This will
+effectively displace an estimated 1.7 million tonnes of
+CO2e between 2021 and 2025 – equivalent to the annual
+emissions of around 400,000 combustion engine cars.
+The agreement is the first of its kind signed by BHP in
 Australia. It will also support the development of new
-Decarbonisation plans for operated assets solar and wind farms in Queensland. Over the five-year
-Each of our operated assets is developing decarbonisation agreement, power will be provided via the grid, and
-plans. Individual decarbonisation investment decisions will predominantly contracted from a combination of solar,
-be considered as part of the broader Capital Allocation wind, hydro and gas generation. For the first two years,
-Framework and while structural abatement is our preference, power will be contracted from CleanCo’s low emissions
-appropriate use of carbon offsets will be required to maintain portfolio which includes hydro and gas generation
-operating flexibility and where technical or economic assets. From late 2022, the newly operational solar and
-limitations warrant it. More information on the Capital wind farms are expected to progressively contribute up
-Allocation Framework is available in section 1.2 Role and to half the electricity requirements, with the remainder
-responsibilities of management and in the BHP Annual supported by CleanCo’s low emissions portfolio.
-Report 2020 available online at bhp.com. Combined with large-scale generation certificates, this
+solar and wind farms in Queensland. Over the five-year
+agreement, power will be provided via the grid, and
+predominantly contracted from a combination of solar,
+wind, hydro and gas generation. For the first two years,
+power will be contracted from CleanCo’s low emissions
+portfolio which includes hydro and gas generation
+assets. From late 2022, the newly operational solar and
+wind farms are expected to progressively contribute up
+to half the electricity requirements, with the remainder
+supported by CleanCo’s low emissions portfolio.
+Combined with large-scale generation certificates, this
 will enable BHP to reduce Scope 2 emissions from its
 Queensland operations by 50 per cent by 2025, based
 on FY2020 levels.
-26 BHP Climate Change Report 2020
 
 Low emissions technology strategy
 Defining a pathway to net-zero GHG emissions for our long-life For example, green hydrogen has the potential to enable

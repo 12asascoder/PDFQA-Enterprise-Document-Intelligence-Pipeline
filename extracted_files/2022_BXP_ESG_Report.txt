@@ -2,51 +2,66 @@ Environmental, Social,
 & Governance Report
 BOS | LA | NY | SF | SEA | DC
 
-NAREIT COMMERCIAL
+NAREIT
 NEWSWEEK’S
-LEADER IN THE LIGHT PROPERTY EXECUTIVE
+LEADER IN THE LIGHT
 AMERICA’S MOST
-AWARD WINNER BEST ESG PROGRAM
+AWARD WINNER
 RESPONSIBLE COMPANIES
 #1 IN REAL ESTATE
-2022 2023
-ENERGY STAR GRESB FITWEL
-PARTNER OF THE YEAR – GREEN STAR, BEST IN BUILDING
-SUSTAINED EXCELLENCE 5-STAR RATING HEALTH
-AWARD WINNER
-2023 2022 2023
+ENERGY STAR GRESB
+PARTNER OF THE YEAR – GREEN STAR,
+SUSTAINED EXCELLENCE 5-STAR RATING
+2023 2022
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 2
 
+COMMERCIAL
+PROPERTY EXECUTIVE
+BEST ESG PROGRAM
+FITWEL
+BEST IN BUILDING
+HEALTH
+AWARD WINNER
+
 Table of Contents1,2
-Letter To Our Stakeholders 4 Key Performance Indicators 23 Governance 59
-Corporate Overview 6 Environmental Impact 28 Leadership & Oversight 60
-ESG Strategy 7 Green Building 29 Senior Management ESG Goals 63
-Reporting Methodology 8 Green Finance 31 Ethics & Integrity 64
-Stakeholder Engagement 9 Climate Strategy 32 Cybersecurity 65
-Green Leasing 10 Energy 38 Quality Of Public Disclosures 66
-Materiality 11 Water 40 Disclaimers 67
-Management Approach 12 Waste 41 Forward-Looking Statements 68
-Recognition 13 Transportation 42
-Assurance Statement 69
-ESG Leadership 15 Biodiversity 43
-GRI Content Index 72
+Letter To Our Stakeholders 4 Key Performance Indicators
+Corporate Overview 6 Environmental Impact
+ESG Strategy 7 Green Building
+Reporting Methodology 8 Green Finance
+Stakeholder Engagement 9 Climate Strategy
+Green Leasing 10 Energy
+Materiality 11 Water
+Management Approach 12 Waste
+Recognition 13 Transportation
+ESG Leadership 15 Biodiversity
 Goals & Progress 17
-Social Impact 44
+Social Impact
 Sustainable Development Goals 19
-Social Good 45
-Healthy Buildings 48
-Our Employees 51
-Diversity, Equity, & Inclusion 53
-Career Development, Training, 56
+Social Good
+Healthy Buildings
+Our Employees
+Diversity, Equity, & Inclusion
+Career Development, Training,
 & Performance
-Human Rights 57
-Community Involvement 58
+Human Rights
+Community Involvement
 1This report contains Standard Disclosures from the Global
 Reporting Initiative (GRI) Sustainability Reporting Guidelines.
 See Pages 72-80 for a complete context index.
 2This report contains forward-looking statements. See Page 68
 for more information.
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 3
+
+23 Governance 59
+28 Leadership & Oversight 60
+29 Senior Management ESG Goals 63
+31 Ethics & Integrity 64
+32 Cybersecurity 65
+38 Quality Of Public Disclosures 66
+40 Disclaimers 67
+41 Forward-Looking Statements 68
+Assurance Statement 69
+GRI Content Index 72
 
 [Table 1 — Page 3]
 |
@@ -133,12 +148,14 @@ developers, and managers, we can contribute to environmental solutions as a
 positive force while improving our financial performance and becoming a stronger,
 more purposeful organization in the process. We are proud of our position and
 consistent recognition as an industry leader in sustainability and ESG. We will
-Douglas T. Linde Owen D. Thomas
 continue to demonstrate our commitment and capacity to conduct our business
-President, BXP CEO, BXP
 in a manner that contributes to positive economic, social, and environmental
 outcomes for our clients, shareholders, employees, and our communities.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 5 LETTER TO OUR STAKEHOLDERS
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 5
+
+Douglas T. Linde Owen D. Thomas
+President, BXP CEO, BXP
+LETTER TO OUR STAKEHOLDERS
 
 Corporate Overview
 BXP (NYSE: BXP) is the largest publicly traded developer, owner, and manager Portfolio1,2 NYSE: BXP1
@@ -541,6 +558,8 @@ Score: 66 Score: 91
 Katie Gonzalez Ben Myers Neetu Siddarth
 Senior Sustainability Senior Vice President Manager
 Analyst Sustainability Energy & Utilities
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
 “The ambition of our organization and the
 perseverance of our team drives the execution
 of business activities aligned with stakeholder
@@ -553,7 +572,7 @@ outcomes and initiatives aligned with our
 sustainability strategy centered on climate
 action, resilience, and social good.”
 Ben Myers | Senior Vice President, Sustainability
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 16 ESG LEADERSHIP
+16 ESG LEADERSHIP
 
 Goals & Progress1 Our sustainability goals establish targets for energy, GHG emissions, building certifications, water consumption, and
 waste. In 2016, we achieved our first round of energy, emissions, and water goals three years early, and we achieved
@@ -629,69 +648,90 @@ Baseline | 5.6
 Baseline 0. | 16
 ----------------------------------------
 
-STATUS: In Progress
-2025 Carbon-Neutral NOTES: We have committed to achieving carbonneutral operations, or net-zero carbon dioxide
-Operations Goal equivalent emissions, by 2025. The commitment
-PENDING includes direct and indirect Scope 1 and Scope
-2022 1.0 2 emissions associated with BXP operations at
-Reduce Scope 1 and Scope 2 GHG emissions 2023 DATA
-actively managed office buildings. The status
-intensity, targets net-zero carbon emissions from of our current goal has been reset since we
-allocated tenant-related GHG emissions to Scope
+2025 Carbon-Neutral
+Operations Goal
+2022 1.0
+Reduce Scope 1 and Scope 2 GHG emissions
+intensity, targets net-zero carbon emissions from
 operations by 2025. Units are kgCO e/SF.1,2
-2 3 - Category 13 in 2022. See Pages 36-37 for
-0.0 (2025) more details.
-STATUS: In Progress
-87x25 Building NOTES: We are on track to increase the
-2022 86 certification percentage of our actively
-Certification Goal managed portfolio to 87%. BXP has added a
-90% sustainability-linked pricing component
-2021 84
-to our credit facility, aligned with our 87x25
+0.0 (2025)
+87x25 Building
+Certification Goal
 Increase building certifications, including
-COMPLETE Building Certification Goal. Certifications
-ENERGY STAR, LEED and Fitwel 10% by 2025. 2020 Baseline 77 increased from 77% to 86% in 2022.
+ENERGY STAR, LEED and Fitwel 10% by 2025.
+2020 Baseline
 Units are % SF certified.
+30x25 Water Use
+Reduction Goal
+Commitment to reduce water use intensity,
+targets a 30% reduction by 2025.
+2008 Baseline
+Units are gallons/SF.
+60x25 Waste
+Diversion Goal
+Increase waste diverted from landfill,
+targets a 60% diversion rate by 2025.
+2008 Baseline
+Units are % diverted.
+1Market-based emissions intensity.
+2Represents Scope 1 and Scope 2 emissions from BXP operations.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+STATUS: In Progress
+NOTES: We have committed to achieving carbonneutral operations, or net-zero carbon dioxide
+equivalent emissions, by 2025. The commitment
+PENDING includes direct and indirect Scope 1 and Scope
+2 emissions associated with BXP operations at
+2023 DATA
+actively managed office buildings. The status
+of our current goal has been reset since we
+allocated tenant-related GHG emissions to Scope
+3 - Category 13 in 2022. See Pages 36-37 for
+more details.
+STATUS: In Progress
+NOTES: We are on track to increase the
+86 certification percentage of our actively
+managed portfolio to 87%. BXP has added a
+90% sustainability-linked pricing component
+to our credit facility, aligned with our 87x25
+COMPLETE Building Certification Goal. Certifications
+77 increased from 77% to 86% in 2022.
 87 (2025)
 STATUS: Complete
-30x25 Water Use NOTES: In 2020 and 2021, we exceeded our
-2022 10.7 water reduction target but did not claim
-Reduction Goal completion due to the impacts of the COVID-19
+NOTES: In 2020 and 2021, we exceeded our
+10.7 water reduction target but did not claim
+completion due to the impacts of the COVID-19
 100% pandemic on physical occupancy. As our
-2021 8.9 buildings repopulated in 2022, we officially
-Commitment to reduce water use intensity,
+8.9 buildings repopulated in 2022, we officially
 COMPLETE achieved our water use reduction goal with
-targets a 30% reduction by 2025. a 45% decrease in water use intensity when
-2008 Baseline 19.3
+a 45% decrease in water use intensity when
+19.3
 compared to the 2008 baseline year.
-Units are gallons/SF.
 13.5 (2025)
 STATUS: In Progress
 NOTES: In 2021 we established a commitment
-60x25 Waste
-2022 47.3 to achieve a 60% diversion rate by 2025. See
-Diversion Goal the Waste section on Page 41 for more detail.
+47.3 to achieve a 60% diversion rate by 2025. See
+the Waste section on Page 41 for more detail.
 47%
-2021 49.5
-Increase waste diverted from landfill, COMPLETE
-targets a 60% diversion rate by 2025.
-2008 Baseline 36.0
-Units are % diverted.
+49.5
+COMPLETE
+36.0
 60.0 (2025)
-1Market-based emissions intensity.
-2Represents Scope 1 and Scope 2 emissions from BXP operations.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 18 GOALS & PROGRESS
+18 GOALS & PROGRESS
 
 [Table 1 — Page 18]
 Baseline | 19.3
 ----------------------------------------
 
-Sustainable Development Goals We believe that our efforts can contribute to resolving the key issues that the
+Sustainable Development Goals
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+We believe that our efforts can contribute to resolving the key issues that the
 global community faces. Our sustainability policies, practices, and projects are
 aligned with the direction set by the United Nations Sustainable Development
 Goals (SDGs). We have aligned our efforts with SDG goals 3, 5, 6, 7, 8, 9, 11, 12,
 and 13. The status of our alignment is provided on Pages 20-22.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 19 SUSTAINABLE DEVELOPMENT GOALS
+19 SUSTAINABLE DEVELOPMENT GOALS
 
 Sustainable Development Goals
 Goal Potential Impact Our Status
@@ -730,44 +770,55 @@ the hiring process; excludes BXP’s non-employee directors.
 Goal | Potential Impact | Our Status
 ----------------------------------------
 
-Sustainable Development Goals
-Goal Potential Impact Our Status
+Sustainable Development G
+Goal Potential Impact
+Ensure access to
+affordable, reliable,
+sustainable, and
+modern energy
+Ensure a safe work
+environment and
+assist in the economic
+development of
+local communities
+Build resilient
+infrastructure, promote
+inclusive and sustainable
+industrialization,
+and foster innovation
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+Goals
+Our Status
 • Reduce energy use intensity 32% by • Use iterative energy modeling during an
 2025 below a 2008 baseline (39% reduction integrated design process to maximize
-Ensure access to to date). the energy use reduction below a
+to date). the energy use reduction below a
 code-compliant baseline.
-affordable, reliable, • Develop and operate energy efficient
+• Develop and operate energy efficient
 buildings and procure onsite and offsite • Increase electrification of thermal systems.
-sustainable, and
 renewable energy sources.
-modern energy
 • Research technology that reduces energy
 use and adopt such technology across the
 portfolio.
 • Require that all service providers and • Investments in both new and existing
-Ensure a safe work
 contractors comply with applicable laws properties support the long-term prosperity
-environment and relating to payment of wages and of our company, natural environments,
+relating to payment of wages and of our company, natural environments,
 benefits, worker health and safety, labor and the vital centers of research, commerce,
-assist in the economic
 organizations, and other workplace and civic life where we operate.
-development of
 laws, such as non-discrimination, proper
-local communities classification of employees, and
+classification of employees, and
 maintenance of insurance.
 • Assess climate change vulnerabilities by • Train key personnel in climate-related risks
-Build resilient modeling future climate scenarios. and implement tailored Emergency Response
+modeling future climate scenarios. and implement tailored Emergency Response
 Plans at the property level.
-infrastructure, promote • Identify and anticipate climate-related factors
+• Identify and anticipate climate-related factors
 during real estate activities, including business • Maintain risk property insurance at the
-inclusive and sustainable
 continuity, transitional and physical risks portfolio level for natural catastrophes, such
-industrialization,
 such as flooding, precipitation, extreme heat, as flood, fire, earthquake, and wind events.
-and foster innovation wildfires, and water scarcity.
+wildfires, and water scarcity.
 • Work with cities and local governments to
 develop climate resilience plans.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 21 SUSTAINABLE DEVELOPMENT GOALS
+21 SUSTAINABLE DEVELOPMENT GOALS
 
 [Table 1 — Page 21]
 Goal | Potential Impact | Our Status
@@ -920,21 +971,33 @@ PLATINUM GOLD SILVER &
 CERTIFIED
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 25
 
-Employment Metrics Gender Diversity Data3
+Employment Metrics
+780 172
+TOTAL WORKFORCE NEW HIRES
+17.7 9.4
+AVERAGE YEARS AVERAGE YEARS
+OF TENURE OF OF TENURE OF
+OFFICERS1,2 OUR EMPLOYEES1
+Age Diversity Data3,4
+61 89 UNDER 30
+167 165 30-50
+129 64 OVER 50
+WOMEN MEN
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+Gender Diversity Data3
 52% 47%
 OF NEW HIRES OF ALL EMPLOYEES
 ARE WOMEN4 ARE WOMEN4
-780 172
 45% 21%
-TOTAL WORKFORCE NEW HIRES
 OF ALL MANAGEMENT OF TOP MANAGEMENT
 POSITIONS ARE HELD POSITIONS ARE HELD
 BY WOMEN4 BY WOMEN4
-17.7 9.4 50% 43%
+50% 43%
 OF JUNIOR MANAGMENT OF REVENUE-GENERATING
-AVERAGE YEARS AVERAGE YEARS POSITIONS ARE HELD MANAGEMENT POSITIONS
-OF TENURE OF OF TENURE OF BY WOMEN4 ARE HELD BY WOMEN4
-OFFICERS1,2 OUR EMPLOYEES1 42% 36%
+POSITIONS ARE HELD MANAGEMENT POSITIONS
+BY WOMEN4 ARE HELD BY WOMEN4
+42% 36%
 OF STEM POSITIONS OF THE BOARD OF
 ARE HELD BY WOMEN4 DIRECTORS ARE WOMEN
 KEY PERFORMANCE INDICATORS
@@ -950,30 +1013,29 @@ REP
 BOSTON CORPORATE LOS NEW SAN SEATTLE WASHINGTON
 OFFICE ANGELES YORK FRANCISCO DC
 WOMEN4 MEN4
-Age Diversity Data3,4 Ethnic Diversity Data3,4,5
+Ethnic Diversity Data3,4,5
 8% 8% 7%
 6%
-61 89 UNDER 30 8%
+8%
 14% 3%
 6%
 10%
 TOTAL MANAGER &
-167 165 30-50 8% NEW HIRES
+8% NEW HIRES
 WORKFORCE ABOVE
 11%
 63%
 12%
-129 64 OVER 50 58% 78%
+58%
+78%
 BLACK/AFRICAN
 WHITE HISPANIC/LATINO ASIAN OTHER
 AMERICAN
-WOMEN MEN
 1Excludes intern employees; excludes union employees for which the unions control primary aspects of the hiring process; excludes BXP's non-employee directors.
 2BXP defines Officers as high-level management at the Vice President level or above.
 3As of December 31, 2022. We determine race and gender based on our employees' and directors' self-identification.
 4Includes intern employees; excludes union employees for which the unions control primary aspects of the hiring process; excludes BXP’s non-employee directors.
 5"Other" represents American Indian/Alaskan Native, Native Hawaiian or Other Pacific Islander, two or more races, and those that did not self-identify.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 26
 
 [Table 1 — Page 26]
 ----------------------------------------
@@ -1002,41 +1064,52 @@ WOMEN MEN
 129 | 64
 ----------------------------------------
 
-Absentee & Lost Day Rates Training & Development
+Absentee & Lost Day Rates
 Total Hours for Year 1,645,768
-100% OF EMPLOYEES 28 TRAININGS
-RECEIVED TRAINING OFFERED
 Total Hours of Leave Unpaid 15,634
-Code of Business Conduct and Ethics Training Attendees 780
 Total Hours of Leave Paid 221,849
-Cybersecurity Training Attendees 780
 Absentee Rate (Unpaid) .0095
-Workplace Harassment Training Attendees 780
 Absentee Rate (Total) .1348
-BXP Connect Trainings (15) Attendees 364
-Lost Workday Rate1 26.8278 BXP Wellness Webinar Series (6) Attendees 136
-2022 Leadership Summit Attendees 41
-BXP Engineering Summit Attendees 18
+Lost Workday Rate1 26.8278
 Alternative Transportation
-TREK Training Attendees 14
-3,119 TOTAL BICYCLE 2022 Management 360 Program Attendees 11
+3,119 TOTAL BICYCLE
 STORAGE SPACES
 428 TOTAL BIKE
-SHARE UNITS Social & Economic Contributions
-TOTAL ELECTRIC 2,569 COMMUNITY
-$72.1M2 392
-VEHICLE (EV) SERVICE HOURS
-CHARGING STATIONS IN PUBLIC REALM TRANSIT OPTIONS
-IMPROVEMENTS WITHIN 1/2 MILE
-758 COMMUNITY WALKING DISTANCE OF
-19 TOTAL BIKE SHARE SERVICE EVENTS 5082 NEW DEVELOPMENTS
+SHARE UNITS
+TOTAL ELECTRIC
+VEHICLE (EV)
+CHARGING STATIONS
+19 TOTAL BIKE SHARE
 LOCATIONS
-218 EMPLOYEES UNITS OF HOUSING
-DONATED TIME PROVIDED
 1 BXP is reporting Lost Workday Rate instead of Lost Time Injury Rate.
 The denominator for Lost Workday Rate does not include paid time off,
-only employee hours worked (including over time). 2Data represents $2.3 billion (our share) of new development projects, including those placed-in-service in 2022. See Page 46 for more detail.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 27 KEY PERFORMANCE INDICATORS
+only employee hours worked (including over time).
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+Training & Development
+100% OF EMPLOYEES 28 TRAININGS
+RECEIVED TRAINING OFFERED
+Code of Business Conduct and Ethics Training Attendees 780
+Cybersecurity Training Attendees 780
+Workplace Harassment Training Attendees 780
+BXP Connect Trainings (15) Attendees 364
+BXP Wellness Webinar Series (6) Attendees 136
+2022 Leadership Summit Attendees 41
+BXP Engineering Summit Attendees 18
+TREK Training Attendees 14
+2022 Management 360 Program Attendees 11
+Social & Economic Contributions
+2,569 COMMUNITY
+$72.1M2 392
+SERVICE HOURS
+IN PUBLIC REALM TRANSIT OPTIONS
+IMPROVEMENTS WITHIN 1/2 MILE
+758 COMMUNITY WALKING DISTANCE OF
+SERVICE EVENTS 5082 NEW DEVELOPMENTS
+218 EMPLOYEES UNITS OF HOUSING
+DONATED TIME PROVIDED
+2Data represents $2.3 billion (our share) of new development projects, including those placed-in-service in 2022. See Page 46 for more detail.
+27 KEY PERFORMANCE INDICATORS
 
 [Table 1 — Page 27]
 Total Hours for Year | 1,645,768 |
@@ -1151,51 +1224,68 @@ for New Development projects by 14%. To support our commitment, we are pursuing 
 Green Finance
 BXP is a leading REIT in the issuance of green bonds. BXP has marketed and
 issued an aggregate principal amount of $4.3 billion of green bonds in five
-GREEN BOND IMPACT METRICS AND EQUIVALENCIES1
 separate bond offerings and subsequently provided impact reporting for the
-Impact metrics quantify the environmental result associated with the allocation
 first four offerings. BXP expects to issue its impact report for its most recent
-of green bond proceeds. The selected metrics and methodology have been
-green bond offering in Q4 2023. Green bonds restrict the use of proceeds to informed by The Green Bond Principles Harmonized Framework for Impact
-“Eligible Green Projects," which are defined as: (i) investments in acquisitions Reporting. The impact metrics below illustrate the environmental performance
-of buildings; (ii) building developments or redevelopments; (iii) renovations in of eleven properties that received or are expected to receive an allocation of
-green bond net proceeds from the first four offerings.
+green bond offering in Q4 2023. Green bonds restrict the use of proceeds to
+“Eligible Green Projects," which are defined as: (i) investments in acquisitions
+of buildings; (ii) building developments or redevelopments; (iii) renovations in
 existing buildings; and (iv) client improvement projects, in each case, that have
 received, or are expected to receive, in the three years prior to the issuance
-of the notes or during the term of the notes, a LEED Silver, Gold, or Platinum Environmental Total Estimated Estimated Savings Attributable
-certification (or environmentally equivalent successor standards). The definition Impact Metrics Savings to Green Bond Proceeds2
-of “Eligible Green Projects” includes the Salesforce Tower development project, Energy 132,774 MBtu 103,815 MBtu
+of the notes or during the term of the notes, a LEED Silver, Gold, or Platinum
+certification (or environmentally equivalent successor standards). The definition
+of “Eligible Green Projects” includes the Salesforce Tower development project,
 which has received LEED Platinum certification, and was the project to which
-Carbon Emissions 20,382 MtCOe 17,807 MtCOe
-BXP allocated the full use of proceeds from its first green bond offering. 2 2
-Indoor Water 14,394 kGal 12,522 kGal
+BXP allocated the full use of proceeds from its first green bond offering.
 Sustainability-Linked Credit Facility
 On June 15, 2021, Boston Properties Limited Partnership (BPLP) entered its
-Equivalency Calculations
 2021 Credit Facility, which features a sustainability-linked pricing component
-The annual savings associated with the environmental impact metrics based on the
-such that if the Company meets certain sustainability performance targets, allocation of green bond proceeds to the eight Eligible Green Projects are equivalent
-the applicable per annum interest rate will be reduced by one basis point. The to the following:
+such that if the Company meets certain sustainability performance targets,
+the applicable per annum interest rate will be reduced by one basis point. The
 sustainability-linked pricing component informed the creation of BXP’s 87x25
 Building Certification Goal, which targets an increase in building certifications,
 including ENERGY STAR, LEED, and Fitwel from 77% to 87% by 2025.
-Solar Power Purchase Agreements Energy Carbon Emissions Water
-Heating, cooling, Removing 3,838 Filling over 19
-BXP has financed the installation of solar photovoltaic (PV) onsite renewable and power for 1,346 gasoline-powered vehicles Olympic-sized
-energy systems with power purchase agreements (PPAs) since 2010. Under U.S. homes2,3 from the road annually2,4 swimming pools2,5
+Solar Power Purchase Agreements
+BXP has financed the installation of solar photovoltaic (PV) onsite renewable
+energy systems with power purchase agreements (PPAs) since 2010. Under
 a PPA contract, a counterparty designs, finances, builds, owns, operates,
 and maintains the renewable energy system. BXP agrees to host the system
 and purchase power generated by the system from the counterparty over the
-contract term. Advantages of the PPA delivery model include no significant 1There can be no assurance that the actual environmental performance of the “Eligible Green Projects” will
-upfront costs to BXP, energy cost savings over the term, and the ability to not differ materially from the estimates provided.
-2Estimated savings attributable to “Green Bond” proceeds have been adjusted to align with the respective
+contract term. Advantages of the PPA delivery model include no significant
+upfront costs to BXP, energy cost savings over the term, and the ability to
 capture the indirect economic benefit of monetized federal tax credits. As of
+December 31, 2022, BXP has executed 12 onsite solar PPAs.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 3
+
+GREEN BOND IMPACT METRICS AND EQUIVALENCIES1
+Impact metrics quantify the environmental result associated with the allocation
+of green bond proceeds. The selected metrics and methodology have been
+informed by The Green Bond Principles Harmonized Framework for Impact
+Reporting. The impact metrics below illustrate the environmental performance
+of eleven properties that received or are expected to receive an allocation of
+green bond net proceeds from the first four offerings.
+Environmental Total Estimated Estimated Savings Attributable
+Impact Metrics Savings to Green Bond Proceeds2
+Energy 132,774 MBtu 103,815 MBtu
+Carbon Emissions 20,382 MtCOe 17,807 MtCOe
+2 2
+Indoor Water 14,394 kGal 12,522 kGal
+Equivalency Calculations
+The annual savings associated with the environmental impact metrics based on the
+allocation of green bond proceeds to the eight Eligible Green Projects are equivalent
+to the following:
+Energy Carbon Emissions Water
+Heating, cooling, Removing 3,838 Filling over 19
+and power for 1,346 gasoline-powered vehicles Olympic-sized
+U.S. homes2,3 from the road annually2,4 swimming pools2,5
+1There can be no assurance that the actual environmental performance of the “Eligible Green Projects” will
+not differ materially from the estimates provided.
+2Estimated savings attributable to “Green Bond” proceeds have been adjusted to align with the respective
 percentages of estimated total project costs as outlined in the Green Bond Allocation Reports published
-December 31, 2022, BXP has executed 12 onsite solar PPAs. on the BXP Commitment webpage.
+on the BXP Commitment webpage.
 3U.S. Energy Information Administration, 2018
 4U.S Environmental Protection Agency, 2022
 5New World Encyclopedia, 2016
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 31 ENVIRONMENTAL IMPACT
+31 ENVIRONMENTAL IMPACT
 
 [Table 1 — Page 31]
 Environmental Impact Metrics | Total Estimated Savings | Estimated Savings Attributable to Green Bond Proceeds2
@@ -1205,71 +1295,94 @@ Carbon Emissions | 20,382 MtCOe 2 | 17,807 MtCOe 2
 Indoor Water | 14,394 kGal | 12,522 kGal
 
 Climate Strategy
-At BXP, we believe we can play a leading role in advancing the transition to a Task Force On Climate-Related Disclosures (TCFD)
+At BXP, we believe we can play a leading role in advancing the transition to a
 low-carbon economy through our climate action efforts. As a long-term owner
-We have aligned our climate-related disclosures with the recommendations
 and active manager of real estate assets in operation and under development,
-of the Task Force on Climate-Related Financial Disclosures (TCFD). The TCFD
 we take a long-term view of climate change risks and opportunities. We are
-framework has informed the development of our strategy for identifying and
 focused on understanding how climate change may impact the performance
-managing both physical and transition risks associated with climate change.
 of our portfolio and the steps we can take to increase climate resilience. We
-As defined by the TCFD framework, physical risks associated with climate
 continue to evaluate the potential risks associated with climate change that
-change include acute risks (extreme weather-related events) and chronic risks
 could impact our portfolio and are taking proactive steps to plan for and/or
-(such as extreme heat and sea-level rise), and transition risks associated with
 mitigate such risks.
-climate change include policy and legal risks, and other technology, market,
-and reputation-related risks.
 SUSTAINABILITY GOALS
 TIMELINE
-2016 2020 2022
-• Met Energy Use, GHG Emissions, • Established S1&2 Carbon- • Met Energy Use and Water Use
-and Water Use targets early Neutral Operations goal (0x25) targets early
+• Met Energy Use, GHG Emissions,
+and Water Use targets early
+2015 2017
+• Established targets with a 2008 • Set new targets with a 2008 base
+base year: year:
+› Energy Use 15x20 › Energy Use 32x25
+› GHG Emissions (S1&2) 20x20 › GHG Emissions (S1&2) 45x25
+› Water Use 20x20 › Water Use 30x25
+› Waste Diversion 65x20 • Increased Waste diversion
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 3
+
+Task Force On Climate-Related Disclosures (TCFD)
+We have aligned our climate-related disclosures with the recommendations
+of the Task Force on Climate-Related Financial Disclosures (TCFD). The TCFD
+framework has informed the development of our strategy for identifying and
+managing both physical and transition risks associated with climate change.
+As defined by the TCFD framework, physical risks associated with climate
+change include acute risks (extreme weather-related events) and chronic risks
+(such as extreme heat and sea-level rise), and transition risks associated with
+climate change include policy and legal risks, and other technology, market,
+and reputation-related risks.
+2020 2022
+• Established S1&2 Carbon- • Met Energy Use and Water Use
+Neutral Operations goal (0x25) targets early
 • Reset Waste diversion target • Evaluation of a Net-Zero
 (60x25) Science-based target (S1,2,&3)
-2015 2017 2019 2021
-• Established targets with a 2008 • Set new targets with a 2008 base • Met second GHG reduction target • Established Building Certification target (87x25)
-base year: year: • Established Science-based targets • Remained on track to achieve Science-based
-› Energy Use 15x20 › Energy Use 32x25 at the 1.5 degree level with a 2018 targets and Carbon-Neutral Operations goal
+2019 2021
+• Met second GHG reduction target • Established Building Certification target (87x25)
+• Established Science-based targets • Remained on track to achieve Science-based
+at the 1.5 degree level with a 2018 targets and Carbon-Neutral Operations goal
 base year
-› GHG Emissions (S1&2) 20x20 › GHG Emissions (S1&2) 45x25 • Disclosed Scope 3 GHG emissions
+• Disclosed Scope 3 GHG emissions
 › GHG Emissions - S1&2 (39x24)
-› Water Use 20x20 › Water Use 30x25
 › GHG Emissions - S3 (14x25)
-› Waste Diversion 65x20 • Increased Waste diversion
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 32 ENVIRONMENTAL IMPACT
+32 ENVIRONMENTAL IMPACT
 
-Governance Our approach to climate-related issues is informed by robust stakeholder
-engagement. We are in frequent dialogue with investors, clients, community
+Governance
 Management’s role in overseeing, assessing, and managing climate-related
-members, governmental policymakers, consultants, and other non-governmental
 risks, opportunities, and initiatives is spread across multiple teams throughout
-organizations. We are heavily involved in industry associations and participate in
 our organization, including our Board of Directors, executive leadership and
-conferences and workshops covering ESG, sustainability, and climate resiliency
 our Sustainability, Risk Management, Development, Construction, and Property
-topics. Through these engagements, we enhance our knowledge of climate-related
 Management Departments. BXP has a dedicated team of sustainability
-issues and those issues that are most important to our stakeholders as well
 professionals focused on ESG issues that coordinate and collaborate across
-as industry best practices.
 corporate and regional teams to advance environmental sustainability issues
 and initiatives. As a vertically integrated, full-service real estate company, we
-Strategy
 are engaged in addressing climate-related issues at all levels of our Company.
-In 2021, our Board of Directors established a new, Board-level Sustainability We continue to proactively assess the potential risks that may impact the
-Committee to, among other things, increase Board oversight over sustainability properties in our portfolio, but our assessment and analysis remain preliminary
-issues, including climate-related risks and opportunities. The Sustainability as we gather information and monitor the evolving regulatory landscape related
-Committee directly reports to the full Board of Directors on matters related to climate change. Our process for assessing climate-related risks and their
-to the environment, sustainability, climate change, and resiliency. implications on our properties and business includes conducting climate change
+In 2021, our Board of Directors established a new, Board-level Sustainability
+Committee to, among other things, increase Board oversight over sustainability
+issues, including climate-related risks and opportunities. The Sustainability
+Committee directly reports to the full Board of Directors on matters related
+to the environment, sustainability, climate change, and resiliency.
+COLORADO CENTER
+SANTA MONICA, CA
+VARYING CLIMATE RISKS | Assessing the climate risk of our entire portfolio is crucial in identifying risks
+and impacts that may vary across the country. For example, wildfire and water stress risks are typically
+higher in our West Coast markets when compared to our East Coast markets where hurricane and flooding
+risks become the main focus.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 3
+
+Our approach to climate-related issues is informed by robust stakeholder
+engagement. We are in frequent dialogue with investors, clients, community
+members, governmental policymakers, consultants, and other non-governmental
+organizations. We are heavily involved in industry associations and participate in
+conferences and workshops covering ESG, sustainability, and climate resiliency
+topics. Through these engagements, we enhance our knowledge of climate-related
+issues and those issues that are most important to our stakeholders as well
+as industry best practices.
+Strategy
+We continue to proactively assess the potential risks that may impact the
+properties in our portfolio, but our assessment and analysis remain preliminary
+as we gather information and monitor the evolving regulatory landscape related
+to climate change. Our process for assessing climate-related risks and their
+implications on our properties and business includes conducting climate change
 scenario analysis on our portfolio assets. In 2021, we engaged Moody’s
 ESG Solutions (formerly known as the Four Twenty Seven Application), an
 independent provider of science-driven insights and analytics on climate risk,
-COLORADO CENTER
-SANTA MONICA, CA for its climate risk scoring to evaluate the forward-looking physical climate risk
+for its climate risk scoring to evaluate the forward-looking physical climate risk
 exposure of our entire portfolio. The scenario analysis and physical risk scoring
 was based on an RCP 8.5 emissions scenario, which is a worst-case, highemissions scenario, under a time horizon up to 2040. The scenario analysis
 included all in-service assets owned by BXP and included climate events such
@@ -1286,11 +1399,8 @@ our portfolio in the future across the stated time horizons and (2) BXP’s
 climate-related opportunities. We will continue to analyze the results of the
 Moody’s ESG Solutions analysis and the following risks and opportunities to
 understand our potential exposure and inform our climate resilience strategy and
-VARYING CLIMATE RISKS | Assessing the climate risk of our entire portfolio is crucial in identifying risks future investments, which include climate-related risk mitigation and initiatives.
-and impacts that may vary across the country. For example, wildfire and water stress risks are typically
-higher in our West Coast markets when compared to our East Coast markets where hurricane and flooding
-risks become the main focus.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 33 ENVIRONMENTAL IMPACT
+future investments, which include climate-related risk mitigation and initiatives.
+33 ENVIRONMENTAL IMPACT
 
 TIME PERIOD PHYSICAL RISKS
 Increased severity of extreme weather events, including flooding and wind damage, extreme heat, and sea-level rise may cause
@@ -1341,62 +1451,74 @@ Short-Term | Energy and carbon reductions could result in greater product differ
 Medium-Term | BXP may avoid penalties associated with building energy and carbon performance standards. Assets may be converted and/or certified net-zero, which may increase demand for office space.
 Long-Term | By focusing on the risks of climate change associated with acute and chronic physical risks during the development, acquisition, and operating life of assets, BXP may mitigate losses and downtime resulting from extreme weather events.
 
-Risk Management • Floodable first floors.
-BXP is committed to managing the avoidable and avoiding the unmanageable • Temporary flood barriers.
+Risk Management
+BXP is committed to managing the avoidable and avoiding the unmanageable
 impacts of climate change. Our risk management program includes physical
-• Backup generation, emergency lighting, and fire pumps.
 and transition risks, including both climate mitigation (resource efficiency and
-• Onsite energy resources and distributed generation, storage, and solar
 emissions reduction) and adaptation (integration of climate resilience into
-PV systems.
 our investment decision-making). We are actively acquiring, developing, and
 operating a geographically diverse portfolio of high-quality commercial real
-Our exposure to physical climate risks and the resilience of our markets may
 estate properties. Individual assets have unique risk profiles and insurance
-depend on the actions taken by cities to adapt transportation, energy, and
 requirements. Through the processes of acquisition, development, and
-communication infrastructure for extreme heat, weather events, sea-level rise,
 operation of our in-service portfolio, our experienced real estate professionals
-and flooding. We will continue to influence the adaptation of our cities and
 are identifying risks, including business continuity risks, loss exposure related
-management of physical and transition risks by maintaining a voice in policy
 to extreme weather events, and impacts of regulation, including permitting
-decision-making at the local level through direct engagement and/or advocacy
 requirements, codes, and energy and carbon performance standards. The
-through collective membership-based groups.
 climate risk profile of each property is largely dependent on the property’s unique
 attributes, physical location, and jurisdictional regulatory requirements.
+Asset-Level Risk Management
+We carry all-risk property insurance on our properties including those under
+development. Insurance coverage mitigates the impact on BXP from losses
+associated with natural catastrophes, such as floods, fires, earthquakes, and
+wind events.
+We are preparing for long-term climate risk by considering climate change
+scenarios and will continue to assess climate change vulnerabilities resulting
+from potential future climate scenarios and sea-level rise. We will continue to
+evaluate existing plans and procedures and proactively implement practical,
+cost-effective resiliency measures and infrastructure enhancements, including:
+• Business Continuity Plans.
+• Emergency Response and Life Safety Plans.
+• Emergency evacuation planning, procedures, and drills.
+• Client engagement and coordination.
+• Life safety analysis.
+• Elevation of vault, switchgear, and critical equipment during new
+development.
+• Waterproofing of subgrade infrastructure.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 3
+
+• Floodable first floors.
+• Temporary flood barriers.
+• Backup generation, emergency lighting, and fire pumps.
+• Onsite energy resources and distributed generation, storage, and solar
+PV systems.
+Our exposure to physical climate risks and the resilience of our markets may
+depend on the actions taken by cities to adapt transportation, energy, and
+communication infrastructure for extreme heat, weather events, sea-level rise,
+and flooding. We will continue to influence the adaptation of our cities and
+management of physical and transition risks by maintaining a voice in policy
+decision-making at the local level through direct engagement and/or advocacy
+through collective membership-based groups.
 We are managing transition risks by, among other things, benchmarking energy,
 carbon, water, and waste performance at the asset level and are prioritizing
-Asset-Level Risk Management
 interventions at underperforming assets. We develop, operate, and maintain a
-We carry all-risk property insurance on our properties including those under
 large portfolio of buildings that are LEED, ENERGY STAR, and/or Fitwel certified.
-development. Insurance coverage mitigates the impact on BXP from losses
 In 2022, 86% of our actively managed portfolio was certified under one or more
-associated with natural catastrophes, such as floods, fires, earthquakes, and
 of these frameworks. As a leader in green building, we will continue to make
-wind events.
 investments in building performance, energy efficiency, and decarbonization.
-We are preparing for long-term climate risk by considering climate change
-scenarios and will continue to assess climate change vulnerabilities resulting Through our climate action efforts, we believe we can play a leading role in
-from potential future climate scenarios and sea-level rise. We will continue to advancing the transition to a low-carbon economy and taking action to
-evaluate existing plans and procedures and proactively implement practical, decarbonize operations. GHG sources include the generated electricity and
-cost-effective resiliency measures and infrastructure enhancements, including: steam at offsite generation facilities, the onsite combustion of fuels (e.g.,
+Through our climate action efforts, we believe we can play a leading role in
+advancing the transition to a low-carbon economy and taking action to
+decarbonize operations. GHG sources include the generated electricity and
+steam at offsite generation facilities, the onsite combustion of fuels (e.g.,
 natural gas), and emissions associated with other business activities, including
-• Business Continuity Plans.
 business travel and new development. We continue to explore and implement
-• Emergency Response and Life Safety Plans.
 creative and cost-effective measures that reduce GHG emissions from our
-• Emergency evacuation planning, procedures, and drills. operations. GHG mitigation efforts include energy efficiency measure
+operations. GHG mitigation efforts include energy efficiency measure
 implementation at existing in-service assets, high-performance new development,
-• Client engagement and coordination.
 onsite renewable energy (e.g., solar PV systems), procurement of offsite
-• Life safety analysis. renewable energy, public portfolio and asset-level GHG short and long-term
-• Elevation of vault, switchgear, and critical equipment during new reduction targets, engagement of property engineers using real-time energy
-development. consumption data, sustainability education, and client engagement.
-• Waterproofing of subgrade infrastructure.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 35 ENVIRONMENTAL IMPACT
+renewable energy, public portfolio and asset-level GHG short and long-term
+reduction targets, engagement of property engineers using real-time energy
+consumption data, sustainability education, and client engagement.
+35 ENVIRONMENTAL IMPACT
 
 BXP’s Carbon-Neutral Operations Strategy
 200 FIFTH AVENUE
@@ -1438,69 +1560,86 @@ these are strategic for BXP to meet our Scope 1 and Scope 2 GHG Emissions Goal, 
 Operations Goal, and our future Net-Zero Science-based Target.
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 36 ENVIRONMENTAL IMPACT
 
-Metrics kilograms of carbon dioxide equivalent (kgCO e) per square foot per year.
-For our Science-based Scope 3 - Category 2: Capital Goods target, we report
+Metrics
 BXP works closely with governments, policymakers, strategic partners, and
-GHG emissions intensity in MtCO e per square meter per year.
-our clients to decarbonize our operating activities with the long-term objective 2
+our clients to decarbonize our operating activities with the long-term objective
 of achieving carbon neutrality. BXP has three existing GHG emissions goals - a
-BXP's 2025 Carbon-Neutral Operations Goal includes direct and indirect
 39x24 Scope 1 & 2 Science-based target, a 14x25 Science-based Scope 3 -
-Scope 1 and Scope 2 emissions associated with BXP operations at actively
 Category 2: Capital Goods Science-based target, and a 2025 Carbon-Neutral
-managed office buildings. Scope 1 emissions are associated with the onsite
 Operations Goal. We are in the process of setting a Net-Zero Science-based
-combustion of fossil fuels for heating, hot water, and standby generators. Scope
 target by intending to commit to the SBTi’s Net-Zero Standard for Scopes 1, 2,
-2 emissions include all emissions associated with the offsite generation of
 and 3.
-electricity and steam consumed by the base buildings. In 2022, we allocated
-all tenant-related GHG emissions to Scope 3 - Category 13 per the GHG Protocol.
 The Company monitors and benchmarks all primary sources of GHG emissions
 at the asset level in absolute units of metric tons of carbon dioxide equivalent
-As our business continues to grow, carbon reduction targets and the transparent
 (MtCO e). For Scope 1 and Scope 2 GHG emissions intensity, we report in
-2 disclosure of ESG metrics will remain a priority. We closely monitor GHG
-emissions and have provided a detailed Scopes 1, 2, and 3 emissions inventory
-2022 Market-based 2022 Location-based in the below table and graph.
+2022 Market-based 2022 Location-based
 GHG Emissions Type
-Emissions (MtCO 2 e) Emissions (MtCO 2 e) 6%
+Emissions (MtCOe) Emissions (MtCOe)
+2 2
 Scope 11 13,394 13,394
-14%
 Scope 21 30,883 101,267
 Scope 3: Total 184,341 204,234
-Scope 3 Category 1: Purchased Goods 1%
+Scope 3 Category 1: Purchased Goods
 2,193 2,193
 & Services2
-Scope 3 Category 2: Capital Goods3 35,390 35,390 MARKET-BASED
-55%
-• New Construction – Embodied Carbon 31,560 31,560 EMISSIONS BY SOURCE
-• Major Renovations – Embodied Carbon 3,830 3,830 15%
+Scope 3 Category 2: Capital Goods3 35,390 35,390
+• New Construction – Embodied Carbon 31,560 31,560
+• Major Renovations – Embodied Carbon 3,830 3,830
 Scope 3 Category 3: Fuel- and Energy-Related
 9,525 23,602
 Activities, Not Included in Scope 1 or Scope 22
 Category 5: Waste Generated In Operations2 8,650 8,650
-4%
-4%
 Category 6: Business Travel2 1,160 1,160
-0.5%
-0.5%
 Category 7: Employee Commuting2 1,020 1,020
-Category 13: Downstream Leased Assets4 126,403 132,219 Scope 11 Scope 3 Category 3: Scope 3 Category 6:
+Category 13: Downstream Leased Assets4 126,403 132,219
+1Represents emissions from BXP operations.
+SCOPE 3 CALCULATION REFERENCES
+2GHG Protocol Quantis Screening Tool
+3GHG Protocol's Average-product method for Capital Goods, using
+Carbon Leadership Forum's embodied carbon benchmarking data.
+42021 eGrid GHG Emissions Factors.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 3
+
+kilograms of carbon dioxide equivalent (kgCO e) per square foot per year.
+For our Science-based Scope 3 - Category 2: Capital Goods target, we report
+GHG emissions intensity in MtCO e per square meter per year.
+BXP's 2025 Carbon-Neutral Operations Goal includes direct and indirect
+Scope 1 and Scope 2 emissions associated with BXP operations at actively
+managed office buildings. Scope 1 emissions are associated with the onsite
+combustion of fossil fuels for heating, hot water, and standby generators. Scope
+2 emissions include all emissions associated with the offsite generation of
+electricity and steam consumed by the base buildings. In 2022, we allocated
+all tenant-related GHG emissions to Scope 3 - Category 13 per the GHG Protocol.
+As our business continues to grow, carbon reduction targets and the transparent
+disclosure of ESG metrics will remain a priority. We closely monitor GHG
+emissions and have provided a detailed Scopes 1, 2, and 3 emissions inventory
+in the below table and graph.
+6%
+14%
+1%
+MARKET-BASED
+55%
+EMISSIONS BY SOURCE
+15%
+4%
+4%
+0.5%
+0.5%
+Scope 11 Scope 3 Category 3: Scope 3 Category 6:
 Fuel- and Energy-Related Business Travel2
 Scope 21
 Activities, Not Included in
-1Represents emissions from BXP operations. Scope 3 Category 1: Scope 1 or Scope 22 Scope 3 Category 7:
+Scope 3 Category 7:
+Scope 3 Category 1: Scope 1 or Scope 22
 Employee Commuting2
 Purchased Goods and
-SCOPE 3 CALCULATION REFERENCES Scope 3 Category 5:
+Scope 3 Category 5:
 Services2 Scope 3 Category 13:
-2GHG Protocol Quantis Screening Tool Waste Generated
+Waste Generated
 Downstream Leased Assets4
-3GHG Protocol's Average-product method for Capital Goods, using Scope 3 Category 2: In Operations2
-Carbon Leadership Forum's embodied carbon benchmarking data. Capital Goods3
-42021 eGrid GHG Emissions Factors.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 37 ENVIRONMENTAL IMPACT
+Scope 3 Category 2: In Operations2
+Capital Goods3
+37 ENVIRONMENTAL IMPACT
 
 [Table 1 — Page 37]
 GHG Emissions Type | 2022 Market-based Emissions (MtCOe) 2 | 2022 Location-based Emissions (MtCOe) 2
@@ -1516,17 +1655,8 @@ Category 6: Business Travel2 | 1,160 | 1,160
 Category 7: Employee Commuting2 | 1,020 | 1,020
 Category 13: Downstream Leased Assets4 | 126,403 | 132,219
 
-94.9
-56.2 55.8 58.1
-2008 2020 2021 2022
-YTISNETNI
-ESU
-YGRENE
-ETIS
-)FS/utBk(
 Energy
 Energy Management
-Historical Energy Use Intensity
 Managing energy consumption and implementing energy conservation measures
 aligns with our objective to provide the greatest benefit to our stakeholders.
 We continually measure and manage the usage of electricity, gas, and steam using
@@ -1544,9 +1674,7 @@ increased energy use awareness to optimize facility operations and control utili
 costs by adjusting Building Management System (BMS) programming, verifying
 nighttime shutdowns/setbacks, holiday scheduling, peak load shedding,
 optimizing equipment runtime, and executing strategic demand response events.
-39%
 Across the portfolio, 171 active Measurabl users log in an average of 14 times
-REDUCTION SINCE 2008
 per month. Using interval data to optimize energy performance, BXP implemented
 over 14.4 million kWh in automatically generated energy savings measures
 from 2017 through 2022, resulting in approximately $1.6 million in cumulative
@@ -1554,13 +1682,26 @@ avoided annual energy expenses. In 2022 alone, BXP building teams leveraged
 over 1,500 weather-adjusted energy consumption reports from the Measurabl
 platform to help benchmark building performance as occupancy continued to
 fluctuate post-pandemic. Interval data is also used to execute demand response
-AVOIDED ANNUAL ENERGY
->$40M
 events. Demand response program enrollments have generated demand
-OPERATING COST1
 response payments of $4.9 million over the same six-year period.
 1Estimated based on 2008 base year energy consumption and 2022 energy cost.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 38 ENVIRONMENTAL IMPACT
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 38
+
+94.9
+56.2 55.8 58.1
+2008 2020 2021 2022
+YTISNETNI
+ESU
+YGRENE
+ETIS
+)FS/utBk(
+Historical Energy Use Intensity
+39%
+REDUCTION SINCE 2008
+AVOIDED ANNUAL ENERGY
+>$40M
+OPERATING COST1
+8 ENVIRONMENTAL IMPACT
 
 Energy Conservation Measures (ECMs) Renewable Energy
 We are committed to identifying and implementing ECMs and capital In 2022, BXP generated 8,702 MWh renewably onsite. At specific sites,
@@ -1636,19 +1777,16 @@ to save over 12.5 million gallons of water annually, equivalent to 19 Olympic-si
 Waste
 In partnership with our vendors and clients, BXP has implemented best waste
 management practices, including single-stream recycling, composting, and
-8,884
 e-waste programs for solid waste in all our regions. As a result, 47.3% of office
 waste by weight is recycled, donated, or composted across our portfolio,
-which is a 31.3% increase since 2008. We also work closely with our vendors TONS
+which is a 31.3% increase since 2008. We also work closely with our vendors
 and clients to promote responsible waste management practices, including
 haul trip optimization and composting at cafés and restaurants. In 2016 we
 established a bold commitment to achieving a 65% diversion rate by 2020.
 Unfortunately, we fell short of that goal by a margin of approximately 10%.
-6,680
 Diversion has become more challenging as the economics of recycling have
 become less favorable and waste haulers have become more discerning
 regarding contamination (recycling that contains non-recyclable materials).
-TONS1
 Going forward, we will perform more auditing of waste streams, engage
 clients to promote recycling, and will make efforts to introduce composting at
 more sites. In 2021, we reset our waste diversion target to 60% by 2025.
@@ -1660,15 +1798,23 @@ material recovery facility. The advantages of single-stream recycling include
 increased client participation and potentially higher waste diversion rates.
 Composting
 Our integrated composting program diverted nearly 1,282 tons of organic material
-from landfills in 2022. We work with our clients to ensure that they have signage 1,282
+from landfills in 2022. We work with our clients to ensure that they have signage
 and receptacles, and that our buildings have designated central compost bins
-with frequently scheduled pickup. Composting produces valuable nutrient-rich TONS
+with frequently scheduled pickup. Composting produces valuable nutrient-rich
 soil, avoids potentially significant methane emissions, and reduces the
 frequency of waste hauls required.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 41
+
+8,884
+TONS
+6,680
+TONS1
+1,282
+TONS
 RECYCLED & COMPOSTED OTHER
 DONATED
 1Donations accounted for 0.3% of the diversion rate (56.8 tons).
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 41 ENVIRONMENTAL IMPACT
+ENVIRONMENTAL IMPACT
 
 [Table 1 — Page 41]
 
@@ -1826,9 +1972,7 @@ footprint in Waltham, MA, and helped to create space and place for scientific di
 demand of companies in the biotechnology sector.
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 46 SOCIAL IMPACT
 
-PLATFORM 16
 PUBLIC BENEFITS1
-SAN JOSE, CA
 Public Realm Improvement Costs $72,111,000
 Roadway Improvements $31,050,000
 Publicly Available Space $20,375,000
@@ -1855,12 +1999,17 @@ New Units of Housing Provided 508
 UBEs Hired 25
 Permanent Jobs Created 15
 Projects that Offered Job Training 22%
+1Data represents $2.3 billion (our share) of new development projects.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+PLATFORM 16
+SAN JOSE, CA
 PLATFORM FOR SUCCESS | Platform 16 will be a three building campus occupying a full city block along
 the Guadalupe River Park in San Jose, CA. The articulation of the building façades’ different geometries,
 materials, and colors creates a dynamic architectural presence. Platform 16 is adjacent to Google’s planned 8
 MSF transit village and Diridon Station, the largest multi-modal transportation hub in the Bay Area. The first
-1Data represents $2.3 billion (our share) of new development projects. phase of the development began construction in 2022.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 47 SOCIAL IMPACT
+phase of the development began construction in 2022.
+47 SOCIAL IMPACT
 
 [Table 1 — Page 47]
 Public Realm Improvement Costs $72,111,000 Roadway Improvements $31,050,000 Publicly Available Space $20,375,000 Public Art $2,000,000 Other Benefits $18,611,000 Public Restrooms $75,000
@@ -1959,12 +2108,12 @@ Pandemic- ready Provisions | Reduce Transmission Opportunities | • Increase ad
 Green Cleaning | Minimize the Impact of Cleaning Products on People and the Environment | • Implement Green Cleaning requirements aligned with LEED for Existing Buildings with our cleaning vendors. • Use Green Seal® certified cleaning products, High-Efficiency Particulate Air (HEPA) vacuums, dry cleaning for carpets, and restroom supply products made from recycled materials.
 
 Indoor Air Quality
-Indoor Air Quality (IAQ) refers to the air quality Monitoring MERV filtration
-within and around a building as it relates to the BXP manages thermal comfort and air All of our properties are provided
-distribution by continuously monitoring with filtration which is certified
+Indoor Air Quality (IAQ) refers to the air quality Monitoring
+within and around a building as it relates to the BXP manages thermal comfort and air
+distribution by continuously monitoring
 health and comfort of the occupants.
-space temperature set points and HVAC to at least a MERV-13 rating and to
-At BXP, we are committed to developing and maintaining equipment performance using advanced a MERV-14 or MERV-15 rating.
+space temperature set points and HVAC
+At BXP, we are committed to developing and maintaining equipment performance using advanced
 building management systems. Rigorous
 sustainable properties while simultaneously providing
 air and water quality testing is conducted
@@ -1973,29 +2122,20 @@ contractors, and other visitors at our properties. As taken from throughout the 
 Results available upon request.
 part of a smart-building strategy, our management and
 engineering teams use real-time energy consumption
-HEPA Filters
 data to optimize facility operations, including IAQ, and to
-Portable hospital grade
-control energy consumption,carbon emissions, and HEPA filters are provided
-in our amenity conference
+control energy consumption,carbon emissions, and
 utility costs. Increasingly, the energy we are using is from
-rooms, cafes, and fitness
-renewable sources. centers.
+renewable sources.
 Fresh air rate
 BXP has confirmed that all
 base building systems are
-Consumption
 Comprehensive capable of exceeding the
-Our management and
 Air Testing and ventilation standard, ASHRAE
-Outside Air engineering teams use
+Outside Air
 Monitoring 62.1. The median fresh air
-Intake rate capacity at BXP office real-time energy
-consumption data to
+Intake rate capacity at BXP office
 properties is 36 CFM per
-optimize facility operations
 person at 200 square feet
-and control utility costs.
 per person (54 CFM at 300
 square feet per person).
 Conveyance
@@ -2003,15 +2143,42 @@ to and from Conditioning
 Building Zones (Temperature and
 Humidity)
 Filtration
-Healthy building certification Since 2008
-In response to the COVID-19 pandemic, BXP We've reduced operational energy
-achieved Fitwel Viral Response Module enterprise intensity by 39% and water intensity
-certification and building-level certification at by 45%. Today, 86% of our portfolio
-all actively managed office properties. The Viral is LEED, ENERGY STAR, and/or Fitwel
-Response Module was created to operationalize certified. 27 M SF of which is at the
-policies and practices to mitigate the spread of highest LEED Gold & Platinum levels.
+Healthy building certification
+In response to the COVID-19 pandemic, BXP
+achieved Fitwel Viral Response Module enterprise
+certification and building-level certification at
+all actively managed office properties. The Viral
+Response Module was created to operationalize
+policies and practices to mitigate the spread of
 infectious disease in buildings.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 49 SOCIAL IMPACT
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 49
+
+MERV filtration
+All of our properties are provided
+with filtration which is certified
+to at least a MERV-13 rating and to
+a MERV-14 or MERV-15 rating.
+HEPA Filters
+Portable hospital grade
+HEPA filters are provided
+in our amenity conference
+rooms, cafes, and fitness
+centers.
+Consumption
+Our management and
+engineering teams use
+real-time energy
+consumption data to
+optimize facility operations
+and control utility costs.
+Since 2008
+We've reduced operational energy
+intensity by 39% and water intensity
+by 45%. Today, 86% of our portfolio
+is LEED, ENERGY STAR, and/or Fitwel
+certified. 27 M SF of which is at the
+highest LEED Gold & Platinum levels.
+SOCIAL IMPACT
 
 Green Cleaning
 1330 CONNECTICUT AVENUE NW
@@ -2071,102 +2238,129 @@ unite communities in the fight against this deadly disease.
 unions control primary aspects of the hiring process.
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 51 SOCIAL IMPACT
 
-The BXP benefit programs are designed to meet the needs of our diverse • Work-Life Balance Employee Assistance Program, services include:
+The BXP benefit programs are designed to meet the needs of our diverse
 workforce. These programs help to protect and enhance the well-being, work
-› Personal relationship information (Marriage/Family Issues)
 and personal life balance, and financial security of our employees and their
-› Legal consultations and licensed attorneys
 families. BXP offers a comprehensive total rewards strategy in support of our
-business objectives and in alignment with our company values, market trends, › Financial planning assistance
+business objectives and in alignment with our company values, market trends,
 and our goal of attracting and retaining top talent.
+Some of the Benefits that We Offer Our Employees Include:
+• Health (including telehealth), dental, and vision insurance
+• Employee Wellness Program
+• 401(k) retirement savings plan
+• Health care and dependent care flexible spending accounts
+• Income protection plans - salary continuation, long-term disability,
+and life and AD&D insurance
+• Paid time off - vacation, holiday, and personal days
+• Scholarship Program
+• Tuition reimbursement
+• Employee stock purchase plan
+• Paid Parental and Family Medical Leave Policies
+• Adoption Assistance Program
+• Volunteer Day Program
+• Online cognitive behavioral therapy for mental wellbeing
+• Family Care Program through backup child, adult, and elder care
+• Pet Insurance
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT
+
+• Work-Life Balance Employee Assistance Program, services include:
+› Personal relationship information (Marriage/Family Issues)
+› Legal consultations and licensed attorneys
+› Financial planning assistance
 › Stress management
 › Mental illness
-Some of the Benefits that We Offer Our Employees Include:
 › Career development
-• Health (including telehealth), dental, and vision insurance
 › Alcohol/Drug dependency help
-• Employee Wellness Program
 › Wellness and Self-Help
-• 401(k) retirement savings plan
 • Subsidized commuter benefit encourages public and alternative
-• Health care and dependent care flexible spending accounts
 transportation
-• Income protection plans - salary continuation, long-term disability,
 • Annual flu shot campaign
-and life and AD&D insurance
 • Value Added Programs provided by our medical benefits provider include:
-• Paid time off - vacation, holiday, and personal days
 › Telehealth
-• Scholarship Program
 › Healthy Baby – Ovia Fertility/Pregnancy Apps
-• Tuition reimbursement
 › Fitness Reimbursement
-• Employee stock purchase plan
 › Weight Loss Reimbursement
-• Paid Parental and Family Medical Leave Policies
 › Goal Getter – track exercising activity and/or calories to reach
-• Adoption Assistance Program
 fitness goals
-• Volunteer Day Program
 • Flexible Work Arrangements (including hybrid/remote work)
-• Online cognitive behavioral therapy for mental wellbeing
-• Family Care Program through backup child, adult, and elder care Our Employee Wellness Program, established to encourage employees to
+Our Employee Wellness Program, established to encourage employees to
 improve their health and well-being, offers wellness activities facilitated
-• Pet Insurance
 through an engaging and personalized approach. Program participants receive
 a reduction in their health insurance deduction cost.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 52 SOCIAL IMPACT
+52 SOCIAL IMPACT
 
 Diversity, Equity, & Inclusion
-BXP strives to create a diverse and inclusive workplace. It has been, and BXP’s notable achievements for 2022 include:
+BXP strives to create a diverse and inclusive workplace. It has been, and
 will continue to be, our policy to recruit, hire, assign, promote and train in
-all job titles without regard to race, national origin, religion, age, color, sex, GOAL & INITIATIVES NOTABLE 2022 ACHIEVEMENTS
-sexual orientation, gender identity, disability, protected veteran status, or TRAINING & EDUCATION
+all job titles without regard to race, national origin, religion, age, color, sex,
+sexual orientation, gender identity, disability, protected veteran status, or
 any other characteristic protected by local, state, or federal laws, rules, or
-• Training for those serving as • Various training sessions to the DEI Council members to enhance DEI
-regulations. By implementing this policy, we aim to ensure that all employees ambassadors of DEI mission leadership skills
-• Bring cultural awareness to • Provided interactive events to educate employees on DEI related topics in
+regulations. By implementing this policy, we aim to ensure that all employees
 have the opportunity to make their maximum contribution to us and to their
+own career goals.
+Diversity, Equity, & Inclusion Council
+BXP’s Diversity, Equity & Inclusion Council (the “DEI Council”) is an executivesponsored, voluntary, and employee-led committee unified by a mission to
+promote diversity, equity, inclusion, and transparency as part of BXP’s culture,
+decision-making practices, and business activities, while also providing a
+mechanism for positive impact in the communities in which we operate. Since
+its formation in 2020, the DEI Council has grown to over 33 Council members
+across our six regions, and each member contributes to the overall mission
+through leadership in one or more of the DEI Council’s three committees – the
+Recruiting & Development Committee, the Company Policies Committee, and
+the Community Outreach Committee – and/or three ERGs including BXP Proud
+(LGBTQ+ ERG), BXP Shero (Women's ERG), and ELEVATE at BXP (Multicultural/
+BIPOC ERG). Including ERG members, as of December 31, 2022, BXP’s DEI
+community consisted of 244 members, or 36% of BXP’s workforce.1 The DEI
+Council in collaboration with BXP’s CEO, President, and Human Resources
+Department annually identifies actionable diversity goals and proposes initiatives
+to advance its mission. In 2022, the DEI Council created a sustainable structure
+of current and future tracking and organization by consolidating these initiatives
+into six focus areas: (1) training and workforce education, (2) recruiting and
+onboarding, (3) employee engagement, (4) social responsibility, (5) transparency
+and communication, and (6) governance.
+1Excludes intern employees; excludes union employees for which the unions control
+primary aspects of the hiring process; excludes BXP’s non-employee directors.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 5
+
+BXP’s notable achievements for 2022 include:
+GOAL & INITIATIVES NOTABLE 2022 ACHIEVEMENTS
+TRAINING & EDUCATION
+• Training for those serving as • Various training sessions to the DEI Council members to enhance DEI
+ambassadors of DEI mission leadership skills
+• Bring cultural awareness to • Provided interactive events to educate employees on DEI related topics in
 entire company an exciting and engaging method
-own career goals. • Publicly displayed support for women’s, LGBTQ+, and minority days/months
+• Publicly displayed support for women’s, LGBTQ+, and minority days/months
 of recognition through visual property management programs and company
 sponsored group events
-Diversity, Equity, & Inclusion Council
 RECRUITING & ONBOARDING
-BXP’s Diversity, Equity & Inclusion Council (the “DEI Council”) is an executive- • Expand candidate pools
+• Expand candidate pools
 • 5% increase in ethnically diverse employees company wide and 7% increase
-sponsored, voluntary, and employee-led committee unified by a mission to • Increase women and in ethnically diverse officers since 20201
+• Increase women and in ethnically diverse officers since 20201
 ethnically diverse
-promote diversity, equity, inclusion, and transparency as part of BXP’s culture, • 2% increase in women employees company wide and 9% increase in
+• 2% increase in women employees company wide and 9% increase in
 employment company-wide
 women officers since 20201
-decision-making practices, and business activities, while also providing a and at the officer level
+and at the officer level
 • Partner with organizations • Launched partnerships with CareerSpring and Project Destined, providing
-mechanism for positive impact in the communities in which we operate. Since exposure to program alumni for new career opportunities
+exposure to program alumni for new career opportunities
 that promote diverse hiring
-its formation in 2020, the DEI Council has grown to over 33 Council members • Diversify recruiting agencies • 50% of BXP’s contracted recruiting agencies are minority/women-owned
+• Diversify recruiting agencies • 50% of BXP’s contracted recruiting agencies are minority/women-owned
 or have their own internal DEI programs
-across our six regions, and each member contributes to the overall mission • Developed an ERG flyer as a quick reference for potential candidates or
-through leadership in one or more of the DEI Council’s three committees – the employees that want to get involved in the DEI mission
-Recruiting & Development Committee, the Company Policies Committee, and
+• Developed an ERG flyer as a quick reference for potential candidates or
+employees that want to get involved in the DEI mission
 EMPLOYEE ENGAGEMENT
-the Community Outreach Committee – and/or three ERGs including BXP Proud
-(LGBTQ+ ERG), BXP Shero (Women's ERG), and ELEVATE at BXP (Multicultural/ • Increase employee • Launched Women’s (“BXP Shero”), LGBTQ+ (“BXP Proud”), and
+• Increase employee • Launched Women’s (“BXP Shero”), LGBTQ+ (“BXP Proud”), and
 awareness and participation Multicultural/BIPOC (“ELEVATE at BXP”) ERGs with an extraordinary
-BIPOC ERG). Including ERG members, as of December 31, 2022, BXP’s DEI in DEI initiatives “year-one” participation rate in excess of 1 in 4 employees
-community consisted of 244 members, or 36% of BXP’s workforce.1 The DEI
+in DEI initiatives “year-one” participation rate in excess of 1 in 4 employees
 SOCIAL RESPONSIBILITY
-Council in collaboration with BXP’s CEO, President, and Human Resources
 • Encourage UBE companies • Secured (3) total leases through the “Forward with BXP” program which provides
-Department annually identifies actionable diversity goals and proposes initiatives • Increase community BXP space at attractive terms for DEI supporting/employing businesses
-to advance its mission. In 2022, the DEI Council created a sustainable structure involvement • 34% growth in UBE vendor usage from 2021 to 2022
+• Increase community BXP space at attractive terms for DEI supporting/employing businesses
+involvement • 34% growth in UBE vendor usage from 2021 to 2022
 • Created despository relationship with America’s largest Black-owned bank
-of current and future tracking and organization by consolidating these initiatives
 • Proactively procured a minority- and woman-owned bank to act as
-into six focus areas: (1) training and workforce education, (2) recruiting and co-manager in one of our unsecured senior notes offerings
-onboarding, (3) employee engagement, (4) social responsibility, (5) transparency • At least 50% of regional charitable contributions to DEI associated initiatives
+co-manager in one of our unsecured senior notes offerings
+• At least 50% of regional charitable contributions to DEI associated initiatives
 in (4) of BXP’s (6) regions
-and communication, and (6) governance.
 TRANSPARENCY & COMMUNICATION
 • Inform senior leadership of • Internal Town Hall focused on BXP’s DEI progress and future initiatives hosted
 employee feedback to by BXP’s President and CEO/Chairman and led by the DEI Council Co-Chairs
@@ -2176,9 +2370,8 @@ initiatives with employee base
 GOVERNANCE
 • Develop structure and • Created charter for DEI Council and ERG’s
 organization to standardize • Refreshed DEI Council membership with onboarding (15) new members and
-1Excludes intern employees; excludes union employees for which the unions control DEI practices increased membership by 55%
-primary aspects of the hiring process; excludes BXP’s non-employee directors.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 53 SOCIAL IMPACT
+DEI practices increased membership by 55%
+53 SOCIAL IMPACT
 
 [Table 1 — Page 53]
 GOAL & INITIATIVES | NOTABLE 2022 ACHIEVEMENTS
@@ -2303,9 +2496,7 @@ TREK Training Attendees | 14
 
 Human Rights
 BXP is committed to advancing its responsibility to respect human rights.
-SALESFORCE TOWER
 Because we encourage all persons to be treated with dignity and respect, we
-SAN FRANCISCO, CA
 have adopted the following Human Rights Policy, which aligns with the United
 Nations’ Universal Declaration of Human Rights. BXP strives to respect and
 promote human rights within all aspects of the Company. Its policies and
@@ -2329,56 +2520,79 @@ and other unsafe or disruptive conditions;
 • Re-assess the needs of the Human Rights Policy as the Company grows
 appropriate to its size and circumstances; and
 • Carrying out human rights due diligence of adverse human rights impacts.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 5
+
+SALESFORCE TOWER
+SAN FRANCISCO, CA
 SDG AND HUMAN RIGHTS ALIGNMENT | Our sustainability policies, practices, and projects are aligned
 with the direction set by the United Nations SDGs, which support human rights initiatives. For example,
 SDG 8 includes a goal to protect labor rights and promote safe and secure working environments for all BXP
 employees within our buildings and on our job sites.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 57 SOCIAL IMPACT
+57 SOCIAL IMPACT
 
 Community Involvement
-We are a leading property owner and developer. Our local teams are very The Salvadori Center
-engaged in their local communities, not only seeking entitlements but also BXP’s New York region supported the Salvadori Center
-determining how our projects can enhance neighborhood amenities and on multiple occasions in 2022. The Salvadori Center
-quality of life. Our community involvement was strengthened in 2022 by our uses the built environment, such as buildings, bridges,
-ongoing commitment to volunteerism and philanthropy. Throughout the year, parks, and communities that surround students’ lives
-BXP and 218 of our employees donated over 2,569 service hours to 758 to help them see the relevance of math, science, and
-community events and contributed over $2.1 M in donations and event funding. the arts.
+We are a leading property owner and developer. Our local teams are very
+engaged in their local communities, not only seeking entitlements but also
+determining how our projects can enhance neighborhood amenities and
+quality of life. Our community involvement was strengthened in 2022 by our
+ongoing commitment to volunteerism and philanthropy. Throughout the year,
+BXP and 218 of our employees donated over 2,569 service hours to 758
+community events and contributed over $2.1 M in donations and event funding.
 Holiday Toy Drives
-Reston Holiday Parade
 In continuation of our ongoing partnership with
-This year marked the 31st annual Reston Holiday Parade.
 the United Way of Massachusetts Bay and
-The one-of-a-kind, half-mile parade along Market
 Merrimack Valley, BXP hosted a Holiday Toy Drive
-Street welcomes the arrival of Santa and Mrs. Claus in a
 in 2022. Employees donated over 389 toys and
-horse-drawn carriage. Proceeds from the carriage rides
 gift cards for families in need.
-benefit local charities.
 United Playaz
-The Hill & Dale Gala
 BXP’s San Francisco team continued their partnership
-BXP’s Los Angeles region helped to fund the 2022 Hill
 with United Playaz, a program that provides youth
-& Dale Gala. The organization provides Early Childhood
 with adult support, academic enrichment, and leadership
-Education that nurtures the development of children,
 skills to prevent them from entering and re-entering
-families, and educators through inquiry, collaboration,
 the justice system. BXP donated to the program and
-and play.
 helped in setting up their Paint Party event.
-31 Nights of Light In addition to supporting charities and community groups across our regions,
-Since 2009, 31 Nights of light has grown as an iconic we are committed to enhancing our local, national, and global communities
-event in the Boston-area nonprofit community. through education and outreach, and volunteering our time with industry
-Every night of December, the top of Prudential Tower groups, such as: BOMA; local chambers of commerce; local tourism organizations
-shined a different color in support of that night’s and Nareit; government committees including regional and city sustainability
-nonprofit partner and their important work. The honored efforts and ‘green’ ribbon task forces; building innovation districts and sustainable
-organizations host events in conjunction with their neighborhood planning; technical advisory teams and local engineering
-lighting. Over the course of 13 years, 31 Nights of Light unions; and in-house to our neighborhoods by providing building tours, offering
-has attracted positive public attention to a multitude educational programs about our buildings and operations, and hosting annual
-of important causes. sustainability and healthy-living events.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 58 SOCIAL IMPACT
+31 Nights of Light
+Since 2009, 31 Nights of light has grown as an iconic
+event in the Boston-area nonprofit community.
+Every night of December, the top of Prudential Tower
+shined a different color in support of that night’s
+nonprofit partner and their important work. The honored
+organizations host events in conjunction with their
+lighting. Over the course of 13 years, 31 Nights of Light
+has attracted positive public attention to a multitude
+of important causes.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 5
+
+The Salvadori Center
+BXP’s New York region supported the Salvadori Center
+on multiple occasions in 2022. The Salvadori Center
+uses the built environment, such as buildings, bridges,
+parks, and communities that surround students’ lives
+to help them see the relevance of math, science, and
+the arts.
+Reston Holiday Parade
+This year marked the 31st annual Reston Holiday Parade.
+The one-of-a-kind, half-mile parade along Market
+Street welcomes the arrival of Santa and Mrs. Claus in a
+horse-drawn carriage. Proceeds from the carriage rides
+benefit local charities.
+The Hill & Dale Gala
+BXP’s Los Angeles region helped to fund the 2022 Hill
+& Dale Gala. The organization provides Early Childhood
+Education that nurtures the development of children,
+families, and educators through inquiry, collaboration,
+and play.
+In addition to supporting charities and community groups across our regions,
+we are committed to enhancing our local, national, and global communities
+through education and outreach, and volunteering our time with industry
+groups, such as: BOMA; local chambers of commerce; local tourism organizations
+and Nareit; government committees including regional and city sustainability
+efforts and ‘green’ ribbon task forces; building innovation districts and sustainable
+neighborhood planning; technical advisory teams and local engineering
+unions; and in-house to our neighborhoods by providing building tours, offering
+educational programs about our buildings and operations, and hosting annual
+sustainability and healthy-living events.
+58 SOCIAL IMPACT
 
 Governance
 2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 59
@@ -2388,24 +2602,23 @@ Governance |
 ----------------------------------------
 
 Leadership & Oversight
-BXP is committed to strong corporate governance policies and practices The Board of Directors and the Sustainability Committee support efforts to
-designed to make the Board of Directors effective in exercising its oversight implement our sustainability strategy through our corporate sustainability
-role. Our Board of Directors oversee management performance on behalf program. Our Board-level Sustainability Committee, chaired by BXP Director
-of our shareholders, ensure that the long-term interests of our shareholders Diane Hoskins, assists the Board in fulfilling its oversight responsibilities
-are being served, monitor adherence to BXP's standards and policies, with respect to matters relating to environmental sustainability and climate,
-and promote the exercise of responsible corporate citizenship. Our Board of including the issues and risks related to these topics. Throughout the year,
-Directors is currently comprised of eleven highly accomplished individuals the Company organizes meetings, presentations, and regional Sustainability
-with diverse backgrounds who are dedicated to serving the best interests of our Summits to communicate the objectives and performance of our ESG initiatives
-shareholders. Among other things, the Board is responsible for overseeing to our Board of Directors, executive management, and other stakeholders,
-the strategy, ESG priorities, risk management for the Company, ensuring that including our employees and investors. BXP's ESG reporting and implementation
-the Board, taken as a whole, has the desired mix of skills, experience, of our sustainability initiatives are led by Ben Myers, our Senior Vice President of
-continuity, reputation, and diversity relevant to our strategic direction and Sustainability. The sustainability program initiatives are supported and coordinated
-operating environment, overseeing management's succession plan, approving by BXP's Board-level Sustainability Committee, a Corporate Sustainability
-and implementing governance policies, assessing its performance and the Steering Committee, and a Company-wide Sustainable Operations Committee
-performance of executive management, monitoring our cybersecurity and risks, of regional leaders and key decision-makers.
+BXP is committed to strong corporate governance policies and practices
+designed to make the Board of Directors effective in exercising its oversight
+role. Our Board of Directors oversee management performance on behalf
+of our shareholders, ensure that the long-term interests of our shareholders
+are being served, monitor adherence to BXP's standards and policies,
+and promote the exercise of responsible corporate citizenship. Our Board of
+Directors is currently comprised of eleven highly accomplished individuals
+with diverse backgrounds who are dedicated to serving the best interests of our
+shareholders. Among other things, the Board is responsible for overseeing
+the strategy, ESG priorities, risk management for the Company, ensuring that
+the Board, taken as a whole, has the desired mix of skills, experience,
+continuity, reputation, and diversity relevant to our strategic direction and
+operating environment, overseeing management's succession plan, approving
+and implementing governance policies, assessing its performance and the
+performance of executive management, monitoring our cybersecurity and risks,
 and providing oversight of financial reporting and legal compliance policies.
-BXP is highly ranked for its governance principles among other real estate NEW YORK STOCK EXCHANGE
-NEW YORK CITY, NY
+BXP is highly ranked for its governance principles among other real estate
 companies, including:
 • Delaware domicile;
 • Diverse Board of Directors;
@@ -2417,11 +2630,30 @@ companies, including:
 • Policy on company political spending;
 • Compensation clawback policy; and
 • Policy against future tax “gross-ups.”
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 6
+
+The Board of Directors and the Sustainability Committee support efforts to
+implement our sustainability strategy through our corporate sustainability
+program. Our Board-level Sustainability Committee, chaired by BXP Director
+Diane Hoskins, assists the Board in fulfilling its oversight responsibilities
+with respect to matters relating to environmental sustainability and climate,
+including the issues and risks related to these topics. Throughout the year,
+the Company organizes meetings, presentations, and regional Sustainability
+Summits to communicate the objectives and performance of our ESG initiatives
+to our Board of Directors, executive management, and other stakeholders,
+including our employees and investors. BXP's ESG reporting and implementation
+of our sustainability initiatives are led by Ben Myers, our Senior Vice President of
+Sustainability. The sustainability program initiatives are supported and coordinated
+by BXP's Board-level Sustainability Committee, a Corporate Sustainability
+Steering Committee, and a Company-wide Sustainable Operations Committee
+of regional leaders and key decision-makers.
+NEW YORK STOCK EXCHANGE
+NEW YORK CITY, NY
 25TH ANNIVERSARY ON THE NYSE | In 2022, BXP celebrated the 25TH Anniversary of our listing on the
 New York Stock Exchange (NYSE). Representatives from BXP rang the closing bell at the NYSE in recognition
 of this milestone occasion. When our founders Mort Zuckerman and Ed Linde rang the bell in 1997, they
 memorialized what was at the time the largest office REIT IPO ever completed.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 60 GOVERNANCE
+60 GOVERNANCE
 
 Sustainability Committee of the Board of Directors • Reporting to and advising the full Board as appropriate on the Company’s
 sustainability objectives and its strategy;
@@ -2502,49 +2734,40 @@ SUSTAINABLE OPERATIONS COMMITTEE |
 
 Senior Management ESG Goals
 To support the achievement of the Company’s overarching sustainability and
-2022 GOALS DESCRIPTION STATUS
 ESG goals, the performance of each member of our executive team is assessed
 annually against pre-established corporate, operational, and management
-Enhance ESG reporting, including disclosures related to
-goals and factors such as individual contributions to overall Company results 1 Human Capital/Diversity & Inclusion, Pandemic Response Complete
-are considered in our executive compensation program. Annually, one of these /Health Security and Supply Chain Engagement
+goals and factors such as individual contributions to overall Company results
+are considered in our executive compensation program. Annually, one of these
 pre-established goals focuses on sustainability and ESG accomplishments across
-our portfolio. 2 Advance TCFD alignment and complete Climate Risk Complete
-Assessment
-In 2022, these goals were formulated by the President and the Senior Vice 3 Finish community solar project at CityPoint Complete
+our portfolio.
+In 2022, these goals were formulated by the President and the Senior Vice
 President, Sustainability. Sustainability targets and objectives are also
-4 Find solar opportunity in Reston, VA Complete
 communicated to senior management in weekly and monthly meetings, with
-progress monitored through weekly and monthly reports. With a wide range 5 Improve GRESB score and maintain highest level 5-star rating Complete
+progress monitored through weekly and monthly reports. With a wide range
 of department representatives in attendance, sustainability objectives are
-effectively communicated to the Board, senior management, and throughout Advance adoption of the Task Force on Climate-related
-the Company on a consistent basis. 6 Financial Disclosures (TCFD) recommendations, identify Complete
-gaps, and define pathway to full alignment (10-K inclusion)
-2023 GOALS DESCRIPTION STATUS 7 Execute sustainability metric assurance for sustainability- Complete
-linked revolving credit facility
+effectively communicated to the Board, senior management, and throughout
+the Company on a consistent basis.
+2023 GOALS DESCRIPTION STATUS
 Improve ESG ratings and achieve GRESB’s highest
 1 In Progress
 5-star level rating.
-Finalize 100% renewable energy strategy for 2025
-8 Complete
-Prepare for proposed SEC climate-related disclosures, carbon-neutral operations, including VPPA diligence
+Prepare for proposed SEC climate-related disclosures,
 2 In Progress
 including SASB, TCFD, and other climate-related metrics.
-Consider adoption of a 2050 net-zero, science-based target Complete Scope 3 emissions inventory, including embodied
-3 In Progress 9 Complete
-for emissions Scopes 1, 2, and 3. carbon, and evaluate setting a Scope 3 net-zero target
-4 Execute first virtual PPA (VPPA) for BERDO 2.0 compliance In Progress 10 Improve GRESB score and maintain highest level 5-star rating Partially
-and carbon-neutral operations performance in 2025. Complete
+Consider adoption of a 2050 net-zero, science-based target
+3 In Progress
+for emissions Scopes 1, 2, and 3.
+Execute first virtual PPA (VPPA) for BERDO 2.0 compliance
+4 In Progress
+and carbon-neutral operations performance in 2025.
 Advance transition risk management and energy efficiency
-Commence implementation of proactive indoor air quality
-5 improvement by completing 9 million SF of retro-commissioning In Progress 11 monitoring program in all regions Complete
+improvement by completing 9 million SF of retro-commissioning
+5 In Progress
 and building performance standard compliance analysis for
 CBD assets in Boston, New York, and Cambridge.
-12 Enhance social disclosures Complete
 Finalize carbon-neutral operations offsetting strategy for
 6 In Progress
 hard-to-abate gas and steam (non-power) emissions.
-13 Maintain trajectory of performance toward long-term DEI goals Complete
 Deliver our first net-zero office building conversion at
 7 In Progress
 140 Kendrick Street, Building A.
@@ -2554,7 +2777,37 @@ IAQ monitoring capabilities.
 Enhance social disclosures in annual ESG reporting and
 9 In Progress
 ESG assessments.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 63 GOVERNANCE
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 63
+
+2022 GOALS DESCRIPTION STATUS
+Enhance ESG reporting, including disclosures related to
+1 Human Capital/Diversity & Inclusion, Pandemic Response Complete
+/Health Security and Supply Chain Engagement
+Advance TCFD alignment and complete Climate Risk
+2 Complete
+Assessment
+3 Finish community solar project at CityPoint Complete
+4 Find solar opportunity in Reston, VA Complete
+5 Improve GRESB score and maintain highest level 5-star rating Complete
+Advance adoption of the Task Force on Climate-related
+6 Financial Disclosures (TCFD) recommendations, identify Complete
+gaps, and define pathway to full alignment (10-K inclusion)
+Execute sustainability metric assurance for sustainability7 Complete
+linked revolving credit facility
+Finalize 100% renewable energy strategy for 2025
+8 Complete
+carbon-neutral operations, including VPPA diligence
+Complete Scope 3 emissions inventory, including embodied
+9 Complete
+carbon, and evaluate setting a Scope 3 net-zero target
+10 Improve GRESB score and maintain highest level 5-star rating Partially
+Complete
+Commence implementation of proactive indoor air quality
+11 Complete
+monitoring program in all regions
+12 Enhance social disclosures Complete
+13 Maintain trajectory of performance toward long-term DEI goals Complete
+3 GOVERNANCE
 
 [Table 1 — Page 63]
 2022 GOALS | DESCRIPTION | STATUS
@@ -2587,48 +2840,66 @@ ESG assessments.
 9 | Enhance social disclosures in annual ESG reporting and ESG assessments. | In Progress
 
 Ethics & Integrity
-For more than five decades, BXP and our employees have maintained the Employee Business Conduct and Ethics Training and
-highest standards of integrity and ethics. We take pride in our traditions of Whistleblower Mechanism
+For more than five decades, BXP and our employees have maintained the
+highest standards of integrity and ethics. We take pride in our traditions of
 responsibility and accountability. We also believe that transparent disclosure
-Across the Company, every employee receives online training regarding their
 of our corporate governance policies is fundamentally important to maintaining
-obligations under the Code annually. Employees who deal specifically with
 our well-established reputation and preserving the trust of our investors.
-the government also receive in-person training regarding the requirements
 We believe this sets a “tone at the top” for good governance and includes the
-of the Code as it relates to the Federal Government annually. Additionally, all
 appropriate checks and balances that a formalized system of governance
-employees must certify in writing at the time they are hired that they will
 should have.
-abide by the Code, and each employee must provide a re-certification every time
-they are trained. BXP requires employees to report any suspected violations of
 Code of Business Conduct and Ethics
-the Code, including using the EthicsPointTM Reporting System. Through EthicsPoint,
-BXP has established clear policies, administration, communication, training, any employee can anonymously report any suspected or observed violations
-and enforcement of a set of strict rules and regulations, found in our Code of of the Code 24 hours per day, 365 days per year, either online or via telephone. In
-Business Conduct and Ethics, which is publicly available on the Company’s addition, BXP includes a provision highlighting the requirements of our Code
-website. The Code governs business decisions made and actions taken by in vendor contracts, including how to file a complaint on our hotline if they become
-our directors, officers, and employees and is an expression of the Company’s aware of any inappropriate activity by an employee. We remain committed to
-fundamental and core values, which include: (i) integrity and honesty in the adhering to these policies and principles and are confident that our employees
-Company’s and its employees’ dealings with clients, suppliers, co-venturers, will continue to conduct themselves in a manner consistent with these policies
-competitors, shareholders, and the community; (ii) respect for individuality and and ideals.
+BXP has established clear policies, administration, communication, training,
+and enforcement of a set of strict rules and regulations, found in our Code of
+Business Conduct and Ethics, which is publicly available on the Company’s
+website. The Code governs business decisions made and actions taken by
+our directors, officers, and employees and is an expression of the Company’s
+fundamental and core values, which include: (i) integrity and honesty in the
+Company’s and its employees’ dealings with clients, suppliers, co-venturers,
+competitors, shareholders, and the community; (ii) respect for individuality and
 personal experience and background; and (iii) support of the communities
-where the Company operates and its employees work. Political Spending
-The Company has established a Policy on Company Political Spending, publicly
+where the Company operates and its employees work.
 Bribery and Corruption
-posted on our website, which requires the prior approval of our Chief Legal
-BXP has a strong commitment to minimizing our exposure to bribery, corruption, Officer, in consultation with our Chief Executive Officer and President, of any
-and conflicts of interest. The Company requires strict adherence to the U.S. political contributions made by the Company. The policy is available under
-Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, where applicable, the "Governance" section of our website. In the interest of transparent reporting
-and any similar anti-corruption and anti-bribery laws of the United States and of political contributions of the Company, BXP annually publishes on its website
-other nations. Among other things, employees are prohibited from, directly or approved Company political spending amounts in accordance with its policy.
+BXP has a strong commitment to minimizing our exposure to bribery, corruption,
+and conflicts of interest. The Company requires strict adherence to the U.S.
+Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, where applicable,
+and any similar anti-corruption and anti-bribery laws of the United States and
+other nations. Among other things, employees are prohibited from, directly or
 indirectly through a third party (i) offering, authorizing, promising, directing,
 or providing anything of value to any government official for the purpose of
 influencing that person to assist the Company in obtaining or retaining
 business or securing an improper business advantage, or (ii) otherwise offering
 or giving anything to any person in connection with Company business that
 could be perceived as a bribe.
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 64 GOVERNANCE
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 6
+
+Employee Business Conduct and Ethics Training and
+Whistleblower Mechanism
+Across the Company, every employee receives online training regarding their
+obligations under the Code annually. Employees who deal specifically with
+the government also receive in-person training regarding the requirements
+of the Code as it relates to the Federal Government annually. Additionally, all
+employees must certify in writing at the time they are hired that they will
+abide by the Code, and each employee must provide a re-certification every time
+they are trained. BXP requires employees to report any suspected violations of
+the Code, including using the EthicsPointTM Reporting System. Through EthicsPoint,
+any employee can anonymously report any suspected or observed violations
+of the Code 24 hours per day, 365 days per year, either online or via telephone. In
+addition, BXP includes a provision highlighting the requirements of our Code
+in vendor contracts, including how to file a complaint on our hotline if they become
+aware of any inappropriate activity by an employee. We remain committed to
+adhering to these policies and principles and are confident that our employees
+will continue to conduct themselves in a manner consistent with these policies
+and ideals.
+Political Spending
+The Company has established a Policy on Company Political Spending, publicly
+posted on our website, which requires the prior approval of our Chief Legal
+Officer, in consultation with our Chief Executive Officer and President, of any
+political contributions made by the Company. The policy is available under
+the "Governance" section of our website. In the interest of transparent reporting
+of political contributions of the Company, BXP annually publishes on its website
+approved Company political spending amounts in accordance with its policy.
+64 GOVERNANCE
 
 Cybersecurity
 BXP continually invests in maintaining the security and integrity of our IT networks,
@@ -2710,51 +2981,87 @@ BXP Environmental Management System | BXP Commitment - Reports Web Page - Link
 BXP Code of Business Conduct and Ethics | BXP Corporate Governance Web Page - Link
 
 Disclaimers
-General No Assurance
-The information and opinions contained in this report are provided as of the The goals, targets, and commitments presented in this report are aspirational
-date of this report is issued (April 20, 2023) and are subject to change without and not guarantees or promises that such goals, targets, or commitments
-notice. BXP does not undertake to update or revise any such statements. This will be achieved. Further, historical, current, and forward-looking information
-report represents BXP’s current policy and intent and is not intended to create included in this report may be based on standards and practices for measuring
-legal rights or obligations. This report may contain or incorporate by reference progress that are still developing, internal controls, and processes that continue
-public information not separately reviewed, approved, or endorsed by BXP, and to evolve, and assumptions that are subject to change, therefore, no assurance
-no representation, warranty, or undertaking is made by BXP as to the accuracy, can be given that any plan, initiative, projection, goal, commitment, expectation,
-reasonableness, or completeness of such information. or prospect set forth in this report can or will be achieved. Accordingly, such
-historical, current, and forward-looking information or underlying assumptions
-Materiality may be subject to modifications in future reports due to such developing
-standards, practices, controls, and processes.
+General
+The information and opinions contained in this report are provided as of the
+date of this report is issued (April 20, 2023) and are subject to change without
+notice. BXP does not undertake to update or revise any such statements. This
+report represents BXP’s current policy and intent and is not intended to create
+legal rights or obligations. This report may contain or incorporate by reference
+public information not separately reviewed, approved, or endorsed by BXP, and
+no representation, warranty, or undertaking is made by BXP as to the accuracy,
+reasonableness, or completeness of such information.
+Materiality
 The inclusion of information or references in this report, including the use of
 “materiality” or similar terms, should not be construed as a characterization
-Unaudited and Non-GAAP Data
 regarding the materiality of such information to our business or financial
-results or that such information is necessarily material to investors or other The data contained in the report is unaudited. In addition, certain numerical
-stakeholders for purposes of U.S. federal securities laws. Inclusion of data contained in this report, including the data related to key performance
-information in this report is not an indication that the subject or information is indicators, and therefore are not, calculated in accordance with accounting
-material to BXP’s business or operating results. principles generally accepted in the United States of America (GAAP).
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 67 GOVERNANCE
+results or that such information is necessarily material to investors or other
+stakeholders for purposes of U.S. federal securities laws. Inclusion of
+information in this report is not an indication that the subject or information is
+material to BXP’s business or operating results.
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 6
+
+No Assurance
+The goals, targets, and commitments presented in this report are aspirational
+and not guarantees or promises that such goals, targets, or commitments
+will be achieved. Further, historical, current, and forward-looking information
+included in this report may be based on standards and practices for measuring
+progress that are still developing, internal controls, and processes that continue
+to evolve, and assumptions that are subject to change, therefore, no assurance
+can be given that any plan, initiative, projection, goal, commitment, expectation,
+or prospect set forth in this report can or will be achieved. Accordingly, such
+historical, current, and forward-looking information or underlying assumptions
+may be subject to modifications in future reports due to such developing
+standards, practices, controls, and processes.
+Unaudited and Non-GAAP Data
+The data contained in the report is unaudited. In addition, certain numerical
+data contained in this report, including the data related to key performance
+indicators, and therefore are not, calculated in accordance with accounting
+principles generally accepted in the United States of America (GAAP).
+67 GOVERNANCE
 
 Forward-Looking Statements
-This report contains forward-looking statements within the meaning of actual results may vary materially from those expressed or implied by the
-Section 27A of the Securities Act of 1933, as amended, and Section 21E of the forward-looking statements. Factors that may cause actual results to differ
-Securities Exchange Act of 1934, as amended, including statements related to materially from those expressed or implied by the forward-looking statements
-BXP’s sustainability strategies, initiatives, commitments, and targets. We intend include, but are not limited to, with respect to BXP’s ability to successfully
-these forward-looking statements to be covered by the safe harbor provisions meet its goals, targets, and commitments (including within the expected
-for forward-looking statements contained in the Private Securities Litigation time frame): changes in laws, regulations, prevailing standards or public policy,
-Reform Act of 1995 and are including this statement for purposes of complying the alignment of the scientific community on measurement and reporting
-with those safe harbor provisions, in each case, to the extent applicable. approaches, the complexity of commodity supply chains and the evolution of
-and adoption of new technology, including traceability practices, tools and
-All statements other than statements of historical or current facts, including processes, evolving sustainability strategies, changes in carbon and renewable
-statements regarding our plans, initiatives, projections, targets, goals, energy markets, and other changes in circumstances. Additional discussions
-commitments, expectations, or prospects, are forward-looking. You can of risks and uncertainties that could cause actual results to differ materially from
-identify these statements by our use of the words “believe,” “commit,” those expressed or implied by the forward-looking statements appear in the
-“ensure,” “expect,” “goal,” “intend,” “may,” “project,” “target,” “will” and similar Company’s filings with the Securities and Exchange Commission, including BXP’s
-expressions that do not relate to historical matters. These forward-looking Annual Report on Form 10-K for the fiscal year ended December 31, 2022 under
-statements reflect management’s current expectations and are subject to risks, the heading “Risk Factors” and under the heading “Management’s Discussion and
-uncertainties, and assumptions and are not guarantees of future performance, Analysis of Financial Condition and Results of Operations — Forward-Looking
-achievement, outcomes, or occurrences, which may be affected by known Statements” and in subsequent quarterly reports on Form 10-Q. BXP does not
-and unknown risks, trends, uncertainties, and factors that are, in some cases, undertake a duty to update forward-looking statements.
+This report contains forward-looking statements within the meaning of
+Section 27A of the Securities Act of 1933, as amended, and Section 21E of the
+Securities Exchange Act of 1934, as amended, including statements related to
+BXP’s sustainability strategies, initiatives, commitments, and targets. We intend
+these forward-looking statements to be covered by the safe harbor provisions
+for forward-looking statements contained in the Private Securities Litigation
+Reform Act of 1995 and are including this statement for purposes of complying
+with those safe harbor provisions, in each case, to the extent applicable.
+All statements other than statements of historical or current facts, including
+statements regarding our plans, initiatives, projections, targets, goals,
+commitments, expectations, or prospects, are forward-looking. You can
+identify these statements by our use of the words “believe,” “commit,”
+“ensure,” “expect,” “goal,” “intend,” “may,” “project,” “target,” “will” and similar
+expressions that do not relate to historical matters. These forward-looking
+statements reflect management’s current expectations and are subject to risks,
+uncertainties, and assumptions and are not guarantees of future performance,
+achievement, outcomes, or occurrences, which may be affected by known
+and unknown risks, trends, uncertainties, and factors that are, in some cases,
 beyond BXP’s control. Should one or more of these known or unknown risks
 or uncertainties materialize, or should underlying assumptions prove incorrect,
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 68 GOVERNANCE
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 6
+
+actual results may vary materially from those expressed or implied by the
+forward-looking statements. Factors that may cause actual results to differ
+materially from those expressed or implied by the forward-looking statements
+include, but are not limited to, with respect to BXP’s ability to successfully
+meet its goals, targets, and commitments (including within the expected
+time frame): changes in laws, regulations, prevailing standards or public policy,
+the alignment of the scientific community on measurement and reporting
+approaches, the complexity of commodity supply chains and the evolution of
+and adoption of new technology, including traceability practices, tools and
+processes, evolving sustainability strategies, changes in carbon and renewable
+energy markets, and other changes in circumstances. Additional discussions
+of risks and uncertainties that could cause actual results to differ materially from
+those expressed or implied by the forward-looking statements appear in the
+Company’s filings with the Securities and Exchange Commission, including BXP’s
+Annual Report on Form 10-K for the fiscal year ended December 31, 2022 under
+the heading “Risk Factors” and under the heading “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations — Forward-Looking
+Statements” and in subsequent quarterly reports on Form 10-Q. BXP does not
+undertake a duty to update forward-looking statements.
+68 GOVERNANCE
 
 Independent Assurance Statement
 Boston Properties, Inc (“BXP”) commissioned DNV Business Assurance USA, Inc. (“DNV”, “we”, or “us”) to undertake
@@ -2831,62 +3138,47 @@ sector and Post-Covid-19 impacts, specifically how these are
 2022 ENVIRONMENTAL, SOCIAL & GOVERNANCE REPORT 69 ASSURANCE STATEMENT
 
 Scope and approach
-Responsibilities of Boston
-We performed our work using DNV’s assurance methodology VeriSustainTM, which is Properties Inc and of the
-based on our professional experience, international assurance best practice including Assurance Providers
+We performed our work using DNV’s assurance methodology VeriSustainTM, which is
+based on our professional experience, international assurance best practice including
 the International Standard on Assurance Engagements 3000 (“ISAE 3000”), and the
-Global Reporting Initiative (“GRI”) Sustainability Reporting Guidelines. BXP has sole responsibility for the
-preparation of the Report. In
+Global Reporting Initiative (“GRI”) Sustainability Reporting Guidelines.
 We evaluated the Report for adherence to the VeriSustainTMPrinciples (the
-performing our assurance work, our
 “Principles”) of stakeholder inclusiveness, materiality, sustainability context,
-responsibility is to the management of
 completeness, and reliability. We evaluated the performance data using the
-BXP; however, our statement
 reliability principle together with BXP’Sdata protocols for how the data are
-represents our independent opinion
 measured, recorded and reported. The reporting criteria against which the GHG
-and is intended to inform all
 verification was conducted is the World Business Council for Sustainable
-stakeholders. DNV was not involved in
 Development (WBSCD)/World Resources Institute (WRI) Greenhouse Gas –
-the preparation of any statements or
 Corporate Accounting Standard.
-data included in the Report except for
-The boundary of our work is restricted to occupied (defined as no more than 50 this Assurance Statement. We have no
-percent vacancy) and actively managed buildings in BXP’s portfolio where the other contract with BXP. This is our
-company has operational control. The boundary includes all eligible buildings that fourth year providing assurance for
-meet these criteria that have remained within the company ownership for full BXP’s Report.
-calendar 2022. This includes 96 buildings which account for 77 percent of the total inDNV’s assurance engagements are
-service portfolio by area.
-based on the assumption that the data
-We understand that the reported financial data and information are based on data and information provided by the client
-from BXP’s 10-K, which is subject to a separate independent audit process. The to us as part of our review have been
-review of financial data taken from the 10-K is not within the scope of our work. In provided in good faith. DNV expressly
-addition, claims and assertions related to the company’s Green Bond and use of disclaims any liability or coproceeds are outside the scope this assurance. responsibility for any decision a
-person or an entity may make based
-on this Independent Assurance
+The boundary of our work is restricted to occupied (defined as no more than 50
+percent vacancy) and actively managed buildings in BXP’s portfolio where the
+company has operational control. The boundary includes all eligible buildings that
+meet these criteria that have remained within the company ownership for full
+calendar 2022. This includes 96 buildings which account for 77 percent of the total inservice portfolio by area.
+We understand that the reported financial data and information are based on data
+from BXP’s 10-K, which is subject to a separate independent audit process. The
+review of financial data taken from the 10-K is not within the scope of our work. In
+addition, claims and assertions related to the company’s Green Bond and use of
+proceeds are outside the scope this assurance.
 DataVerified
-Statement.
 The2022performancedatainscopearelistedbelow:
 GreenhouseGasEmissions
-Level of Assurance
  Scope1Emissions 13,394MtCO e
  Scope2Emissions(Location-Based) 101,267 MtCO e
- Scope2Emissions(Market-Based) 30,883MtCO e We planned and performed our work
- Scope3Emissions to obtain the evidence we considered
-Category1:PurchasedGoodsandServices 2,193MtCO e necessary to provide a basis for our
+ Scope2Emissions(Market-Based) 30,883MtCO e
+ Scope3Emissions
+Category1:PurchasedGoodsandServices 2,193MtCO e
 o 2
-Category2:CapitalGoods 35,390MtCO e assurance opinion. We are providing a
+Category2:CapitalGoods 35,390MtCO e
 o 2
-Category3(Location-Based):Fuel-andEnergy-Related) ‘limited level’ of assurance. A
+Category3(Location-Based):Fuel-andEnergy-Related)
 o
-Activities(NotIncludedinScope1orScope2) 23,602MtCO e ‘reasonable level’ of assurance would
-Category3(Market-Based):Fuel-andEnergy-Related) 2 have required additional work at
+Activities(NotIncludedinScope1orScope2) 23,602MtCO e
+Category3(Market-Based):Fuel-andEnergy-Related)
 o
-Activities(NotIncludedinScope1orScope2) 9,525MtCO e headquarters and site levels to gain
-Category5:WasteGeneratedInOperations 8,650MtCO 2 e further evidence to support the basis
-o 2 of our assurance opinion.
+Activities(NotIncludedinScope1orScope2) 9,525MtCO e
+Category5:WasteGeneratedInOperations 8,650MtCO e
+o 2
 Category6:BusinessTravel 1,160MtCO e
 o 2
 Category7:EmployeeCommuting 1,020MtCO e
@@ -2895,26 +3187,74 @@ Category13(Location-Based):DownstreamLeasedAssets 132,219MtCO e
 o 2
 Category13(Market-Based):DownstreamLeasedAssets 126,403 MtCO e
 o 2
- Scope1and2GHGEmissionsIntensity(Market-Based) 1.0 kgCO 2 e/SF Independence
-Energy DNV’s established policies and
- TotalEnergyConsumption 727,745MWh procedures are designed to ensure
- EnergyUseIntensity 58.1 kBtu/SF that DNV, its personnel and, where
-applicable, others are subject to
-Water independence requirements (including
-personnel of other entities of DNV)
+ Scope1and2GHGEmissionsIntensity(Market-Based) 1.0 kgCO e/SF
+Energy
+ TotalEnergyConsumption 727,745MWh
+ EnergyUseIntensity 58.1 kBtu/SF
+Water
  TotalWaterConsumption 458,309kgal
-and maintain independence where
  WaterIntensity 10.7gallons/SF
-required by relevant ethical
-Waste requirements. This engagement work
-was carried out by an independent
- TotalWasteGenerated 16,846 tons team of sustainability assurance
-o Disposedwaste 8,884 tons professionals.
+Waste
+ TotalWasteGenerated 16,846 tons
+Disposedwaste 8,884 tons
+o
 Recycled 6,623 tons
 o
 Composted 1,282 tons
 o
-2022 ENVIRONMENTAL, SOCIAL & GOVERNANCE REPORT 70 ASSURANCE STATEMENT
+2022 ENVIRONMENTAL, SOCIAL & GOVERNANCE REPORT 70
+
+Responsibilities of Boston
+Properties Inc and of the
+Assurance Providers
+BXP has sole responsibility for the
+preparation of the Report. In
+performing our assurance work, our
+responsibility is to the management of
+BXP; however, our statement
+represents our independent opinion
+and is intended to inform all
+stakeholders. DNV was not involved in
+the preparation of any statements or
+data included in the Report except for
+this Assurance Statement. We have no
+other contract with BXP. This is our
+fourth year providing assurance for
+BXP’s Report.
+DNV’s assurance engagements are
+based on the assumption that the data
+and information provided by the client
+to us as part of our review have been
+provided in good faith. DNV expressly
+disclaims any liability or coresponsibility for any decision a
+person or an entity may make based
+on this Independent Assurance
+Statement.
+Level of Assurance
+We planned and performed our work
+to obtain the evidence we considered
+necessary to provide a basis for our
+assurance opinion. We are providing a
+‘limited level’ of assurance. A
+‘reasonable level’ of assurance would
+have required additional work at
+headquarters and site levels to gain
+further evidence to support the basis
+of our assurance opinion.
+Independence
+DNV’s established policies and
+procedures are designed to ensure
+that DNV, its personnel and, where
+applicable, others are subject to
+independence requirements (including
+personnel of other entities of DNV)
+and maintain independence where
+required by relevant ethical
+requirements. This engagement work
+was carried out by an independent
+team of sustainability assurance
+professionals.
+ASSURANCE STATEMENT
 
 [Table 1 — Page 70]
 Responsibilities of Boston Properties Inc and of the Assurance Providers
@@ -3010,50 +3350,63 @@ ProjectManager&Assessor | YishuangXu
 LeadVerifier(Environment) | KyleSilon
 Technical Reviewer | Sathishkumar Nagarajan
 
-Global Reporting Initiative (GRI) Content Index
+Global Reporting Initiative (GRI) Content Ind
 GRI 1: FOUNDATION 2021
-GRI STANDARD/OTHER SOURCE DISCLOSURE LOCATION REPORT
+GRI STANDARD/OTHER SOURCE DISCLOSURE
 GENERAL DISCLOSURES
+2-1 Organizational details
+2-2 Entities included in the organization’s
+sustainability reporting
+2-3 Reporting period, frequency and contact point
+2-4 Restatements of information
+2-5 External assurance
+GRI 2: General Disclosures 2021
+2-6 Activities, value chain and other business
+relationships
+2-7 Employees
+2-8 Workers who are not employees
+2-9 Governance structure and composition
+2-10 Nomination and selection of the highest
+governance body
+2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 72
+
+dex
+LOCATION REPORT
 2-1a: ESG report 2022, Page 6: Boston Properties, Inc.
 (NYSE : BXP)
 2-1b: The Prudential Center, 800 Boylston Street, Boston,
-2-1 Organizational details Fully Reported
+Fully Reported
 Massachusetts, 02199-8103
 2-1c: ESG Report 2022, Page 5, 7; Form 10-K Page 3
 2-1d: ESG Report 2022, Page 5; Form 10-K Explanatory note
-2-2 Entities included in the organization’s
 2-2a: ESG Report 2022, Page 6 Fully Reported
-sustainability reporting
 2-3a: Fiscal Year ended December 2022
 2-3b: Annual
-2-3 Reporting period, frequency and contact point 2-3c: TBD (publication of report) Fully Reported
+2-3c: TBD (publication of report) Fully Reported
 2-3d: Ben Myers, Senior Vice President, Sustainability at
 BXP, bmyers@bxp.com,+1 617 293 9895
 2-4: There have been no significant restatements
-2-4 Restatements of information Fully Reported
-of information
-2-5 External assurance 2-5a: ESG Report 2022, Page 69-71 Fully Reported
-GRI 2: General Disclosures 2021
-2-6a ESG Report 2022, Page 5; Form 10-K Page 4-11
-2-6 Activities, value chain and other business 2-6b ESG Report 2022, Page 6, 8, 50
 Fully Reported
-relationships 2-6c ESG Report 2022, Page 9
+of information
+2-5a: ESG Report 2022, Page 69-71 Fully Reported
+2-6a ESG Report 2022, Page 5; Form 10-K Page 4-11
+2-6b ESG Report 2022, Page 6, 8, 50
+Fully Reported
+2-6c ESG Report 2022, Page 9
 2-6d ESG Report 2022, Page 8
 2-7a ESG Report 2022, Page 51-55, 25
 2-7c ESG Report 2022, Page 5 and 7
-2-7 Employees Partially Reported
+Partially Reported
 2-7d ESG Report 2022, Page 7, 25
 2-7e ESG Report 2022, Page 51
 2-8a: ESG Report 2022, Page 26, 52-56
-2-8 Workers who are not employees Not Material
+Not Material
 2-8b: ESG Report 2022, Page 25, 52-56
 2-9a ESG Report 2022, Page 59-64
-2-9 Governance structure and composition 2-9b ESG Report 2022, Page 59-64 Fully Reported
+2-9b ESG Report 2022, Page 59-64 Fully Reported
 2-9c ESG Report 2022, Page 59-64
-2-10 Nomination and selection of the highest
 2-10a ESG Report 2022, Page 59-64 Partially Reported
-governance body
-2022 ENVIRONMENTAL, SOCIAL, & GOVERNANCE REPORT 72 GRI INDEX
+GRI INDEX
 
 [Table 1 — Page 72]
 GRI STANDARD/OTHER SOURCE | DISCLOSURE | LOCATION | REPORT

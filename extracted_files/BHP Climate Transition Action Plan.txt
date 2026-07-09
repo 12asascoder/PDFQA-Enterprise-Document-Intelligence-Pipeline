@@ -8,34 +8,35 @@ Pages: 27
 BHP Climate Transition Plan 2021 1
 
 Contents
-Executive summary 4
-1. Pursuing net zero 7
-Our role and the opportunity to act 7
-A suite of actions to drive results 10
-2. Our Scope 1 and Scope 2 emissions position and performance 10
-Scope 1 and Scope 2 emissions profile 10
-FY2021 progress 11
-Carbon offset strategy 12
-3. Scope 3 emissions position and performance 12
-Scope 3 emissions profile 13
-Energy products 13
-Procurement 14
-Maritime 15
-Steelmaking 15
-Future facing commodities 18
-4. Assessing capital alignment with a 1.5°C world 19
-Green revenue 19
-5. Just transition 20
-6. Climate policy engagement 21
-7. Climate governance 22
-Board skills and experience 22
-Executive remuneration 22
-Stakeholder engagement 22
-Management authority 22
-8. TCFD disclosure 22
-Glossary 23
-Reporting terms 24
-Abbreviations key 25
+Executive summary
+1. Pursuing net zero
+Our role and the opportunity to act
+A suite of actions to drive results
+2. Our Scope 1 and Scope 2 emissions position and performance
+Scope 1 and Scope 2 emissions profile
+FY2021 progress
+Carbon offset strategy
+3. Scope 3 emissions position and performance
+Scope 3 emissions profile
+Energy products
+Procurement
+Maritime
+Steelmaking
+Future facing commodities
+4. Assessing capital alignment with a 1.5°C world
+Green revenue
+5. Just transition
+6. Climate policy engagement
+7. Climate governance
+Board skills and experience
+Executive remuneration
+Stakeholder engagement
+Management authority
+8. TCFD disclosure
+Glossary
+Reporting terms
+Abbreviations key
+
 BHP Climate Transition Action Plan 2
 
 The Climate Transition Action Plan 2021 is
@@ -231,6 +232,7 @@ should be read with the BHP Climate Change Report 2020.
 BHP Climate Transition Action Plan 5
 
 Our actions in FY2021
+
 BHP Climate Transition Action Plan 6
 
 1. Pursuing net zero
@@ -1515,79 +1517,58 @@ assumptions or conditions.
 Above pre-industrial levels.
 BHP Climate Transition Action Plan 23
 
-Direct emissions
 Scenario analysis
-Emissions from sources that are owned or controlled by the
 Central Energy scenario
-reporting company.
 Central Energy View is one of our scenarios used as an input
-to our planning cases (our mid-planning case). It reflects, and Downstream emissions
+to our planning cases (our mid-planning case). It reflects, and
 is periodically updated to respond to, existing policy trends
-Indirect GHG emissions from sold goods and services.
 and commitments and currently tracks to approximately 3°C
-Downstream emissions also include emissions from products
 temperature increase above pre-industrial levels by 2100.
-that are distributed but not sold (i.e. distributed without receiving
 Refer to the BHP Climate Change Report 2020 at bhp.com for
-payment).
 more information.
-Lower Carbon scenario Emission factor
+Lower Carbon scenario
 Lower Carbon View is one of our scenarios used as an input
-A factor that converts activity data into GHG emissions data (e.g.
 to our planning cases. It currently tracks to approximately
-kg CO -e emitted per gigajoule of fuel consumed, kg CO -e
-2.5°C temperature increase above pre-industrial levels by 2 2
-emitted per kilowatt-hour of electricity used).
+2.5°C temperature increase above pre-industrial levels by
 2100, and accelerates decarbonisation trends and policies,
 particularly in easier-to-abate sectors such as power
-Energy coal
 generation and light duty vehicles. Refer to the BHP Climate
-Change Report 2020 at bhp.com for more information. Used as a fuel source in electrical power generation, cement
-BHP’s 1.5°C scenario (‘our 1.5°C scenario’) manufacture and various industrial applications. Energy coal
-may also be referred to as steaming or thermal coal.
+Change Report 2020 at bhp.com for more information.
+BHP’s 1.5°C scenario (‘our 1.5°C scenario’)
 Our 1.5°C scenario models a GHG emissions trajectory to
 2100 that limits global warming to 1.5°C above pre-industrial
-Fugitive emissions
 levels. BHP’s 1.5°C scenario aligns with the Paris Agreement
-goals and requires steep global annual emissions reductions, Emissions that are not physically controlled but result from the
-sustained for decades, to stay within a 1.5°C carbon budget. intentional or unintentional releases of greenhouse gases.
+goals and requires steep global annual emissions reductions,
+sustained for decades, to stay within a 1.5°C carbon budget.
 Deep Green hypothetical
-GHG Protocol
-Deep Green hypothetical is BHP’s regional and sectorspecific, bottom-up modelling exercise that seeks to simulate The Greenhouse Gas Protocol: A Corporate Accounting and
-the specific impact on the steel sector of a much more rapid Reporting Standard, which provides requirements and guidance
-global convergence towards decarbonisation, universal for companies and other organisations preparing a corporateaccess to zero emissions electricity and a US$200 per tonne level GHG emissions inventory.
+Deep Green hypothetical is BHP’s regional and sectorspecific, bottom-up modelling exercise that seeks to simulate
+the specific impact on the steel sector of a much more rapid
+global convergence towards decarbonisation, universal
+access to zero emissions electricity and a US$200 per tonne
 global carbon price. It is unlike and wholly separate from the
-whole-system modelling with global temperature outcomes Indirect emissions
+whole-system modelling with global temperature outcomes
 approach taken in our Central Energy, Lower Carbon, or
-1.5°C scenarios. Emissions that are a consequence of the activities of the
-reporting company, but occur at sources owned or controlled by
-another party.
+1.5°C scenarios.
 Reporting terms
-LNG (liquefied natural gas)
-Capital goods Consists largely of methane that has been liquefied through
-chilling and pressurisation. One tonne of LNG is approximately
-Final goods that have an extended life and are used by the equivalent to 46,000 cubic feet of natural gas.
+Capital goods
+Final goods that have an extended life and are used by the
 reporting company to manufacture a product, provide a service,
-or sell, store, and deliver merchandise. In financial accounting, Metallurgical coal
+or sell, store, and deliver merchandise. In financial accounting,
 capital goods are treated as fixed assets or plant, property and
-equipment (PP&E). Examples of capital goods include A broader term than coking coal, which includes all coals used in
-equipment, machinery, buildings, facilities, and vehicles. steelmaking, such as coal used for the pulverised coal injection
-process
+equipment (PP&E). Examples of capital goods include
+equipment, machinery, buildings, facilities, and vehicles.
 Cradle-to-gate
-Natural gas liquids
 All GHG emissions that occur in the lifecycle of purchased
-products, up to the point of receipt by the reporting company Consists of propane, butane and ethane – individually or as a
-(excluding emissions from sources that are owned or controlled mixture.
+products, up to the point of receipt by the reporting company
+(excluding emissions from sources that are owned or controlled
 by the reporting company).
-Non-operated asset/non-operated joint venture (NOJV)
 Customers’ processing of our products
-Non-operated assets/non-operated joint ventures include
-In line with our reporting methodology for Scope 3 emissions, we interests in assets that are owned as a joint venture but not
-define ‘processing of our products’ as emissions resulting from operated by BHP. References in this Plan to a ‘joint venture’ are
-our customers’ processing of our products comprising iron ore used for convenience to collectively describe assets that are not
-and metallurgical coal (steelmaking materials) and copper wholly owned by BHP. Such references are not intended to
-(assumed to be processed into copper wire for end use). These characterise the legal relationship between the owners of the
-are reported under the Scope 3 Standard’s ‘Processing of sold asset.
+In line with our reporting methodology for Scope 3 emissions, we
+define ‘processing of our products’ as emissions resulting from
+our customers’ processing of our products comprising iron ore
+and metallurgical coal (steelmaking materials) and copper
+(assumed to be processed into copper wire for end use). These
+are reported under the Scope 3 Standard’s ‘Processing of sold
 products’ category.
 Customers’ use of our energy products
 In line with our reporting methodology for Scope 3 emissions, we
@@ -1596,6 +1577,54 @@ account for metallurgical coal within our customers’ processing
 of sold products (within steelmaking emissions). These are
 reported under the Scope 3 Standard’s ‘Use of sold products’
 category.
+
+Direct emissions
+Emissions from sources that are owned or controlled by the
+reporting company.
+Downstream emissions
+Indirect GHG emissions from sold goods and services.
+Downstream emissions also include emissions from products
+that are distributed but not sold (i.e. distributed without receiving
+payment).
+Emission factor
+A factor that converts activity data into GHG emissions data (e.g.
+kg CO -e emitted per gigajoule of fuel consumed, kg CO -e
+2 2
+emitted per kilowatt-hour of electricity used).
+Energy coal
+Used as a fuel source in electrical power generation, cement
+manufacture and various industrial applications. Energy coal
+may also be referred to as steaming or thermal coal.
+Fugitive emissions
+Emissions that are not physically controlled but result from the
+intentional or unintentional releases of greenhouse gases.
+GHG Protocol
+The Greenhouse Gas Protocol: A Corporate Accounting and
+Reporting Standard, which provides requirements and guidance
+for companies and other organisations preparing a corporatelevel GHG emissions inventory.
+Indirect emissions
+Emissions that are a consequence of the activities of the
+reporting company, but occur at sources owned or controlled by
+another party.
+LNG (liquefied natural gas)
+Consists largely of methane that has been liquefied through
+chilling and pressurisation. One tonne of LNG is approximately
+equivalent to 46,000 cubic feet of natural gas.
+Metallurgical coal
+A broader term than coking coal, which includes all coals used in
+steelmaking, such as coal used for the pulverised coal injection
+process
+Natural gas liquids
+Consists of propane, butane and ethane – individually or as a
+mixture.
+Non-operated asset/non-operated joint venture (NOJV)
+Non-operated assets/non-operated joint ventures include
+interests in assets that are owned as a joint venture but not
+operated by BHP. References in this Plan to a ‘joint venture’ are
+used for convenience to collectively describe assets that are not
+wholly owned by BHP. Such references are not intended to
+characterise the legal relationship between the owners of the
+asset.
 BHP Climate Transition Action Plan 24
 
 [Table 1 — Page 24]
@@ -1633,68 +1662,94 @@ whole-system modelling with global temperature outcomes
 approach taken in our Central Energy, Lower Carbon, or
 1.5°C scenarios.
 
-Operated assets (‘our operations’) Scope 3 Standard
-Operated assets include assets that are wholly owned and The GHG Protocol Corporate Value Chain (Scope 3) Accounting
-operated by BHP and assets that are owned as a joint venture and Reporting Standard, which allows companies to assess their
-and operated by BHP. References in this Plan to a ‘joint venture’ entire value chain emissions impact and identify where to focus
-are used for convenience to collectively describe assets that are reduction activities.
+Operated assets (‘our operations’)
+Operated assets include assets that are wholly owned and
+operated by BHP and assets that are owned as a joint venture
+and operated by BHP. References in this Plan to a ‘joint venture’
+are used for convenience to collectively describe assets that are
 not wholly owned by BHP. Such references are not intended to
-Scope 3 category
 characterise the legal relationship between the owners of the
-asset. One of the 15 types of Scope 3 emissions defined by the Scope
-3 Standard.
+asset.
 Operational boundaries
-Upstream emissions
 The boundaries that determine the direct and indirect GHG
 emissions associated with operations owned or controlled by the
-Indirect GHG emissions from purchased or acquired goods and
 reporting company.
-services.
 Operational emissions (‘operational GHG emissions’)
-Value chain emissions
-‘Operational emissions’ or ‘operational GHG emissions’ in this ‘Value chain emissions’ in this Plan refers to BHP’s reported
-Plan refers to the Scope 1 and Scope 2 emissions from our Scope 3 emissions inventory.
+‘Operational emissions’ or ‘operational GHG emissions’ in this
+Plan refers to the Scope 1 and Scope 2 emissions from our
 operated assets.
-Abbreviations key
 Operational GHG emissions of our direct suppliers
-‘Operational GHG emissions of our direct suppliers’ means the BF - blast furnace
-Scope 1 and Scope 2 emissions of our direct suppliers included BF-BOF - blast furnace-basic oxygen furnace
+‘Operational GHG emissions of our direct suppliers’ means the
+Scope 1 and Scope 2 emissions of our direct suppliers included
 in BHP’s Scope 3 reporting categories (under the Scope 3
-CA100+ - Climate Action 100+
 Standard) of ‘Purchased goods and services (including capital
-goods)’, ‘Fuel and energy related activities’, ‘Business travel’, CCUS - carbon capture, utilisation and storage and/or carbon
-and ‘Employee commuting’. capture and storage.
+goods)’, ‘Fuel and energy related activities’, ‘Business travel’,
+and ‘Employee commuting’.
 Scope 1 greenhouse gas emissions
-CO2-e - tonnes of carbon dioxide equivalent
-DRI - direct reduced iron
 Scope 1 greenhouse gas emissions are direct emissions from
-operations that are owned or controlled by the reporting DRI-EAF - direct reduced iron electric arc furnace
+operations that are owned or controlled by the reporting
 company. For BHP, these are primarily emissions from fuel
-EAF - electric arc furnace
 consumed by haul trucks at our operated assets, as well as
-fugitive methane emissions from coal and petroleum production ESG - Environment Social Governance
-at our operated assets. GHG - greenhouse gas
-Scope 2 greenhouse gas emissions H2 - hydrogen
-Scope 2 greenhouse gas emissions are indirect emissions from IEA - International Energy Agency
-the generation of purchased or acquired electricity, steam, heat IIGCC - Institutional Investors Group on Climate Change
+fugitive methane emissions from coal and petroleum production
+at our operated assets.
+Scope 2 greenhouse gas emissions
+Scope 2 greenhouse gas emissions are indirect emissions from
+the generation of purchased or acquired electricity, steam, heat
 or cooling that is consumed by operations that are owned or
-controlled by the reporting company. BHP’s Scope 2 emissions IMO - International Maritime Organisation
-have been calculated using the market-based method using IPCC - Intergovernmental Panel on Climate Change
+controlled by the reporting company. BHP’s Scope 2 emissions
+have been calculated using the market-based method using
 supplier specific emissions factors unless otherwise specified
-Kt CO2-e – kilotonnes of carbon dioxide equivalent
-Scope 3 greenhouse gas emissions LNG - liquefied natural gas
-Scope 3 greenhouse gas emissions are all other indirect Mt CO2-e - million tonnes of carbon dioxide equivalent
+Scope 3 greenhouse gas emissions
+Scope 3 greenhouse gas emissions are all other indirect
 emissions (not included in Scope 2) that occur in the reporting
-NSWEC - New South Wales Energy Coal
 company’s value chain. For BHP, these are primarily emissions
-resulting from our customers using and processing the OEM – original equipment manufacturer
+resulting from our customers using and processing the
 commodities we sell, as well as upstream emissions associated
-PPA – power purchasing agreement
 with the extraction, production and transportation of the goods,
-services, fuels and energy we purchase for use at our TCFD - Task Force on Climate-related Financial Disclosures
-operations; emissions resulting from the transportation and UN – United Nations
+services, fuels and energy we purchase for use at our
+operations; emissions resulting from the transportation and
 distribution of our products; and operational GHG emissions (on
 an equity basis) from our non-operated joint ventures.
+
+Scope 3 Standard
+The GHG Protocol Corporate Value Chain (Scope 3) Accounting
+and Reporting Standard, which allows companies to assess their
+entire value chain emissions impact and identify where to focus
+reduction activities.
+Scope 3 category
+One of the 15 types of Scope 3 emissions defined by the Scope
+3 Standard.
+Upstream emissions
+Indirect GHG emissions from purchased or acquired goods and
+services.
+Value chain emissions
+‘Value chain emissions’ in this Plan refers to BHP’s reported
+Scope 3 emissions inventory.
+Abbreviations key
+BF - blast furnace
+BF-BOF - blast furnace-basic oxygen furnace
+CA100+ - Climate Action 100+
+CCUS - carbon capture, utilisation and storage and/or carbon
+capture and storage.
+CO2-e - tonnes of carbon dioxide equivalent
+DRI - direct reduced iron
+DRI-EAF - direct reduced iron electric arc furnace
+EAF - electric arc furnace
+ESG - Environment Social Governance
+GHG - greenhouse gas
+H2 - hydrogen
+IEA - International Energy Agency
+IIGCC - Institutional Investors Group on Climate Change
+IMO - International Maritime Organisation
+IPCC - Intergovernmental Panel on Climate Change
+Kt CO2-e – kilotonnes of carbon dioxide equivalent
+LNG - liquefied natural gas
+Mt CO2-e - million tonnes of carbon dioxide equivalent
+NSWEC - New South Wales Energy Coal
+OEM – original equipment manufacturer
+PPA – power purchasing agreement
+TCFD - Task Force on Climate-related Financial Disclosures
+UN – United Nations
 US$/t CO2-e – United States dollars per tonne of carbon dioxide
 equivalent
 BHP Climate Transition Action Plan 25
