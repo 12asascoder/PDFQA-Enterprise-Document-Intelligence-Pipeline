@@ -9,7 +9,8 @@ from typing import Any, Dict, List, Optional
 from fastapi import APIRouter, Depends, Request
 from pydantic import BaseModel
 
-from storage.models import SearchLog
+from config import CONFIG
+from storage.models import SearchLog, SearchResult
 
 router = APIRouter()
 
@@ -74,6 +75,36 @@ def perform_search(req: SearchRequest, comps: dict = Depends(get_components)):
     # 3. Expand context if requested
     if req.expand_context:
         results = context_expander.expand(results)
+        
+    # [NEW] 3.5 Fallback Search directly in .txt files if no results found
+    if not results:
+        strategy = f"{strategy} + fallback_txt_search"
+        query_lower = req.query.lower()
+        
+        if CONFIG.extracted_dir.exists():
+            for txt_file in CONFIG.extracted_dir.glob("*.txt"):
+                try:
+                    with open(txt_file, "r", encoding="utf-8") as f:
+                        content = f.read()
+                        if query_lower in content.lower():
+                            # Found a match, create a dummy result
+                            import uuid
+                            snippet_start = max(0, content.lower().find(query_lower) - 100)
+                            snippet_end = min(len(content), snippet_start + len(req.query) + 200)
+                            snippet = content[snippet_start:snippet_end].replace("\n", " ")
+                            
+                            results.append(
+                                SearchResult(
+                                    chunk_id=int(uuid.uuid4().int % 10000),
+                                    doc_id=0,
+                                    score=1.0,
+                                    content=f"...{snippet}...",
+                                    filename=txt_file.name,
+                                    retrieval_source="fallback_txt"
+                                )
+                            )
+                except Exception:
+                    continue
         
     latency_ms = (time.time() - start_time) * 1000
     
