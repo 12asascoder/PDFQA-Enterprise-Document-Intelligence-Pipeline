@@ -3,8 +3,10 @@
 > **Production-ready**, end-to-end PDF processing pipeline that downloads the
 > [pdfQA-Benchmark](https://huggingface.co/datasets/pdfqa/pdfQA-Benchmark) dataset
 > from Hugging Face, validates every PDF, intelligently extracts text, performs
-> OCR only when required, detects layout and tables, cleans text, and saves a
-> `.txt` file for every processed PDF.
+> OCR only when required, detects layout, and saves `.txt` files.
+> 
+> **✨ NEW:** Now featuring a complete **Semantic Intelligence Layer** with chunking, 
+> hybrid search (BM25 + FAISS), knowledge graph extraction, and a **FastAPI** server!
 
 ---
 
@@ -22,33 +24,37 @@
    │             │                          │                │
    │ • Discover  │                          │ • pdfplumber   │
    │ • Validate  │                          │ • OCR fallback │
-   │ • Enqueue   │                          │ • Tables       │
-   │ • Progress  │                          │ • Layout       │
-   │ • Stats     │                          │ • Metadata     │
-   └─────────────┘                          │ • Clean        │
-                                            │ • Save .txt    │
-                                            └────────────────┘
+   │ • Enqueue   │                          │ • Layout       │
+   │ • Progress  │                          │ • Clean        │
+   │ • Stats     │                          │ • Save .txt    │
+   └─────┬───────┘                          └──────┬─────────┘
+         │                                         │
+         └────────────────────┬────────────────────┘
+                              │
+                    ┌─────────▼─────────┐
+                    │ Phase 7: Semantic │
+                    │ Enrichment        │
+                    └─────────┬─────────┘
+                              │
+   ┌──────────────────────────▼────────────────────────────┐
+   │  • Parse Hierarchy     • Semantic Chunking            │
+   │  • Embeddings (ST)     • Knowledge Graph (spaCy)      │
+   │  • SQLite Storage      • FAISS / BM25 Indexing        │
+   └──────────────────────────┬────────────────────────────┘
+                              │
+                    ┌─────────▼─────────┐
+                    │   FastAPI Server  │
+                    │ (Hybrid Search)   │
+                    └───────────────────┘
 ```
 
 ### Pipeline Flow
 
 ```
-Download → Discover → Validate → Enqueue → Extract → OCR* → Layout → Clean → Save
+Download → Discover → Validate → Enqueue → Extract → OCR* → Clean → Save → Parse → Chunk → Embed → Store
                                                       ↑
                                             * OCR only when pdfplumber
                                               returns None/empty (per page)
-```
-
-### Hybrid Extraction Logic (per page)
-
-```python
-for every page in the PDF:
-    text = pdfplumber.extract_text(page)
-    if text is None or text.strip() == "":
-        text = OCR(page)        # OpenCV preprocessing + Tesseract
-    else:
-        use pdfplumber output   # No OCR needed
-    merge all pages → final text
 ```
 
 ---
@@ -58,73 +64,50 @@ for every page in the PDF:
 ```
 PDFQA_PIPELINE/
 │
-├── app.py                          # Main entry point
+├── app.py                          # Main entry point (Runs Phases 1-7)
 ├── config.py                       # Central configuration
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
 │
-├── controller/
-│   ├── __init__.py
-│   └── controller.py               # Producer — validates & enqueues PDFs
+├── controller/                     # Producer — validates & enqueues PDFs
+├── worker/                         # Consumer — extracts, cleans, saves .txt
+├── downloader/                     # HuggingFace dataset downloader
+├── validation/                     # 10-check validation pipeline & Virus scanning
+├── extraction/                     # Hybrid Extractor (pdfplumber + OCR), Layout
+├── cleaner/                        # Post-extraction text normalisation
+├── ocr/                            # Tesseract OCR & OpenCV preprocessing
+├── queue_manager/                  # Thread-safe task queue
+├── utils/                          # Logging, colors, file I/O
 │
-├── worker/
-│   ├── __init__.py
-│   └── worker.py                   # Consumer — extracts, cleans, saves .txt
+├── storage/                        # ✨ NEW: Persistence Layer
+│   ├── database.py                 # SQLite WAL mode connection manager
+│   ├── models.py                   # Plain Dataclasses (Document, Chunk, Entity, etc.)
+│   └── repository.py               # CRUD operations
 │
-├── downloader/
-│   ├── __init__.py
-│   └── dataset_downloader.py       # HuggingFace dataset downloader
+├── semantic/                       # ✨ NEW: Intelligence Layer
+│   ├── document_parser.py          # Builds Section hierarchy from flat text
+│   ├── chunker.py                  # Structure-aware semantic chunking
+│   ├── document_representation.py  # Canonical JSON builder
+│   ├── embeddings.py               # sentence-transformers batch embedding
+│   ├── knowledge_graph.py          # spaCy NER and relationship extraction
+│   └── metadata_enricher.py        # TF-based keyword and doc type extraction
 │
-├── validation/
-│   ├── __init__.py
-│   ├── validator.py                # 10-check validation pipeline
-│   └── virus_scanner.py            # ClamAV abstraction + NoOp fallback
+├── search/                         # ✨ NEW: Search Engine
+│   ├── bm25_index.py               # Lexical search (rank_bm25)
+│   ├── vector_store.py             # Semantic search (faiss-cpu)
+│   ├── hybrid_search.py            # Reciprocal Rank Fusion (RRF)
+│   ├── reranker.py                 # Cross-encoder reranking
+│   ├── query_engine.py             # Intent classification & routing
+│   └── context_expander.py         # Parent/Child adjacent chunk retrieval
 │
-├── extraction/
-│   ├── __init__.py
-│   ├── hybrid_extractor.py         # pdfplumber-first + OCR fallback
-│   ├── table_extractor.py          # Table extraction & formatting
-│   ├── layout_detector.py          # Layout element detection
-│   └── metadata_extractor.py       # PDF metadata extraction
-│
-├── ocr/
-│   ├── __init__.py
-│   ├── ocr_engine.py               # Tesseract OCR with pdf2image
-│   └── image_preprocessor.py       # OpenCV preprocessing pipeline
-│
-├── cleaner/
-│   ├── __init__.py
-│   └── text_cleaner.py             # Post-extraction text normalisation
-│
-├── queue_manager/
-│   ├── __init__.py
-│   └── task_queue.py               # Thread-safe task queue
-│
-├── utils/
-│   ├── __init__.py
-│   ├── logger.py                   # Logging setup (pipeline.log + error.log)
-│   ├── colors.py                   # ANSI terminal colors
-│   └── file_utils.py               # File I/O helpers
-│
-├── tests/
-│   ├── __init__.py
-│   ├── test_validator.py           # Validation tests
-│   ├── test_cleaner.py             # Text cleaning tests
-│   └── test_extractor.py           # Extraction tests
-│
-├── logs/                           # Generated at runtime
-│   ├── pipeline.log                # All events (INFO+)
-│   └── error.log                   # Errors only (ERROR+)
+├── api/                            # ✨ NEW: REST Server
+│   ├── server.py                   # FastAPI application
+│   ├── routes_search.py            # Hybrid search endpoints
+│   ├── routes_documents.py         # Document retrieval endpoints
+│   └── routes_graph.py             # Knowledge Graph endpoints
 │
 ├── dataset/                        # Downloaded PDFs
-│   ├── ClimRetrieve/
-│   ├── FinanceBench/
-│   └── ...
-│
 └── extracted_files/                # Output .txt files
-    ├── report1.txt
-    ├── 3M_2022_10K.txt
-    └── ...
 ```
 
 ---
@@ -160,6 +143,8 @@ source venv/bin/activate        # Linux/macOS
 pip install -r requirements.txt
 ```
 
+*(Optional)* Run `python -m spacy download en_core_web_sm` to pre-download the spaCy NER model for the Knowledge Graph.
+
 ### 3. Optional: ClamAV (Virus Scanning)
 
 ```bash
@@ -172,7 +157,7 @@ sudo freshclam
 sudo systemctl start clamav-daemon
 ```
 
-If ClamAV is not installed, the pipeline will log a warning and skip virus scanning.
+If ClamAV is not installed, the pipeline will log a warning and skip virus scanning gracefully.
 
 ### 4. Downloading the Dataset
 
@@ -218,9 +203,7 @@ pdfQA-Benchmark/
 Install the Hugging Face CLI:
 ```bash
 pip install -U "huggingface_hub[cli]"
-```
-Now download only the PDF folder (this downloads only the `01.2_Input_Files_PDF` directory instead of the entire repository):
-```bash
+
 huggingface-cli download pdfqa/pdfQA-Benchmark \
     --repo-type dataset \
     --local-dir pdfQA-Benchmark \
@@ -248,154 +231,68 @@ After downloading using any method, you should see multiple PDF files inside the
 
 ## ▶️ Execution
 
+### 1. Run the Processing Pipeline
+
 ```bash
 cd PDFQA_PIPELINE
+source venv/bin/activate
 python app.py
 ```
 
-**That's it.** The pipeline will:
+The pipeline will:
+1. ✅ Download missing dataset files
+2. ✅ Discover all PDFs
+3. ✅ Validate each PDF (10 security & integrity checks)
+4. ✅ Extract text via Hybrid Engine (pdfplumber + OCR)
+5. ✅ Save `.txt` files
+6. ✅ **[NEW] Phase 7:** Parse into hierarchical sections, chunk, embed, extract knowledge graph, and save to SQLite/FAISS.
 
-1. ✅ Check for existing dataset → download if needed
-2. ✅ Discover all PDF files
-3. ✅ Launch worker threads
-4. ✅ Validate each PDF (10 checks)
-5. ✅ Extract text (pdfplumber + OCR fallback)
-6. ✅ Detect layout elements
-7. ✅ Clean extracted text
-8. ✅ Save `.txt` files to `extracted_files/`
-9. ✅ Display colorised progress in the terminal
-10. ✅ Print final statistics
+### 2. Run the API Server
+
+Once the pipeline has processed the documents, you can query them using the FastAPI server:
+
+```bash
+source venv/bin/activate
+python -m api.server
+```
+
+The server runs on `http://0.0.0.0:8000`. 
+Interactive API documentation:
+- **Swagger UI:** `http://localhost:8000/docs`
+- **ReDoc:** `http://localhost:8000/redoc`
 
 ---
 
 ## ⚙️ Configuration
 
-All settings are in [`config.py`](config.py):
+All settings are in [`config.py`](config.py). Key parameters include:
 
 | Setting | Default | Description |
 |---|---|---|
-| `worker_count` | `4` | Number of parallel extraction threads |
-| `ocr_dpi` | `300` | DPI for OCR image rendering |
-| `ocr_language` | `"eng"` | Tesseract language code |
-| `max_file_size_bytes` | `500 MB` | Maximum PDF file size |
-| `min_file_size_bytes` | `100` | Minimum file size (skip empty) |
-| `virus_scan_enabled` | `True` | Enable/disable ClamAV scanning |
-| `download_max_retries` | `3` | Retry count for failed downloads |
-| `download_timeout` | `120` | HTTP request timeout (seconds) |
-| `min_page_chars` | `10` | Minimum chars to consider a page non-blank |
+| `worker_count` | `4` | Parallel extraction threads |
+| `chunk_target_tokens`| `512` | Token length per semantic chunk |
+| `chunk_overlap_tokens`| `64` | Overlap for semantic continuity |
+| `embedding_model` | `all-MiniLM-L6-v2` | sentence-transformers model |
+| `db_path` | `storage_data/pdfqa.db` | SQLite database path |
+| `faiss_index_dir` | `storage_data/faiss_index`| FAISS vector store path |
 
 ---
 
-## 🔍 Validation Pipeline
+## 🔍 Hybrid Search Engine
 
-Every PDF passes through **10 checks** before extraction:
-
-| # | Check | Method |
-|---|---|---|
-| 1 | MIME type | `python-magic` (magic bytes) |
-| 2 | Extension | `.pdf` only |
-| 3 | File size | Configurable min/max |
-| 4 | Readability | Can the file be opened? |
-| 5 | Permissions | `os.access(R_OK)` |
-| 6 | Encryption | PyMuPDF `is_encrypted` |
-| 7 | Corruption | PyMuPDF page iteration |
-| 8 | SHA-256 dedup | In-memory hash registry |
-| 9 | Virus scan | ClamAV (graceful skip) |
-| 10 | Logging | All results to pipeline.log |
-
-Failed files are **skipped** — processing continues.
+The new search engine is highly advanced:
+1. **Query Intent Routing:** Analyzes queries (e.g., "compare X and Y", "what is Z") to adjust the blend of lexical vs semantic retrieval (`alpha` value).
+2. **Dual Retrieval:** Queries the BM25 Index (exact keywords) and FAISS Vector Store (semantic meaning) concurrently.
+3. **Reciprocal Rank Fusion (RRF):** Intelligently merges the rankings from both retrievers.
+4. **Cross-Encoder Reranking:** Re-scores the top hits using a cross-encoder model for maximum precision.
+5. **Context Expansion:** Fetches adjacent chunks and parent headings from the SQLite database to provide LLMs with complete surrounding context.
 
 ---
 
-## 🖥️ Terminal Output
+## 📊 Knowledge Graph
 
-### Controller (Terminal 1)
-```
-[Controller] Pipeline Controller Started
-[Controller] Found 150 PDF files
-
-============================================================
-[Controller] Processing [1/150] 3M_2022_10K.pdf
-[Controller]  ✓ Validation ✓
-[Controller]  ✓ Enqueued ✓
-============================================================
-```
-
-### Workers (Terminal 2)
-```
-[Worker-1] Worker Started
-[Worker-1] Received 3M_2022_10K.pdf
-[Worker-1] Running pdfplumber …
-[Worker-1] No text on Page 3 → OCR
-[Worker-1]  ✓ OCR ✓ (1 pages)
-[Worker-1]  ✓ Layout ✓
-[Worker-1]  ✓ TXT Saved ✓ → 3M_2022_10K.txt
-[Worker-1] File processed successfully (2.3s)
-[Worker-1] Waiting …
-```
-
----
-
-## 📊 Logging
-
-| File | Level | Content |
-|---|---|---|
-| `logs/pipeline.log` | INFO+ | All events: downloads, validation, extraction, timing |
-| `logs/error.log` | ERROR+ | Errors only: failed files, exceptions, tracebacks |
-
-Each log entry includes: timestamp, level, module, file name, duration, and method used.
-
----
-
-## 🧪 Testing
-
-```bash
-cd PDFQA_PIPELINE
-python -m pytest tests/ -v
-```
-
-Tests cover:
-- **Validation**: Valid PDF, invalid extension, empty file, oversized, duplicates, corruption, permissions
-- **Text Cleaning**: Unicode normalisation, broken words, whitespace, page numbers, headers
-- **Extraction**: pdfplumber text, blank PDF → OCR, mixed pages
-
----
-
-## 🔧 Troubleshooting
-
-| Issue | Solution |
-|---|---|
-| `tesseract not found` | Install: `brew install tesseract` (macOS) or `apt-get install tesseract-ocr` (Ubuntu) |
-| `poppler not found` | Install: `brew install poppler` (macOS) or `apt-get install poppler-utils` (Ubuntu) |
-| `python-magic` errors | Install libmagic: `brew install libmagic` (macOS) or `apt-get install libmagic1` (Ubuntu) |
-| Download failures | Check internet connection. The pipeline retries 3× with backoff. Delete partial `.part` files to restart. |
-| Memory issues (large PDFs) | Reduce `worker_count` in `config.py` or increase system RAM |
-| ClamAV warnings | Non-fatal. Install ClamAV or set `virus_scan_enabled = False` in config |
-
----
-
-## 📈 Performance Notes
-
-- **Worker count**: 4 workers is optimal for most machines. Increase for high-core-count systems.
-- **OCR is slow**: OCR pages take 5–30× longer than pdfplumber. The hybrid approach minimises OCR usage.
-- **Large datasets**: The FinanceBench subset alone has 200+ PDFs. Full processing may take 30–60 minutes.
-- **Disk space**: Expect ~500 MB for the dataset + ~50 MB for extracted text files.
-- **Resume support**: Re-run `python app.py` — already-downloaded files are skipped.
-
----
-
-## 🔮 Future Enhancements
-
-- [ ] GPU-accelerated OCR (Tesseract 5 / EasyOCR)
-- [ ] Parallel page-level OCR within a single PDF
-- [ ] PDF-to-Markdown conversion
-- [ ] Embedding generation for vector search
-- [ ] REST API wrapper (FastAPI)
-- [ ] Docker container for reproducible deployment
-- [ ] Support for additional datasets
-- [ ] LLM-based table structure inference
-- [ ] Incremental processing (skip already-extracted files)
-- [ ] HTML/XML output format options
+During **Phase 7**, the pipeline runs Named Entity Recognition (NER) via spaCy to identify critical entities (Organizations, People, Tech, Locations). It maps co-occurrences within sentences to build a dense Knowledge Graph of relationships. 
+This is stored relationally in SQLite and queryable via the `/api/v1/graph/` endpoints.
 
 ---
 

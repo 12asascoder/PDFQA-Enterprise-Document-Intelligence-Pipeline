@@ -31,6 +31,17 @@ class PipelineConfig:
     dataset_dir: Path = PROJECT_ROOT / "pdfQA-Benchmark" / "real-pdfQA" / "01.2_Input_Files_PDF"
     extracted_dir: Path = PROJECT_ROOT / "extracted_files"
     logs_dir: Path = PROJECT_ROOT / "logs"
+    storage_data_dir: Path = PROJECT_ROOT / "storage_data"
+
+    # ------------------------------------------------------------------
+    # Semantic & Search settings
+    # ------------------------------------------------------------------
+    db_path: Path = storage_data_dir / "pdfqa.db"
+    faiss_index_dir: Path = storage_data_dir / "faiss_index"
+    embedding_model: str = "all-MiniLM-L6-v2"
+    embedding_batch_size: int = 32
+    chunk_target_tokens: int = 512
+    chunk_overlap_tokens: int = 64
 
     # ------------------------------------------------------------------
     # HuggingFace dataset
@@ -115,6 +126,8 @@ class PipelineConfig:
             self.dataset_dir,
             self.extracted_dir,
             self.logs_dir,
+            self.storage_data_dir,
+            self.faiss_index_dir,
         ):
             directory.mkdir(parents=True, exist_ok=True)
 
