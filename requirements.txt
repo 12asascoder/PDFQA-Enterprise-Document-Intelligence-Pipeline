@@ -14,7 +14,18 @@ pdfplumber>=0.11.0
 PyMuPDF>=1.24.0
 
 # --- OCR -------------------------------------------------------------------
-pytesseract>=0.3.10
+pytesseract==0.3.13
+tqdm==4.66.2
+
+# Semantic & Search Dependencies
+sentence-transformers>=2.5.0
+faiss-cpu>=1.8.0
+rank-bm25>=0.2.2
+spacy>=3.7.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+numpy>=1.26.0
 pdf2image>=1.17.0
 
 # --- Image Processing ------------------------------------------------------

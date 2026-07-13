@@ -30,6 +30,7 @@ if str(PROJECT_ROOT) not in sys.path:
 from config import CONFIG
 from controller.controller import PipelineController
 from downloader.dataset_downloader import DatasetDownloader
+from pipeline.semantic_pipeline import SemanticPipeline
 from queue_manager.task_queue import TaskQueue
 from utils.colors import (
     bold,
@@ -195,10 +196,16 @@ def main() -> None:
         pbar.close()
 
     # --- Step 6: Final statistics -----------------------------------------
+    _print_final_stats(controller, workers, task_queue, time.time() - pipeline_start)
+    
+    # --- Step 7: Semantic Pipeline (Embeddings, Search, KG) ---------------
+    print(header("\n  Phase 7 — Semantic Enrichment\n"))
+    semantic = SemanticPipeline(CONFIG)
+    semantic.process_all()
+
     pipeline_end = time.time()
     total_elapsed = pipeline_end - pipeline_start
 
-    _print_final_stats(controller, workers, task_queue, total_elapsed)
     logger.info("Pipeline completed in %.1fs", total_elapsed)
 
 
