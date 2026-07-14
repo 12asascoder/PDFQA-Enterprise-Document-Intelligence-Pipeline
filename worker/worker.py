@@ -12,6 +12,7 @@ after individual failures.
 
 from __future__ import annotations
 
+import hashlib
 import logging
 import threading
 import time
@@ -24,6 +25,9 @@ from extraction.hybrid_extractor import ExtractionResult, HybridExtractor
 from extraction.layout_detector import LayoutDetector
 from extraction.metadata_extractor import MetadataExtractor
 from queue_manager.task_queue import TaskQueue
+from storage.database import Database
+from storage.models import Document
+from storage.repository import DocumentRepository
 from utils.colors import (
     bright_green,
     bright_red,
@@ -72,6 +76,10 @@ class ExtractionWorker:
         self._layout = LayoutDetector()
         self._metadata = MetadataExtractor()
         self._cleaner = TextCleaner(cfg)
+        
+        # Storage
+        self.db = Database(cfg.db_path)
+        self.doc_repo = DocumentRepository(self.db)
 
         # Stats
         self.processed: int = 0
@@ -149,17 +157,17 @@ class ExtractionWorker:
                 self._record_failure(fname)
                 return
 
-            # 5. Save .txt
-            output_path = self._save_txt(pdf_path, metadata, cleaned)
+            # 5. Save to DB
+            self._save_to_db(pdf_path, metadata, cleaned)
             elapsed = time.time() - start
-            print(f"{tag}{success(f'TXT Saved ✓ → {output_path.name}')}")
+            print(f"{tag}{success(f'DB Saved ✓ → {fname}')}")
             print(
                 f"{tag} {bright_green(f'File processed successfully ({elapsed:.1f}s)')}"
             )
 
             logger.info(
-                "Worker-%d saved %s — %s — %.1fs",
-                self._id, output_path.name,
+                "Worker-%d saved %s to DB — %s — %.1fs",
+                self._id, fname,
                 extraction.method_summary, elapsed,
             )
 
@@ -187,16 +195,13 @@ class ExtractionWorker:
     # ------------------------------------------------------------------
     # Helpers
     # ------------------------------------------------------------------
-    def _save_txt(
+    def _save_to_db(
         self,
         pdf_path: Path,
         metadata,
         cleaned_text: str,
-    ) -> Path:
-        """Write cleaned text to the output directory."""
-        output_dir = ensure_directory(self._cfg.extracted_dir)
-        output_path = pdf_to_txt_path(pdf_path, output_dir)
-
+    ) -> None:
+        """Write cleaned text directly to the database."""
         # Compose final content with metadata header
         content_parts = []
         if metadata.title or metadata.author:
@@ -205,9 +210,20 @@ class ExtractionWorker:
 
         content_parts.append(cleaned_text)
         final = "\n".join(content_parts)
+        
+        sha256 = hashlib.sha256(final.encode("utf-8")).hexdigest()
 
-        output_path.write_text(final, encoding="utf-8")
-        return output_path
+        doc = Document(
+            filename=pdf_path.name,
+            sha256=sha256,
+            page_count=metadata.page_count,
+            file_size_bytes=pdf_path.stat().st_size,
+            title=metadata.title,
+            author=metadata.author,
+            content=final,
+            status="extracted",
+        )
+        self.doc_repo.upsert(doc)
 
     def _record_failure(self, filename: str) -> None:
         self.processed += 1

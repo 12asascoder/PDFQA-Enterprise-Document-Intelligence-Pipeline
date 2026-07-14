@@ -33,7 +33,6 @@ from storage.repository import (
     SectionRepository,
 )
 from utils.colors import bright_green, cyan, header, success, warning
-from utils.file_utils import compute_sha256
 
 logger = logging.getLogger(__name__)
 
@@ -81,13 +80,13 @@ class SemanticPipeline:
         self.bm25_index = BM25Index()
 
     def process_all(self) -> None:
-        """Process all `.txt` files in the extracted_dir."""
+        """Process all `extracted` documents from the DB."""
         print(header("\n  Phase 7 — Semantic Enrichment Pipeline …\n"))
-        logger.info("Starting Semantic Pipeline on %s", self.cfg.extracted_dir)
+        logger.info("Starting Semantic Pipeline on extracted documents")
         
-        txt_files = sorted(self.cfg.extracted_dir.glob("*.txt"))
-        if not txt_files:
-            print(warning("No .txt files found to process."))
+        docs = self.doc_repo.get_all(status="extracted")
+        if not docs:
+            print(warning("No extracted documents found in DB to process."))
             return
 
         self.vector_store.load_or_create()
@@ -95,18 +94,18 @@ class SemanticPipeline:
         processed_count = 0
         total_chunks = 0
         
-        for file_path in txt_files:
+        for doc in docs:
             try:
-                chunks_added = self._process_file(file_path)
+                chunks_added = self._process_doc(doc)
                 if chunks_added > 0:
                     processed_count += 1
                     total_chunks += chunks_added
-                    print(success(f"Enriched: {file_path.name} ({chunks_added} chunks)"))
+                    print(success(f"Enriched: {doc.filename} ({chunks_added} chunks)"))
                 else:
-                    logger.debug("Skipped or 0 chunks: %s", file_path.name)
+                    logger.debug("Skipped or 0 chunks: %s", doc.filename)
             except Exception as exc:
-                logger.error("Failed to process %s: %s", file_path.name, exc, exc_info=True)
-                print(warning(f"Failed: {file_path.name} — {exc}"))
+                logger.error("Failed to process %s: %s", doc.filename, exc, exc_info=True)
+                print(warning(f"Failed: {doc.filename} — {exc}"))
 
         # Build BM25 after all documents are processed
         all_chunks = []
@@ -126,29 +125,14 @@ class SemanticPipeline:
         stats = self.db.table_counts()
         print(cyan(f"  Database Stats: {stats}"))
 
-    def _process_file(self, file_path: Path) -> int:
-        """Process a single file through the semantic pipeline."""
-        
-        # 1. Deduplication / Check if already processed
-        sha256 = compute_sha256(file_path)
-        existing_doc = self.doc_repo.get_by_filename(file_path.name)
-        
-        if existing_doc and existing_doc.sha256 == sha256 and existing_doc.status == "indexed":
-            # Already fully processed
+    def _process_doc(self, doc: Document) -> int:
+        """Process a single document from DB through the semantic pipeline."""
+        doc_id = doc.id
+        if doc_id is None:
             return 0
             
-        # 2. Initialize Document
-        text = file_path.read_text(encoding="utf-8")
-        
-        doc = Document(
-            filename=file_path.name,
-            sha256=sha256,
-            file_size_bytes=file_path.stat().st_size,
-            status="parsing"
-        )
-        
-        doc_id = self.doc_repo.upsert(doc)
-        doc.id = doc_id
+        # Update status
+        self.doc_repo.update_status(doc_id, "parsing")
         
         # Clear existing relations if re-processing
         self.section_repo.delete_by_doc(doc_id)
@@ -158,7 +142,7 @@ class SemanticPipeline:
         self.rel_repo.delete_by_doc(doc_id)
 
         # 3. Parse Sections
-        sections = self.parser.parse(text, doc_id)
+        sections = self.parser.parse(doc.content, doc_id)
         
         # 4. Enrich Metadata
         doc = self.enricher.enrich(doc, sections)

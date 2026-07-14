@@ -1,0 +1,36 @@
+[2026-07-14 23:06:06] [ERROR   ] [worker.worker       ] Worker-2 failed on 2022_BXP_ESG_Report.pdf: table documents has no column named content
+Traceback (most recent call last):
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/worker/worker.py", line 161, in _process_file
+    self._save_to_db(pdf_path, metadata, cleaned)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/worker/worker.py", line 226, in _save_to_db
+    self.doc_repo.upsert(doc)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/storage/repository.py", line 64, in upsert
+    cursor = self._db.execute(
+        """INSERT INTO documents
+    ...<8 lines>...
+        ),
+    )
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/storage/database.py", line 229, in execute
+    return conn.execute(sql, params)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table documents has no column named content
+[2026-07-14 23:06:46] [ERROR   ] [worker.worker       ] Worker-2 failed on AT&T 2022 Sustainability Summary.pdf: table documents has no column named content
+Traceback (most recent call last):
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/worker/worker.py", line 161, in _process_file
+    self._save_to_db(pdf_path, metadata, cleaned)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/worker/worker.py", line 226, in _save_to_db
+    self.doc_repo.upsert(doc)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/storage/repository.py", line 64, in upsert
+    cursor = self._db.execute(
+        """INSERT INTO documents
+    ...<8 lines>...
+        ),
+    )
+  File "/Users/arnavpuggal/Desktop/RSS/PDFQA_PIPELINE/storage/database.py", line 229, in execute
+    return conn.execute(sql, params)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table documents has no column named content

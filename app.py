@@ -32,6 +32,7 @@ from controller.controller import PipelineController
 from downloader.dataset_downloader import DatasetDownloader
 from pipeline.semantic_pipeline import SemanticPipeline
 from queue_manager.task_queue import TaskQueue
+from storage.database import Database
 from utils.colors import (
     bold,
     bright_cyan,
@@ -107,6 +108,9 @@ def main() -> None:
     # --- Step 2: Initialise queue and components --------------------------
     print(header("\n  Phase 2 — Pipeline Initialisation\n"))
     logger.info("=== Phase 2: Pipeline Initialisation ===")
+
+    # Initialize database
+    Database(CONFIG.db_path).initialize()
 
     task_queue = TaskQueue(max_size=CONFIG.queue_max_size)
 
