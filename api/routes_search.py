@@ -88,14 +88,17 @@ def perform_search(req: SearchRequest, comps: dict = Depends(get_components)):
                         content = f.read()
                         if query_lower in content.lower():
                             # Found a match, create a dummy result
-                            import uuid
+                            import hashlib
                             snippet_start = max(0, content.lower().find(query_lower) - 100)
                             snippet_end = min(len(content), snippet_start + len(req.query) + 200)
                             snippet = content[snippet_start:snippet_end].replace("\n", " ")
                             
+                            # Generate deterministic ID based on filename and position
+                            deterministic_id = int(hashlib.md5(f"{txt_file.name}:{snippet_start}".encode()).hexdigest(), 16) % 10000
+                            
                             results.append(
                                 SearchResult(
-                                    chunk_id=int(uuid.uuid4().int % 10000),
+                                    chunk_id=deterministic_id,
                                     doc_id=0,
                                     score=1.0,
                                     content=f"...{snippet}...",
