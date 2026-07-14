@@ -35,6 +35,7 @@ class Document:
     language: str = "en"
     metadata_json: str = "{}"
     status: str = "extracted"          # extracted | parsed | indexed
+    content: str = ""
     created_at: Optional[str] = None
     updated_at: Optional[str] = None
 

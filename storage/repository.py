@@ -50,12 +50,12 @@ class DocumentRepository:
                 """UPDATE documents SET
                     sha256=?, page_count=?, file_size_bytes=?, title=?,
                     author=?, doc_type=?, language=?, metadata_json=?,
-                    status=?, updated_at=CURRENT_TIMESTAMP
+                    status=?, content=?, updated_at=CURRENT_TIMESTAMP
                 WHERE id=?""",
                 (
                     doc.sha256, doc.page_count, doc.file_size_bytes,
                     doc.title, doc.author, doc.doc_type, doc.language,
-                    doc.metadata_json, doc.status, existing["id"],
+                    doc.metadata_json, doc.status, doc.content, existing["id"],
                 ),
             )
             self._db.commit()
@@ -64,13 +64,13 @@ class DocumentRepository:
         cursor = self._db.execute(
             """INSERT INTO documents
                 (filename, sha256, page_count, file_size_bytes, title,
-                 author, doc_type, language, metadata_json, status)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                 author, doc_type, language, metadata_json, status, content)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             (
                 doc.filename, doc.sha256, doc.page_count,
                 doc.file_size_bytes, doc.title, doc.author,
                 doc.doc_type, doc.language, doc.metadata_json,
-                doc.status,
+                doc.status, doc.content,
             ),
         )
         self._db.commit()
@@ -121,6 +121,7 @@ class DocumentRepository:
             language=row["language"],
             metadata_json=row["metadata_json"],
             status=row["status"],
+            content=row["content"],
             created_at=row["created_at"],
             updated_at=row["updated_at"],
         )

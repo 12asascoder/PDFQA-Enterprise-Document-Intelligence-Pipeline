@@ -38,6 +38,7 @@ CREATE TABLE IF NOT EXISTS documents (
     language        TEXT DEFAULT 'en',
     metadata_json   TEXT DEFAULT '{}',
     status          TEXT DEFAULT 'extracted',
+    content         TEXT DEFAULT '',
     created_at      TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at      TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
@@ -173,6 +174,13 @@ class Database:
 
         conn.executescript(_SCHEMA_SQL)
         conn.executescript(_INDEXES_SQL)
+        
+        # Safe migration for existing DBs to add the content column
+        try:
+            conn.execute("ALTER TABLE documents ADD COLUMN content TEXT DEFAULT ''")
+        except sqlite3.OperationalError:
+            pass  # Column likely already exists
+            
         conn.commit()
 
         self._initialized = True
